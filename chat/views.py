@@ -1,4 +1,5 @@
 from django.shortcuts import render
+from chat.services.llm import generate_answer
 
 # Create your views here.
 def index(request):
@@ -8,12 +9,13 @@ def index(request):
 def ask(request):
 
     question = request.POST.get("prompt")
+    answer = generate_answer(question)
 
     return render(
         request,
         "partials/answer.html",
         {
             "question": question,
-            "answer": "This is a fake answer."
+            "answer": answer
         }
     )
