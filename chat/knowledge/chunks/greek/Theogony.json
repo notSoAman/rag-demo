@@ -1,0 +1,1022 @@
+[
+  {
+    "chunk_id": 0,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "THEOGONY\nHesiod\nTranslated by \nMichael Heumann\nTheogony by Hesiod \ntranslated into English by Michael Heumann\n is licensed under a Creative Commons Attribution-NonCommercial-\nShareAlike 4.0 International License.\n© 2021 Michael Heumann\nTable of Contents\nIntroduction 2\nTheogony 5\nGlossary 35\nStudy Questions for Hesiod’s Theogony 48\nIntroduction\nGreek literature begins with Homer and Hesiod, and while Homer’s \nworks, the Iliad and the Odyssey, get most of the attention, Hesiod’s \ncontributions to Greek (and, by extension, western) culture are \narguably just as important. \nThe only surviving biographical information about Hesiod that still \nexists comes straight from the poet himself. Early in the Theogony, for \nexample, Hesiod mentions that he is a shepherd who tends sheep \nunder Mount Helicon in Boeotia, a region in central Greece. This is \nwhere he claims the Muses appeared to him and gave him the gift of \npoetry. In Work and Days, Hesiod also notes that he lived in Ascra, a \nsmall village",
+    "start_index": 0,
+    "end_index": 1004,
+    "length": 1004
+  },
+  {
+    "chunk_id": 1,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "n Boeotia, a region in central Greece. This is \nwhere he claims the Muses appeared to him and gave him the gift of \npoetry. In Work and Days, Hesiod also notes that he lived in Ascra, a \nsmall village near Mt. Helicon; that he has a brother, Perses, with \nwhom he was often at odds; that Hesiod’s and Perses’ father came to \nBoeotia from Aeolian Cyme in Anatolia; and that Hesiod himself rarely \nleft his home region save for one small trip across the 3 mile (4.8 km)-\nwide Euripus Strait from Aulis to Chalcis to participate in the funeral \ngames for Athamas of Chalcis, where he won a tripod in a singing \ncompetition—which he cites as evidence of the poetic gift given to him \nby the Muses. \nWhether these biographical details are accurate is uncertain, but it does \nprovide at least a starting point for investigating Hesiod’s writings. \nThe question of when Hesiod wrote is a bit more complex. However, it \nis likely that Hesiod and Homer wrote in the 8th century, shortly after \nthe emergence of",
+    "start_index": 804,
+    "end_index": 1805,
+    "length": 1001
+  },
+  {
+    "chunk_id": 2,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "nt for investigating Hesiod’s writings. \nThe question of when Hesiod wrote is a bit more complex. However, it \nis likely that Hesiod and Homer wrote in the 8th century, shortly after \nthe emergence of the Greek alphabet. This was a period of great \ncultural and economic growth after a very long dark ages that began \naround 1200 BCE when most of the major Mediterranean civilizations \n(including Hittite, Assyria, Babylonian, and Mycenaean) were wiped \nout by a combination of natural catastrophes, internal strife, and \ninvasion from a group known from history only as the Sea Peoples. \nBroadly speaking, then, Hesiod and Homer are writing during the \nsame historical period. They are also using a similar dialect of Greek, \nwhich is a variation of Ionic Greek that is usually referred to ask \nHomeric Greek or Epic Greek—a dialect as different from the Greek of \nClassical Greece as Shakespeare is different from modern English. \nTheogony\n3\nGiven these linguistic similarities, then, it is no surprise",
+    "start_index": 1605,
+    "end_index": 2609,
+    "length": 1004
+  },
+  {
+    "chunk_id": 3,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "Greek or Epic Greek—a dialect as different from the Greek of \nClassical Greece as Shakespeare is different from modern English. \nTheogony\n3\nGiven these linguistic similarities, then, it is no surprise that both \nauthors employ many of the same poetic conventions, such as the use \nof epithets, descriptive phrases that identify a characteristic of the \nperson or god in question (like “loud-thundering Zeus” or “grey-eyed \nAthena”). \nUltimately, what links Homer and Hesiod together is the simple fact \nthat both poets’ works are concerned with the gods and heroes of the \neastern Mediterranean—speciﬁcally a Mycenaean Greek culture that \nceased to exist hundreds of years before the poets were born and lived \non only in stories and legends. Of course, each poet goes about this \ntask differently. Homer’s epics tell speciﬁc stories about some of the \nkey ﬁgures in the Trojan War, and feature some of the most complex \nand fully-realized characters in all of literature. This is true of both the \nmortal",
+    "start_index": 2409,
+    "end_index": 3414,
+    "length": 1005
+  },
+  {
+    "chunk_id": 4,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "s epics tell speciﬁc stories about some of the \nkey ﬁgures in the Trojan War, and feature some of the most complex \nand fully-realized characters in all of literature. This is true of both the \nmortal characters like Achilles and Odysseus and the immortals like \nZeus and Athena. \nBy contrast, Hesiod’s Theogony uses a bigger canvas and focuses on the \nbiggest of pictures: the creation of the world and the heavens, the birth \nof the gods, the disputes and battles between the different generations \nof gods, and the various interaction between the gods and mortals. \nNone of this should come as a surprise since the word “theogony” in \nGreek literally means “the genealogy of the gods.” This, then, is the \nprinciple purpose of theis work: to tell the origin of the universe and \nthe subsequent generational development of the gods from primordial \nbeings like Nyx (Night) and Gaia (Earth) to Olympian gods like Zeus, \nAthena, and Hera. \nThat is not to say that there are no good stories here—far from",
+    "start_index": 3214,
+    "end_index": 4217,
+    "length": 1003
+  },
+  {
+    "chunk_id": 5,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "tional development of the gods from primordial \nbeings like Nyx (Night) and Gaia (Earth) to Olympian gods like Zeus, \nAthena, and Hera. \nThat is not to say that there are no good stories here—far from it. In \nfact, this brief work includes many of the most well-known stories \nfrom Greek mythology, including Cronos’s castration of Ouranos, the \nbirths of Aphrodite and Athena, the battle between the gods and the \nTitans, Prometheus, Heracles, Pegasus, Pandora, Jason and Medea, and \nPerseus and Medusa. There are also a lot of fascinating monsters, like \nthe Hundred-Handed, the Cyclopes, the Harpies, the Gorgons, \nEchidna, Orthrus, Cerberus, the Hydra of Lerna, the Chimera. \nIn short, Hesiod’s Theogony is a fascinating overview of Greek \nmythology, but it can be a tricky read given the fact that it revels in the \nsheer depth of the Greek pantheon of gods. There are over 400 \nHesiod\n4\ndifferent Greek gods, demigods, and other creatures mentioned in this \n1,022-line work, and keeping track of",
+    "start_index": 4017,
+    "end_index": 5018,
+    "length": 1001
+  },
+  {
+    "chunk_id": 6,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "t it revels in the \nsheer depth of the Greek pantheon of gods. There are over 400 \nHesiod\n4\ndifferent Greek gods, demigods, and other creatures mentioned in this \n1,022-line work, and keeping track of them all is a tall order even for \nexperienced readers of mythology. Therefore, to help simplify the task \nof learning about all these ﬁgures, I have included links to Wikipedia \narticles on most of the character and place names mentioned \nthroughout the poem. These links can be found at the ﬁrst mention of \neach name; for example, the link to the Wikipedia page on Zeus can be \nfound in line 11 but not in any subsequent mention of the god. For \nthose not reading the book digitally, I have also included a standard \nglossary of people and places; and though this glossary information is \nnot as comprehensive as that found online, it should sufﬁce for most \nreaders.\nTheogony\nWe begin our song with the Heliconian Muses \nwho hold high and holy mount Helicon\nand with their soft feet dance upon the",
+    "start_index": 4818,
+    "end_index": 5820,
+    "length": 1002
+  },
+  {
+    "chunk_id": 7,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "mprehensive as that found online, it should sufﬁce for most \nreaders.\nTheogony\nWe begin our song with the Heliconian Muses \nwho hold high and holy mount Helicon\nand with their soft feet dance upon the violet\nwaters and the altar of Cronos’ mighty son. \nAfter bathing their tender ﬂesh in the Permessus, \nHippocrene, or sacred Olmedius, they perform \ntheir chorals on the highest peaks of Helicon, \nsublime beauty ﬂowing freely from their feet.\nStarting there and shrouded in a great mist,\nthey travel by night, their beautiful voices \nsinging to aegis-bearing Zeus, to queen Hera\nof Argos who walks with golden sandals,\nto Athena, gleaming-eyed daughter of Zeus,\nto Phoebus Apollo, to shedder of arrows \nArtemis, to Earth-holder and Earth-shaker \nPoseidon, to venerable Themis, to darting-eyed \nAphrodite, to golden-crowned Hebe, to fair \nDione, to Leto and Iapetus and wily Cronos,\nto Eos and great Helios and bright Selene,\nto Gaia and great Oceanus and black Nyx,\nand to all other immortals who always",
+    "start_index": 5620,
+    "end_index": 6624,
+    "length": 1004
+  },
+  {
+    "chunk_id": 8,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": ", to golden-crowned Hebe, to fair \nDione, to Leto and Iapetus and wily Cronos,\nto Eos and great Helios and bright Selene,\nto Gaia and great Oceanus and black Nyx,\nand to all other immortals who always are.1\nThe Muses once taught Hesiod a beautiful \nsong as he tended lambs under holy Helicon. \nFirst, the goddesses, Olympian Muses, daughters \nof aegis-bearing Zeus, spoke these words to me:\n“Shepherds in ﬁelds, foul disgraces, nothing\nbut bellies—we know how to make lies into truth, \nand we know how to speak truth when we wish.” \nSo saying, Zeus’ eloquent daughters plucked a staff, \na ﬁne branch of blooming laurels, and gave it \nto me; they blew a divine voice into my mouth \nso I would glorify what was and what will be; \n1 Eos = Dawn, Helios = Sun, Selene = Moon, Gaia = Earth, Oceanus = the River \nthat circles the world (or just Oceans), Nyx = Night\nHesiod\n6\nand they ordered me to sing of those who \nalways were and of themselves ﬁrst and last.\nBut why do I speak of an oak or a rock?2\nWe begin",
+    "start_index": 6424,
+    "end_index": 7428,
+    "length": 1004
+  },
+  {
+    "chunk_id": 9,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "that circles the world (or just Oceans), Nyx = Night\nHesiod\n6\nand they ordered me to sing of those who \nalways were and of themselves ﬁrst and last.\nBut why do I speak of an oak or a rock?2\nWe begin with the Muses, who praise great\nfather Zeus on Olympus and so cheer his mind,\ntheir sweet, harmonic voices ﬂowing tirelessly\nfrom their mouths, singing of what is, what was,\nand what will be. The house of loud-thundering \nfather Zeus laughs at the goddesses’ lily-like voices, \nas do the peaks of snowy Olympus and mansions \nof the immortals. First, they sing a divine song \nto celebrate the beginning the race of gods, \nthose brought to life by Gaia and Ouranos,\nand those born of them, givers of good fortune.3\nThen they celebrate Zeus, father of gods and mortals,\nboth in the beginning of their song and the end,\nfor he is the best and greatest of all the gods.\nAgain, the Olympian Muses, daughters of aegis-\nbearing Zeus, please the mind of Olympian Zeus \nby singing of the races of Giants and of",
+    "start_index": 7228,
+    "end_index": 8230,
+    "length": 1000
+  },
+  {
+    "chunk_id": 10,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "ng and the end,\nfor he is the best and greatest of all the gods.\nAgain, the Olympian Muses, daughters of aegis-\nbearing Zeus, please the mind of Olympian Zeus \nby singing of the races of Giants and of humans.\nMnemosyne, guardian of the Eleutherae hills, \njoined with the son of Cronos on Pieria \nand bore the Muses to shun evil and dispel \ndistress. For nine nights, counselor Zeus mixed \nwith her in her sacred bed, away from the other\ngods. A year later, after the cycle of the seasons\nand the passing of many months and days, she \nbore nine like-minded maidens—their breasts \nﬁlled with song, their spirits free of woe—\nnear the highest peak of snowy Olympus, \na place of splendid choruses and beautiful \nmansions, where the Charities and Himeros \nhave their homes and festivities. Their lovely \nvoices celebrate the laws and customs of all \n2 In other words, “why do I speak of unimportant things?”\n3 Ouranos = Sky or Heavens\nTheogony\n7\nthe immortals in the songs they send forth.\nOn their way to",
+    "start_index": 8030,
+    "end_index": 9030,
+    "length": 1000
+  },
+  {
+    "chunk_id": 11,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "oices celebrate the laws and customs of all \n2 In other words, “why do I speak of unimportant things?”\n3 Ouranos = Sky or Heavens\nTheogony\n7\nthe immortals in the songs they send forth.\nOn their way to Olympus, their beautiful voices \nﬁlled the air with a divine song, the black earth \nechoed as they sang, and a lovely noise rose beneath \ntheir feet as they went to see their father, lord \nof the heavens and wielder of the ﬁery thunderbolt, \nwho defeated his father Cronos and distributed\nfairly the powers and honors to the immortals.\nThese were the songs of the Muses, whose\nhomes were on Olympus, the nine daughters \nof great Zeus: Clio, Euterpe, Thalia, \nMelpomene, Terpsichore, Erato, Polymnia, \nOurania, and Calliope, who was superior\nto all for she also accompanied revered kings.\nWhen a Zeus-nourished king is born, great\nZeus’ daughters honor him by pouring sweet \ndewdrops on his tongue, so words ﬂow like honey \nfrom his mouth. All his people look upon him \nas he solves disputes with sound",
+    "start_index": 8830,
+    "end_index": 9832,
+    "length": 1002
+  },
+  {
+    "chunk_id": 12,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "ourished king is born, great\nZeus’ daughters honor him by pouring sweet \ndewdrops on his tongue, so words ﬂow like honey \nfrom his mouth. All his people look upon him \nas he solves disputes with sound judgment, \nand his eloquent and truthful words quickly\nand fairly resolve even the bitterest conﬂict. \nThis is why kings are wise, for when people\ndo harm in the assembly, kings easily halt calls \nfor revenge and appease both sides with gentle \nwords. In markets they treat him with deference\nlike a god, and he stands out in a crowd. \nSuch are the gifts given to mortals by the Muses.\nMuses and far-shooting Apollo bring singers \nand lyre players to the earth, but Zeus makes \nkings; and mortals loved by the Muses are blessed, \nfor sweet words ﬂow from their mouths. If a singer \nwho serves the Muses sings about the famous \ndeeds of ancient men and women and the blessed \ngods who live on Olympus, then mortals whose\nsouls are fresh with pain and whose hearts\nburn with grief will instantly forget",
+    "start_index": 9632,
+    "end_index": 10633,
+    "length": 1001
+  },
+  {
+    "chunk_id": 13,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "es sings about the famous \ndeeds of ancient men and women and the blessed \ngods who live on Olympus, then mortals whose\nsouls are fresh with pain and whose hearts\nburn with grief will instantly forget their suffering\nand pain, diverted by the gifts of the goddesses.\nHesiod\n8\nWelcome, children of Zeus. Sing to me a lovely \nsong, a song of the divine race of immortals who \nalways are, those born of Gaia, starry Ouranos, \nand dark Nix and nourished by salty Pontus.\nTell us how the gods and earth ﬁrst came to be,\nand the rivers, the inﬁnite seas that swell with rage,\nthe shining stars, and the wide heavens above.\nTell us how the gods were born, givers of fortune, \nhow they divided riches and distributed honors, \nand how they ﬁrst took craggy Olympus. \nStart at the beginning, Muses with homes\non Olympus, and tell me: who was born ﬁrst?\nFirst there was Chaos, then broad-chested Gaia, \nthe steadfast seat of all immortals who live \nupon the snowy peaks of Olympus, then murky \nTartarus in the depths",
+    "start_index": 10433,
+    "end_index": 11438,
+    "length": 1005
+  },
+  {
+    "chunk_id": 14,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "mpus, and tell me: who was born ﬁrst?\nFirst there was Chaos, then broad-chested Gaia, \nthe steadfast seat of all immortals who live \nupon the snowy peaks of Olympus, then murky \nTartarus in the depths of the wide earth, and Eros, \nmost beautiful of the immortal gods, who weakens \nthe limbs and overwhelms the minds and wise \ncounsel in the breasts of all gods and humans.4\nChaos gave birth to Erebus and black Nix,\nand from Nyx came Aether and Hemera,\nconceived after Nyx joined in love with Erebus.5 \nFirst, Gaia bore starry Ouranos, her equal,\nto envelop her on all sides so she would be\nthe ever-secure home for the blessed gods.\nThen she bore tall Ourea,6 pleasant refuge\nfor the goddess Nymphs of the mountain\nforests, and the sterile, swelling seas of Pontus. \nAll of these she bore alone. Then she \n4 Eros = Desire\n5 Erebus = Darkness, Aether = Upper Sky (or air that the gods breathe), \nHemera = Day\n6 The Ourea are ten gods who personify different mountains, including \nOlympus, Helicon, and",
+    "start_index": 11238,
+    "end_index": 12239,
+    "length": 1001
+  },
+  {
+    "chunk_id": 15,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "she \n4 Eros = Desire\n5 Erebus = Darkness, Aether = Upper Sky (or air that the gods breathe), \nHemera = Day\n6 The Ourea are ten gods who personify different mountains, including \nOlympus, Helicon, and Etna. The Roman equivalent of the Ourea are called \nMontes, which is the origin of the word mountains.\nTheogony\n9\nbedded Ouranos and bore deep-whirling \nOceanus, Coeus, Crius, Hyperion, Iapetus, \nTheia, Rhea, Themis, Mnemosyne, golden-\ncrowned Phoebe, and fair Tethys. Then wily \nCronos was born, her youngest and most\ndreadful child, who hated his fearsome father.\nThen she bore the violent-hearted Cyclopes:\nBrontes, Steropes, and spirited Arges7. They\ngave thunder to Zeus and built thunderbolts,\nand they looked like the gods in every way\nbut one: they had only one eye in the middle \nof their foreheads. Because of this single,\ncircular eye, they were called Cyclopes. 8\nTheir strength was great, as was their craft.\nBut Gaia and Ouranos gave birth to three\nunspeakably huge and powerful sons:",
+    "start_index": 12039,
+    "end_index": 13039,
+    "length": 998
+  },
+  {
+    "chunk_id": 16,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "oreheads. Because of this single,\ncircular eye, they were called Cyclopes. 8\nTheir strength was great, as was their craft.\nBut Gaia and Ouranos gave birth to three\nunspeakably huge and powerful sons: \nCottus, Briareus, and Gyges, arrogant \nchildren. From their shoulders sprang \na hundred monstrous arms, with ﬁfty \nheads on each pair of sturdy shoulders, \nand immense strength in their massive forms.\nThese were the worst all those born to Gaia \nand Ouranos. Their father hated them \nfrom the moment they were born and hid them\nall in a secret corner of Gaia, never allowing \nthem into the light, and Ouranos rejoiced\nat his foul work. But Gaia groaned at the strain\nwithin her depths and devised a wicked plan.\nShe quickly made a large scythe using gray, \nimpenetrable steel and showed it to her children.\nThen she said to them, as her heart grieved:\n“My children, born to a wicked father, if you \n7 The Cyclopes are personiﬁcations of lightning and thunder: Brontes means \nThunder, Steropes means Lightning,",
+    "start_index": 12839,
+    "end_index": 13849,
+    "length": 1010
+  },
+  {
+    "chunk_id": 17,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "en she said to them, as her heart grieved:\n“My children, born to a wicked father, if you \n7 The Cyclopes are personiﬁcations of lightning and thunder: Brontes means \nThunder, Steropes means Lightning, and Arges means Bright\n8 The Greek word for Cyclopes is κθκλοτερής, which means round or circular.\nHesiod\n10\nchoose to obey, then avenge your father’s foul\ndisgrace, for he was the ﬁrst to plot evil deeds.”\nSo she said, but fear seized them, and no one \nsaid a word. But crooked-counselor Cronos\nboldly answered his noble mother, saying:\n“Mother, I pledge to complete this task;\nI do not care about our despicable father,\nfor he was the ﬁrst to plot evil deeds.”\nHearing this, colossal Gaia rejoiced in her heart. \nShe hid Cronos in an ambush, put a sharp-\ntoothed sword in his hands, and explained \nto him the whole plan. When Ouranos came, \ntowing night, he stretched himself out over \nGaia, desiring her love. Cronos reached out \nwith his left hand, took the jagged-toothed \nsickle in his right, and",
+    "start_index": 13649,
+    "end_index": 14652,
+    "length": 1003
+  },
+  {
+    "chunk_id": 18,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "him the whole plan. When Ouranos came, \ntowing night, he stretched himself out over \nGaia, desiring her love. Cronos reached out \nwith his left hand, took the jagged-toothed \nsickle in his right, and quickly cut off his dear \nfather’s genitals and threw them behind \nhim. But they did not fall in vain, for all \nthe blood-red drops that fell were caught \nby Gaia, and in time, she bore the mighty \nErinyes, the great Giants with bright armor \nand long spears, and the Nymphs called \nMeliae across the endless earth.9 Soon after \nthe genitals were cut by the sickle and thrown \ninto the agitated sea, they were carried through \nthe water for a long time, and a white foam \nsprang from the deathless ﬂesh, and inside \ngrew a young woman. First she came to sacred \nCythera and then to sea-bathed Cyprus, where \na beautiful goddess emerged with grass growing \naround her slender feet. Gods and mortals call her \nAphrodite, for she was born from the sea-foam, \nand fair-crowned Cytherea, for she reached",
+    "start_index": 14452,
+    "end_index": 15452,
+    "length": 998
+  },
+  {
+    "chunk_id": 19,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": ", where \na beautiful goddess emerged with grass growing \naround her slender feet. Gods and mortals call her \nAphrodite, for she was born from the sea-foam, \nand fair-crowned Cytherea, for she reached \nCythera, and also Cyprogenes for she was born \n9 Erinyes = Furies\nTheogony\n11\non sea-bathed Cyprus, and Philommedes10 for she \nsprang from genitals. Eros followed her, and fair\nHimeros stayed with her from the moment she \nwas born until she joined the race of the gods. \nShe had this honor from the beginning \nand obtained by lot from humans and immortal \ngods the secrets, smiles, deceptions, sweet delights, \nfriendliness, and gentleness of young women.\nTheir father, great Ouranos, rejected his sons\nand nicknamed them Titans, for he said they \nfoolishly stretched to commit a great deed \nand would one day pay a price for their actions.11\nNyx, though she had not slept with any other gods, \nbore terrible Moros, black Ker, and Thanatos, \nHypnos, the tribe of Oneiroi, and Momus, \ndeadly Oizys, and",
+    "start_index": 15252,
+    "end_index": 16254,
+    "length": 1002
+  },
+  {
+    "chunk_id": 20,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "one day pay a price for their actions.11\nNyx, though she had not slept with any other gods, \nbore terrible Moros, black Ker, and Thanatos, \nHypnos, the tribe of Oneiroi, and Momus, \ndeadly Oizys, and the Hesperides, who cared \nfor the beautiful, golden apples and the trees that \nbore them beyond famed Oceanus.12 She also bore \nthe Moirai and the pitilessly punishing Keres—\nClotho, Lachesis, and Atropos—who assign \ngood and evil to mortals at birth, who pursue \nthe wrongs of both mortals and gods, and who \nnever abandoned their terrible fury until they \ngave their dire punishments to wrongdoers.13 \nAnd deathly Nyx bore Nemesis, bringing \nwoe to mortals, and then bore Apate, Philotes, \n10 Philommedes literally means “lover of genitals”\n11 The word “titan” comes from the Greek word titano, which means to stretch, \nextend, or exert oneself. In other words, Ouranos is saying that the Titans went \ntoo far in their attack on him and would be punished for it one day.\n12 Moros = Doom, Ker = Deadly",
+    "start_index": 16054,
+    "end_index": 17058,
+    "length": 1003
+  },
+  {
+    "chunk_id": 21,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "means to stretch, \nextend, or exert oneself. In other words, Ouranos is saying that the Titans went \ntoo far in their attack on him and would be punished for it one day.\n12 Moros = Doom, Ker = Deadly Fate, Thanatos = Death, Hypnos = Sleep, \nOneiroi = Dreams, Momus = Satire/Mockery, Oizys = Misery, Hesperides = \nEvening\n13 Moirai and Keres are both terms representing the Fates. The three Fates \nmentioned here each perform a speciﬁc task when a child is born. Clotho spins \nthe thread of life; Lachesis measures the allotted thread (time) each life is \ngiven; and Atropos cuts the thread of life.\nHesiod\n12\nmournful Geras, and hard-hearted Eris.14\nAnd hated Eris bore woeful Ponos, Lethe, Limos, \nthe lamentable Algea, the Hysminai, the Machai, \nthe Phonoi, the Androktasiai, the Neikea, \nthe Pseudea, the Logoi, the Amphillogiai, \nthe Dysnomia, Atë, all similar to each other, \nand Horkos, who brings great misery to mortals\nwhen someone willingly swears a false oath.15\nPontus fathered truthful and",
+    "start_index": 16858,
+    "end_index": 17861,
+    "length": 1002
+  },
+  {
+    "chunk_id": 22,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": ", the Logoi, the Amphillogiai, \nthe Dysnomia, Atë, all similar to each other, \nand Horkos, who brings great misery to mortals\nwhen someone willingly swears a false oath.15\nPontus fathered truthful and sincere Nereus,\nhis oldest child; they call him Old Man,\nfor he is gentle and kind, never forgets customs,\nand makes fair and honest plans. Then he \nmixed again with Gaia and bore great Thaumas, \narrogant Phorcys, fair-cheeked Ceto, \nand Eurybia, whose heart is made of steel.\nMany children, all greatly desired, were \nborn in the barren sea to Nereus and fair-\nhaired Doris, daughter of ever-circling \nOcean: Protho, Eucrante, Sao, Amphitrite, \nand Eudora, Thetis, Galene, Glauce, \nand Cymothoe, swift Speo, beautiful \nThalia, Pasithea, Erato, rosy-armed Eunice,\ncharming Melite, Eulimene, Agave, Doto, \nProto, Pherusa, Dynamene, Nessea, Actaea, \nProtomedea, Doris, Panope, lovely Galatea, \nfair Hippothoe, rosy-armed Hipponoe, \nand Cymodoce who, along with Cymatolege \nand ﬁne-ankled Amphitrite, calm",
+    "start_index": 17661,
+    "end_index": 18664,
+    "length": 1003
+  },
+  {
+    "chunk_id": 23,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": ", \nProto, Pherusa, Dynamene, Nessea, Actaea, \nProtomedea, Doris, Panope, lovely Galatea, \nfair Hippothoe, rosy-armed Hipponoe, \nand Cymodoce who, along with Cymatolege \nand ﬁne-ankled Amphitrite, calm the dark \nsea’s waves and the stormy wind’s blasts; \n14 Nemesis = Vengeance, Apate = Deceit, Philotes = Friendship, Geras = Old \nAge, Eris = Strife\n15 Ponos = Hardship and Toil, Lethe = Forgetfulness, Limos = Starvation, Algea \n= Pain, Hysminae and Machai = various aspects of battle and combat, Phonoi \n= Murder, Androktasiai = Manslaughter, Neikea = Argument, Pseudea = Lies, \nLogoi = Stories, Amphillogiai = Disputes, Dysnomia = Anarchy, Atë = Hate \nand Ruin, Horkos = Oath\nTheogony\n13\nand Cymo, Eone, fair-crowned Halimede, \nsmiling Glauconome, Pontoporea, \nand Leagore, Eusagore, Laomeda, Polynoe, \nand Autonoe, Lusianassa, Euarne, who is \nﬁne in ﬁgure and blameless in beauty, \nand Psamathe, who is beautiful in body,\nand divine Menippe, Neso, Eupompe, \nThemisto, Pronoe, and Nemertess,\nwho has",
+    "start_index": 18464,
+    "end_index": 19465,
+    "length": 1001
+  },
+  {
+    "chunk_id": 24,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "e, \nand Autonoe, Lusianassa, Euarne, who is \nﬁne in ﬁgure and blameless in beauty, \nand Psamathe, who is beautiful in body,\nand divine Menippe, Neso, Eupompe, \nThemisto, Pronoe, and Nemertess,\nwho has the mind of her immortal father.\nThese came from the illustrious Nereus:\nﬁfty daughters all able to do great work.\nThaumas wed Electra, deep-ﬂowing \nOceanus’ daughter, and she bore swift Iris \nand the fair Harpies, Aello and Ocypete,\nwho had swift wings and soared high\nup in the air like the wind or the birds.\nTo Phorcys, Ceto bore the fair-cheeked, \ngrey-haired Graeae, so-called by mortals \nand immortals alike: ﬁne-robed Pemphredo\nand saffron-veiled Enyo. And she bore \nthe Gorgons who live beyond famed Oceanus \nat the edge of Nyx where the clear-voiced \nHesperides dwell: the immortal and ageless\nSthenno and Euryale, and the mortal Medusa, \nwho met a foul end. Dark-haired Poseidon \nslept with Medusa in a soft meadow surrounded \nby spring ﬂowers. When Perseus beheaded her, \nout sprang great",
+    "start_index": 19265,
+    "end_index": 20266,
+    "length": 1001
+  },
+  {
+    "chunk_id": 25,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "ess\nSthenno and Euryale, and the mortal Medusa, \nwho met a foul end. Dark-haired Poseidon \nslept with Medusa in a soft meadow surrounded \nby spring ﬂowers. When Perseus beheaded her, \nout sprang great Chrysaor and the horse Pegasus.\none named for the sword he held, the other\nfor being born beside the waters16 of Oceanus.\nPegasus left the earth, mother of sheep, and ﬂew\nto the immortals, and he lives in Zeus’ house,\nbringing thunder and lightning to counselor Zeus.\nChrysaor joined with Callirhoe, great daughter\nof Oceanus, and she bore three-headed Geryon,\n16 The Greek word πηγή (pegai) means water.\nHesiod\n14\nwho was killed by mighty Heracles beside \nhis tottering cattle on sea-bathed Erytheia\non the day he drove the broad-chested cattle\nacross the Oceanus streams to sacred Tiryns\nand killed Orthus and herdsman Eurytion\nin the dark stables across famed Oceanus.\nCeto also bore in a hollow cave another terrible \nmonster who is unlike any mortal or immortal \ngod: divine, dauntless Echidna,",
+    "start_index": 20066,
+    "end_index": 21066,
+    "length": 1000
+  },
+  {
+    "chunk_id": 26,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "d Orthus and herdsman Eurytion\nin the dark stables across famed Oceanus.\nCeto also bore in a hollow cave another terrible \nmonster who is unlike any mortal or immortal \ngod: divine, dauntless Echidna, who is one-half \nfair-eyed, beautiful nymph and one-half terrible, \nquick-moving serpent who eats raw ﬂesh \nin the hidden places under the earth. Her cave \nis beneath a hollow boulder, far from immortal \ngods and mortal humans. There the gods \nassigned pitiful Echidna glorious houses to live in, \nand the immortal and ageless nymph keeps \nwatch among the Arima under the earth.\nIt is said that the quick-glancing maiden Echidna\njoined with terrible, violent, and lawless Typhon,\nbecame pregnant, and bore fearsome children.\nFirst came the Orthrus, Geryon’s dog; then she \nbore the unmanageable, unspeakable Cerberus,\neater of raw ﬂesh, the bronze-voiced dog \nof Hades, ﬁfty-headed, merciless, and mighty.\nThen she bore foul-minded Hydra of Lerna,\nreared by the white-armed goddess Hera when \nshe was",
+    "start_index": 20866,
+    "end_index": 21867,
+    "length": 1001
+  },
+  {
+    "chunk_id": 27,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "eakable Cerberus,\neater of raw ﬂesh, the bronze-voiced dog \nof Hades, ﬁfty-headed, merciless, and mighty.\nThen she bore foul-minded Hydra of Lerna,\nreared by the white-armed goddess Hera when \nshe was monstrously angry with mighty Heracles.\nBut Heracles, son of Zeus and of Amphitryon,\nslew the Hydra with pitiless bronze, aided \nby warlike Iolaus and plunderer Athena’s counsel.\nAnd Echidna bore the invincible, ﬁre-breathing \nChimera: terrible, huge, swift, and powerful.\nShe had three heads: a savage lion, a she-goat, \nand a serpent, a mighty dragon; her front was \nlion, her middle was goat, her back was serpent,\nand she breathed terrible ﬁre. She was slain \nby Pegasus and noble Bellerophon. Chimera, \nTheogony\n15\nsubdued by Orthrus, bore deadly Sphinx, scourge \nof the Cadmeans, and the Nemean lion, \nthe bane of mortals, whom Hera, glorious wife \nof Zeus, raised and sent to live in Nemea. \nWhile dwelling there, it laid waste to the mortal\nraces and ruled Tretos in Nemea and Apesas;\nbut the",
+    "start_index": 21667,
+    "end_index": 22668,
+    "length": 1001
+  },
+  {
+    "chunk_id": 28,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "lion, \nthe bane of mortals, whom Hera, glorious wife \nof Zeus, raised and sent to live in Nemea. \nWhile dwelling there, it laid waste to the mortal\nraces and ruled Tretos in Nemea and Apesas;\nbut the strength of Hercules overpowered it.\nCeto made love to Phorcys and bore her youngest \nchild, a terrible snake who guards the golden \napples in the dark places at the end of the world. \nThese, then, are the children of Ceto and Phorcys.\nTethys bore to Oceanus the twisting rivers:\nNilus, Alpheus, the deep-swirling Eridanos,\nStrymon, Meander, beautiful-ﬂowing Ister,\nPhasis, Rhesus, the silver-waving Achelous,\nNessus, Rhodius, Haliacmon, Heptarorus, \nGrenicus, Aesepus, divine Simoeis, Peneius,\nHermus, fair-ﬂowing Caïcus, the great\nSangarius, Ladon, Parthenius, Euenus,\nAldescus, and the divine Scamander.\nAnd she bore divine daughters who raised \nyoung boys into men along with lord Apollo \nand the Potamoi, for this was Zeus’ charge \nto them: Peitho, Admete, Ianthe, Electra, \nDoris, Prymno, divine-formed",
+    "start_index": 22468,
+    "end_index": 23477,
+    "length": 1008
+  },
+  {
+    "chunk_id": 29,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "nd she bore divine daughters who raised \nyoung boys into men along with lord Apollo \nand the Potamoi, for this was Zeus’ charge \nto them: Peitho, Admete, Ianthe, Electra, \nDoris, Prymno, divine-formed Ourania, \nHippo, Clymene, Rhodea, Callirhoe, \nZeuxo, Clytie, Idyia, Pasithoe, Plexaura, \nGalaxaura, welcoming Dione, Melobosis, \nThoe, shapely Polydora, fair-formed Cerceis, \ndoe-eyed Pluto, Perseis, Ianeira, Acaste, \nXanthe, charming Petraea, Menestho, \nEuropa, Metis, Eurynome, saffron-veiled \nTelesto, Chryseis, Asia, fair Calypso, \nEudora, Tyche, Amphiro, Ocyrhoe, \nand Styx, who is without a doubt the greatest \nof them all. These were the oldest \nof the maidens born to Oceanus and Tethys, \nbut there are many others: three-thousand \nHesiod\n16\nthin-ankled daughters of Oceanus spread \nacross the earth and watery depths, all equal, \nshining children of goddesses. And many \nother loud-ﬂowing rivers, sons of Oceanus, \nwere born to queen Tethys; their names \nare difﬁcult for a mortal to recite,",
+    "start_index": 23277,
+    "end_index": 24278,
+    "length": 1001
+  },
+  {
+    "chunk_id": 30,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "e earth and watery depths, all equal, \nshining children of goddesses. And many \nother loud-ﬂowing rivers, sons of Oceanus, \nwere born to queen Tethys; their names \nare difﬁcult for a mortal to recite, but each \nis known by those who dwell near them.\nAnd Theia, taken in love by Hyperion, \nbore great Helios, bright Selene, and Eos, \nwho shines for all mortals upon the earth\nand for the gods who hold the broad heavens.\nAnd Eurybia, divine among goddesses, joined \nin love with Crius and bore great Astraeus, \nPallas, and Perses, famed for his knowledge.\nAnd Eos, a goddess in love with a god, \nbore to Astraeus the violent winds: clearing \nZephyrus, swift-moving Boreas, and Notus.\nAfter this, Eos bore early-born Heosphoros \nand the shining stars that crown the heavens.\nOceanus’ daughter Styx mixed with Pallas\nand bore in her palace Zelus, beautiful-ankled \nNike, Kratos, and Bia, famous children all.\nThey have no house but the house of Zeus,\nno seat, and no path besides the one the god\ngives them,",
+    "start_index": 24078,
+    "end_index": 25082,
+    "length": 1004
+  },
+  {
+    "chunk_id": 31,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "th Pallas\nand bore in her palace Zelus, beautiful-ankled \nNike, Kratos, and Bia, famous children all.\nThey have no house but the house of Zeus,\nno seat, and no path besides the one the god\ngives them, and always sit beside thundering Zeus.\nSo Styx, immortal daughter of Oceanus, decided\non the day the Olympian hurler of lightning \ncalled all immortal gods to great Olympus\nand said that whoever ﬁghts against the Titans\nwould not lose their privileges and would retain\nall of their honors among the immortal gods;\nand those who were denied honor by Cronos\nwould gain honor and privilege, as is their right.\nSo incorruptible Styx and her children, following\nher father’s plan, were ﬁrst to go to Olympus,\nand Zeus honored her and gave her great gifts,\nTheogony\n17\nmaking her the great oath of the gods17 and keeping\nher children beside him from that day on.\nAnd everything that he promised, he fulﬁlled,\nand he himself rules with greatness and might.\nPhoebe came to the much desired bed of Coeus,\nand",
+    "start_index": 24882,
+    "end_index": 25882,
+    "length": 1000
+  },
+  {
+    "chunk_id": 32,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "s17 and keeping\nher children beside him from that day on.\nAnd everything that he promised, he fulﬁlled,\nand he himself rules with greatness and might.\nPhoebe came to the much desired bed of Coeus,\nand the goddess, pregnant with a god’s love,\nbore dark-robed Leto, always gentle and kind \nboth to humans and to the immortal gods—gentle \nfrom the start, and kindest of those on Olympus.\nPhoebe also bore honorable Asteria, whom Perses\nled to his great house to become his loving wife.\nAsteria bore Hecate, whom Zeus, Cronos’ son, \nhonored above all others. He gave her splendid\ngifts: a portion of the earth and the sterile sea, \na share of the honor from the starry skies, \nand the highest honors from the immortal gods.\nNow, whenever humans upon the earth pray\nfor favors by offering beautiful sacriﬁces, they call \non Hecate. Much honor follows the ones whose \nprayers the goddess kindly accepts, and fortune \nfollows those so blessed—such is her power.\nFor all those born to Gaia and Ouranos were\ngranted",
+    "start_index": 25682,
+    "end_index": 26688,
+    "length": 1006
+  },
+  {
+    "chunk_id": 33,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "hey call \non Hecate. Much honor follows the ones whose \nprayers the goddess kindly accepts, and fortune \nfollows those so blessed—such is her power.\nFor all those born to Gaia and Ouranos were\ngranted honors, and Hecate had her share too.\nNor did the son of Cronos seek to deprive\nher of any honor she received from the Titans, \nand she retains all she was given in the beginning.\nNor does this goddess, an only child, have fewer \nhonors on the earth, in the sky, or in the sea; \nin fact, she has more, for Zeus himself honors her. \nWhen she comes and proudly aids someone,\nthat person will surpass all others in the assembly.\nWhen men arm themselves for deadly combat, \nthe goddess stands beside her chosen side, eager \nto grant victory and extend glory. She stands \nbeside revered kings during trials, she stands \n17 The gods swore all their oaths upon the Styx.\nHesiod\n18\nbeside horsemen that she chooses, and she stands \nbeside and helps those competing in contests.\nAnd when one gains victory by",
+    "start_index": 26488,
+    "end_index": 27488,
+    "length": 1000
+  },
+  {
+    "chunk_id": 34,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "ls, she stands \n17 The gods swore all their oaths upon the Styx.\nHesiod\n18\nbeside horsemen that she chooses, and she stands \nbeside and helps those competing in contests.\nAnd when one gains victory by strength or force, \nhe carries his prize with ease and joy and honors \nhis parents. And to those who work the gusty gray \nsea and pray to Hecate and the roaring Earth-\nshaker, the great goddess easily grants a great haul \nof ﬁsh, and just as easily takes it away, if her spirit \nso wishes. And along with Hermes, she excels \nat increasing livestock in pens: herds of cattle \nand wide goats, and ﬂocks of wooly sheep; \nshe can strengthen a herd or ﬂock or weaken it—\nwhatever her spirit desires. And though she is \nher mother’s only child, she is granted great honors \namong the immortals. And Cronos’ son made \nher nurse to all children who see with their eyes \nthe light of all-seeing Eos. Thus she was a nurse \nfrom the very start, and these are her honors.\nRhea was tamed by Cronos and bore him \nglorious",
+    "start_index": 27288,
+    "end_index": 28296,
+    "length": 1008
+  },
+  {
+    "chunk_id": 35,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "de \nher nurse to all children who see with their eyes \nthe light of all-seeing Eos. Thus she was a nurse \nfrom the very start, and these are her honors.\nRhea was tamed by Cronos and bore him \nglorious children: Hestia, Demeter, golden-\nsandaled Hera, mighty Hades whose ruthless \nheart lived beneath the earth, the loud-sounding \nEarth-shaker, and counselor Zeus, father of gods \nand mortals, whose thunder shakes the wide earth.\nGreat Cronos gulped the children down as soon as\nthey emerged from kneeling Rhea’s divine womb.\nHe wished to prevent Ouranos’ famed children\nfrom becoming king over the immortals, for he\nlearned from Gaia and starry Ouranos that,\nthough he was strong, his own son was fated\nto overthrow him through the plans of great \nZeus; thus he kept constant watch and swallowed\nhis children whole, bringing Rhea great grief.\nSo when she was about to bear Zeus, father \nof gods and mortals, she begged her dear parents,\nGaia and starry Ouranos, to devise a plan\nto let her bear her child",
+    "start_index": 28096,
+    "end_index": 29101,
+    "length": 1005
+  },
+  {
+    "chunk_id": 36,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "dren whole, bringing Rhea great grief.\nSo when she was about to bear Zeus, father \nof gods and mortals, she begged her dear parents,\nGaia and starry Ouranos, to devise a plan\nto let her bear her child in secret and avenge \nher father’s fury and the fury of her children\nwhom wily Cronos had swallowed. They\nTheogony\n19\nlistened to their dear daughter and obeyed her, \nrevealing to her all that was destined to happen \nto king Cronos and his stout-hearted son. \nThen they sent her to Lyctus, in the rich \nlands of Crete when she was ready to bear \nher youngest, great Zeus; once there, gigantic \nGaia would receive him, nurse him, and raise \nhim. So Rhea carried him through the quick \nblack night to Lyctus, took him in her hands,\nand hid him in a cave deep within holy \nGaia, in the dense forests of Mount Aegaeon.\nThen she took a stone, wrapped it in swaddling \nclothes, and gave it to Ouranos’ son, the Titan \nking. He grabbed the stone and swallowed it\ncruelly, unaware that his son remained free",
+    "start_index": 28901,
+    "end_index": 29901,
+    "length": 1000
+  },
+  {
+    "chunk_id": 37,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "Mount Aegaeon.\nThen she took a stone, wrapped it in swaddling \nclothes, and gave it to Ouranos’ son, the Titan \nking. He grabbed the stone and swallowed it\ncruelly, unaware that his son remained free \nand untroubled and would one day overpower \nhim, drive him from his place of honor, \nand become king of the immortals. \nLord Zeus’ strength and glorious limbs grew \nquickly, and after a year’s time, thanks to Gaia’s\nelegant deception, great crooked-counselor \nCronos vomited up his children, defeated\nby his son’s plans and his might. First, Cronos \nvomited up the stone, since he had swallowed \nit last; Zeus took the stone and placed it in sacred\nPytho, in the valleys around Parnassus, to be \na sign of wonder for mortals from that point on.18\nThen he freed his uncles, the Cyclopes, sons \nof Ouranos, from the bonds Cronos foolishly\ninﬂicted upon them. In return for his kindness, \nthey gave him thunder, blasting thunderbolts, \nand lightning, which before Gaia had concealed. \nWith these, Zeus",
+    "start_index": 29701,
+    "end_index": 30701,
+    "length": 999
+  },
+  {
+    "chunk_id": 38,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "ranos, from the bonds Cronos foolishly\ninﬂicted upon them. In return for his kindness, \nthey gave him thunder, blasting thunderbolts, \nand lightning, which before Gaia had concealed. \nWith these, Zeus rules over mortals and immortals.\nIapetus married Clymene, Oceanus’ fair-ankled\n18 Pytho is the ancient name for Delphi, so the stone in question is the \nOmphalos Stone at Delphi.\nHesiod\n20\ndaughter, went to bed with her, and she bore \nstout-hearted Atlas, illustrious Menoetius,\nshrewd and sly Prometheus, and scatter-brained\nEpimetheus, who became the bane of all mortals \nwho work for their bread, for he was the ﬁrst \nto accept Zeus’ moulded maiden.19 Far-seeing \nZeus hurled arrogant Menoetius down to Erebus \nwith a thunderbolt because of his foolishness \nand his reckless vanity. Atlas is forced to stand \nat the ends of the earth in front of the clear-\nvoiced Hesperides and hold up the wide heavens \nwith his head and tireless arms, for this is the fate \ncounselor Zeus assigned to him. And",
+    "start_index": 30501,
+    "end_index": 31501,
+    "length": 1000
+  },
+  {
+    "chunk_id": 39,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "ced to stand \nat the ends of the earth in front of the clear-\nvoiced Hesperides and hold up the wide heavens \nwith his head and tireless arms, for this is the fate \ncounselor Zeus assigned to him. And Zeus \nbound wily Prometheus in painful, unbreakable \nchains that were driven through the middle \nof a pillar, and he sent a wide-winged eagle \nto eat his immortal liver, but each night the liver \ngrew back as much as the wide-winged bird \nhad eaten that day. But Heracles, son of fair-\nankled Alcmene, killed the eagle, repelling \nthe foul fate of Iapetus’ son, freeing him \nfrom suffering, and adding to Theban-born\nHeracles’ great glory upon the bountiful earth.\nHigh-ruling Olympian Zeus approved, for he \nwished to honor his revered son, and so gave \nup the anger he held against Prometheus\nfor matching wits with Cronos’ mighty son. \nFor when gods and mortals met in Mecone,\nPrometheus cleverly divided a great ox \nand set it before him, hoping to deceive Zeus. \nFirst, he set down before him ﬂesh",
+    "start_index": 31301,
+    "end_index": 32304,
+    "length": 1003
+  },
+  {
+    "chunk_id": 40,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "ching wits with Cronos’ mighty son. \nFor when gods and mortals met in Mecone,\nPrometheus cleverly divided a great ox \nand set it before him, hoping to deceive Zeus. \nFirst, he set down before him ﬂesh and rich, \nfat entrails and hid them in the ox’s stomach;\nthen he cleverly set down the white ox bones\nand covered them with shining fat. Then\nthe father of gods and mortals said to him:\n“Dear son of Iapetus, noblest of all the gods,\n19 Pandora\nTheogony\n21\nyou have divided the portions unfairly.”\nSo said all-knowing Zeus, mocking him.\nBut with a smile, crooked-counselor Prometheus \nreplied to him, not forgetting his clever trick:\n“Glorious Zeus, greatest of all immortals,\nchoose whichever one your heart desires.”\nSo he said, deceptively. All-knowing Zeus\nspotted the deception, but he desired evil\nfor mortals, which he would fulﬁll. He took \nthe white fat with both hands, and when he saw \nthe white ox bones and realized the deception, \nhe exploded with rage, his mind ﬁlled with malice. \nEver",
+    "start_index": 32104,
+    "end_index": 33106,
+    "length": 1002
+  },
+  {
+    "chunk_id": 41,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "il\nfor mortals, which he would fulﬁll. He took \nthe white fat with both hands, and when he saw \nthe white ox bones and realized the deception, \nhe exploded with rage, his mind ﬁlled with malice. \nEver since then, mortals burn white bones \non smoking altars in offering to the gods.\nAnd a fuming cloud-gatherer Zeus told him:\n“So, dear son of Iapetus, noblest of all the gods,\nyou did not forget your clever tricks after all.”\nSo spoke an angry, all-knowing Zeus. \nAnd because of this deception, he refused\nto give the might of eternal ﬁre to the ash\ntrees for mortals who live upon the earth.20 \nBut the son of Iapetus tricked Zeus again\nby stealing the far-shining gleam of eternal \nﬁre in a hollow fennel stalk. It burned deep\nin high-thundering Zeus’ soul when he saw \nthe far-shining gleam of ﬁre among mortals,\nso he devised a wicked punishment for humans.\nFollowing the plans of Cronos’ son, famed \nHephaestus molded from earth a beautiful girl.\nThen the grey-eyed goddess Athena dressed\nher in",
+    "start_index": 32906,
+    "end_index": 33906,
+    "length": 1000
+  },
+  {
+    "chunk_id": 42,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "among mortals,\nso he devised a wicked punishment for humans.\nFollowing the plans of Cronos’ son, famed \nHephaestus molded from earth a beautiful girl.\nThen the grey-eyed goddess Athena dressed\nher in silvery clothes and covered her head \nwith a ﬁnely-crafted veil, a true wonder.\nAround her head Pallas Athena ﬁrst placed \n20 This relates to an early belief that ﬁre lived within trees; and ash trees were \nvery common in Greece.\nHesiod\n22\na garland of fresh ﬂowers of the meadow \nto arouse desire and then added a golden\ndiadem made by the hands of the famed Lame\nOne, Hephaestus, to please Zeus, his father.\nOn this he added many ﬁnely-made designs,\nterrible beasts that the land and sea nourish;\nhe made many of these, each one a shimmering \nmiracle, as real as a living, speaking creature. \nWhen he had built this ﬁne but evil creature, \nthe price for ﬁre, he led her out to the other gods\nand mortals, resplendent in the adornments\nof Zeus’ grey-eyed daughter. Gods and men\nalike were awed when",
+    "start_index": 33706,
+    "end_index": 34706,
+    "length": 999
+  },
+  {
+    "chunk_id": 43,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "he had built this ﬁne but evil creature, \nthe price for ﬁre, he led her out to the other gods\nand mortals, resplendent in the adornments\nof Zeus’ grey-eyed daughter. Gods and men\nalike were awed when they saw the steep \ndeception, which men could never control. \nFor she was mother to the race of females, \nwho live with men but are their greatest foe, \nalways a friend of luxury, never of poverty. \nJust as bees in roofed beehives feed drones,\ntheir partners in their foul deeds—every day,\nall day long until the sun goes down, the bees\nhurry about building their white honeycombs,\nwhile the drones sit inside the roofed beehives\nfeeding their stomachs on the toil of others—\nso also did high-thundering Zeus create women \nto be the bane of mortal men, partners in painful \ndeeds. And he exchanged another good for evil:\nhe who ﬂees marriage and women’s foul deeds\nand refuses to marry comes to old age deprived \nof a caretaker; when he lives, he lacks nothing,\nbut when he dies his relatives divide",
+    "start_index": 34506,
+    "end_index": 35507,
+    "length": 1000
+  },
+  {
+    "chunk_id": 44,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "nother good for evil:\nhe who ﬂees marriage and women’s foul deeds\nand refuses to marry comes to old age deprived \nof a caretaker; when he lives, he lacks nothing,\nbut when he dies his relatives divide his fortune.\nThe man who marries a worthy wife, one \nwhose mind is similar to his own, will see\ngood and evil in balance throughout his life.\nBut the man who takes a troublemaker \nfor a wife will know endless, incurable pain \nin his mind and heart during his life. \nThus, no one can deceive the mind of Zeus.\nNot even Iapetus’ son, gracious Prometheus,\nTheogony\n23\ncould escape a foul fate, for despite his sharp\nmind, a terrible burden holds him down. \nWhen Ouranos ﬁrst grew angry with Briareus,\nCottus, and Gyges, he bound them in strong \nchains, for he hated their arrogance, their looks, \nand their size and he made them live beneath \nthe broad earth. So they sat below, at the earth’s\nedge, living in pain and suffering greatly, \ntheir hearts ﬁlled with grief. But the son of Cronos \nand the other",
+    "start_index": 35307,
+    "end_index": 36311,
+    "length": 1004
+  },
+  {
+    "chunk_id": 45,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "size and he made them live beneath \nthe broad earth. So they sat below, at the earth’s\nedge, living in pain and suffering greatly, \ntheir hearts ﬁlled with grief. But the son of Cronos \nand the other immortals born in love to fair-haired \nRhea and Cronos returned them to the light \nwith the advice of Gaia, who told them the whole \nstory and showed them how these creatures \nwould help them win and gain great glory.\nThe Titans and those born to Cronos would \nbattle against one another for a very long time\nand suffer greatly—the Titans from high \nOthrys and from Olympus the gods, who bring \ngood things and who were born to fair-haired \nRhea after sleeping with Cronos. For ten\nlong years they fought one another, their spirits\nﬁlled with rage. And there was no resolution\nin sight, for both sides were evenly divided \nand the war’s outcome was uncertain.\nBut when Zeus offered the Hecatoncheires\nnectar and ambrosia,21 which the gods \nthemselves eat, their hearts and spirits were\nlifted. The the",
+    "start_index": 36111,
+    "end_index": 37113,
+    "length": 1001
+  },
+  {
+    "chunk_id": 46,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "were evenly divided \nand the war’s outcome was uncertain.\nBut when Zeus offered the Hecatoncheires\nnectar and ambrosia,21 which the gods \nthemselves eat, their hearts and spirits were\nlifted. The the father of gods and mortals\naddressed them and said to them:\n“Listen to me, bright children of Gaia \nand Ouranos, so I can say what is in my heart. \nWe have battled every day for a long time,\neach seeking victory and power, the Titans\nand we gods who were born from Cronos.\nSo use your great strength and untouchable \n21 Ambrosia is the food of the gods, and nectar is the drink.\nHesiod\n24\nhands and ﬁght with us against the Titans,\nfor we are your kind friends who freed you \nfrom your painful bonds and brought you\nout of the bitter dark and into the light.”\nSo he said, and at once great Cottus replied:\n“Noble sir, you say what we already know.\nWe know your mind and thoughts are superior\nand you defend the gods against icy ruin.\nYour wisdom, lord son of Cronos, brought \nus out of the gloomy darkness",
+    "start_index": 36913,
+    "end_index": 37919,
+    "length": 1005
+  },
+  {
+    "chunk_id": 47,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "“Noble sir, you say what we already know.\nWe know your mind and thoughts are superior\nand you defend the gods against icy ruin.\nYour wisdom, lord son of Cronos, brought \nus out of the gloomy darkness and freed us \nfrom unrelenting bonds, which we hope \nnever to experience again. Thus, with clear\nminds and eager spirits, we vow to defend \nyour power against the Titans in dread battle.” \nSo he said, and the gods who give glory heard\nhis words and approved. Their hearts desired \nwar more than ever before, and on that day all \nreadied for battle, men and women, the Titan\ngods and the children of Cronos as well as\nthose deﬁantly strong beings Zeus brought \nback to the light from Erebus under the earth,\neach of them with a hundred arms coming \nout of their shoulders, and ﬁfty heads growing \nfrom their shoulders on top of their giant \nlimbs. They took their places against the Titans\nwielding enormous stones in their large hands.\nBut the Titans quickly reinforced their battle \nlines, and both",
+    "start_index": 37719,
+    "end_index": 38719,
+    "length": 999
+  },
+  {
+    "chunk_id": 48,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "m their shoulders on top of their giant \nlimbs. They took their places against the Titans\nwielding enormous stones in their large hands.\nBut the Titans quickly reinforced their battle \nlines, and both sides readied their mighty \nhands. The endless seas echoed around them, \nthe great earth rumbled, the heavens groaned, \nand high Olympus shook from the ground up as \nthe immortals charged, and the rumble and cries \nreached all the way to deep Tartarus. So it was \nthat the two sides hurled their terrible spears \nat each other, their encouraging shouts reaching \nthe starry skies as the two sides converged.\nZeus unleashed the full fury of his heart \nTheogony\n25\nand the full force of his might. From both the sky\nand from Olympus, he hurled a constant barrage \nof lightning bolts, and the bolts, like a twisting \nﬁre, ﬂew closely-packed out of his gigantic hands \nalong with the ﬂash and thunder. All over, \nthe life-giving earth burned black, a loud \ncrackling ﬁlled the vast forests, and the earth",
+    "start_index": 38519,
+    "end_index": 39520,
+    "length": 1001
+  },
+  {
+    "chunk_id": 49,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "e a twisting \nﬁre, ﬂew closely-packed out of his gigantic hands \nalong with the ﬂash and thunder. All over, \nthe life-giving earth burned black, a loud \ncrackling ﬁlled the vast forests, and the earth \nand the streams of Oceanus and the seas all \nboiled. The hot ﬂames encircled the earth-\nborn Titans and reached the heavenly \naether, and for all their power, their eyes were \nblinded by the ﬂashing light of the bolts. \nDivine heat took hold of Chaos that looked \nto the eyes and sounded to the ears like \nGaia and Ouranos making love: the great \nsound that rose up when he pressed down \nupon her from on high, the sound of gods \nconverging in passion. And the wind stirred \na torrent of dust that mixed with the thunder-\nbolts and lightning—the weapons of great \nZeus—and these carried the cries and shouts \ninto the center between the two sides, \nand a terrifying noise of battle rose up, \nand mighty deeds were revealed.\nThen the battle turned. Earlier, they had \nconverged on each other and fought",
+    "start_index": 39320,
+    "end_index": 40323,
+    "length": 1003
+  },
+  {
+    "chunk_id": 50,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "shouts \ninto the center between the two sides, \nand a terrifying noise of battle rose up, \nand mighty deeds were revealed.\nThen the battle turned. Earlier, they had \nconverged on each other and fought steadily, \nbut then Cottus, Briareus, and battle-crazed\nGyges rose up from the front lines and hurled\nthree hundred boulders from their massive\nhands, one after another, and overwhelmed\nthe Titans with their blows, defeating them\nand sending them down beneath the earth \nand binding them there. As far below \nthe earth as the sky is above the earth—\nthat is the drop from earth to murky Tartarus.\nA bronze anvil falling from the sky for nine days \nand nights would reach the earth on the tenth day, \nand the same anvil falling from the earth for nine \nHesiod\n26\ndays and nights would reach Tartarus on the tenth.\nA bronze barrier surrounds Tartarus, and night\nis poured around its neck in three rows; and above\nit grow the roots of the earth and the sterile sea.\nThis is the murky netherworld where the",
+    "start_index": 40123,
+    "end_index": 41126,
+    "length": 1003
+  },
+  {
+    "chunk_id": 51,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "the tenth.\nA bronze barrier surrounds Tartarus, and night\nis poured around its neck in three rows; and above\nit grow the roots of the earth and the sterile sea.\nThis is the murky netherworld where the Titan \ngods were hidden by design of cloud-gatherer Zeus: \nan vile place at the very ends of the wide earth. \nThere is no escape, for Poseidon placed a bronze\ngate around it, and a wall surrounds it on all sides.\nThis is where Gyges, Cottus, and great-hearted \nBriareus live, the guards of aegis-bearing Zeus.\nAnd this is the source and limits of the dark \nearth, murky Tartarus, the barren sea, the starry \nheavens—dank, a terrible place that even the gods \nabhor: a great chasm. Those who come inside \nthe gates could never reach the chasm’s end\neven in a full year, for they would be blown\nthis way and that by one storm after another,\nmonstrous even for the immortal gods.\nAnd it is here where the palaces of Nyx\ncan be found, shrouded in black clouds.\nIt is here where Atlas, son of Iapetus, stands",
+    "start_index": 40926,
+    "end_index": 41930,
+    "length": 1004
+  },
+  {
+    "chunk_id": 52,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "nd that by one storm after another,\nmonstrous even for the immortal gods.\nAnd it is here where the palaces of Nyx\ncan be found, shrouded in black clouds.\nIt is here where Atlas, son of Iapetus, stands \nimmobile, holding the wide heavens with his head \nand sturdy hands, and Nyx and Hemera cross \npaths and greet each other as they pass the great \nbronze threshold, one going out the door \nand the other coming in, for both cannot be \nin the house at the same time, for one leaves \nthe house to pass around the earth while the other \nremains in the house waiting for her journey \nto begin. Hemera carries light for the earth; \nthe other holds in her hands Hypnos, brother \nof Thanatos—deadly Nyx, shrouded in clouds.\nAnd here Nyx’s children have their homes:\nHypnos and Thanatos, feared gods. Bright \nHelios never shines his light upon them when\nTheogony\n27\nhe rises in the sky or when he sets in the sky.\nHypnos travels gently over the earth and wide \nseas soothing human beings, but Thanatos\nhas an iron",
+    "start_index": 41730,
+    "end_index": 42734,
+    "length": 1004
+  },
+  {
+    "chunk_id": 53,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "os never shines his light upon them when\nTheogony\n27\nhe rises in the sky or when he sets in the sky.\nHypnos travels gently over the earth and wide \nseas soothing human beings, but Thanatos\nhas an iron heart and brazen soul, and when \nhe takes hold of a human, he does not let go.\nHe is hated even by the immortal gods.\nAnd here stand the echoing palaces of the god\nof the underworld, stout Hades and terrible\nPersephone. A fearsome dog22 ruthlessly \nguards the gates using a nasty trick: he wags\nhis tail and ears at those going in, but watches\nthem carefully and does not let them leave, \ndevouring those trying to go out the gates \nof stout Hades and terrible Persephone.\nAnd here lives a goddess loathed by immortals, \nterrible Styx, oldest daughter of ebbing Oceanus; \nshe lives aloof from other gods in a famous palace \nwith a large rock roof and silver pillars on all \nsides that reach to the heavens. Thauma’s \ndaughter, swift-footed Iris, rarely travels under \nthe broad back of the sea to deliver",
+    "start_index": 42534,
+    "end_index": 43539,
+    "length": 1005
+  },
+  {
+    "chunk_id": 54,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "in a famous palace \nwith a large rock roof and silver pillars on all \nsides that reach to the heavens. Thauma’s \ndaughter, swift-footed Iris, rarely travels under \nthe broad back of the sea to deliver her messages.\nWhen strife or quarrel stirs between the gods\nor when one with mansions on Olympus lies,\nZeus will send Iris to bring back a golden jug ﬁlled \nwith the great oath of the gods, the many named \nicy water that pours down from a high rock,\nﬂowing under the wide earth along the holy river,\na branch of Oceanus, a tenth of which is given \nto Styx. Nine parts ﬂow all over the earth \nand the sea’s wide back in silver, whirling spools \nbefore falling into the sea, but one part ﬂows\nfrom her rock, a great misery for the gods. \nImmortals with homes on Olympus’ snowy\npeaks who swear false oaths after pouring \nStygian waters will lie breathless for an entire \n22 Cerberus\nHesiod\n28\nyear, taking no ambrosia or nectar as sustenance \nbut lying spread out on a bed, breathless \nand speechless, enveloped",
+    "start_index": 43339,
+    "end_index": 44348,
+    "length": 1009
+  },
+  {
+    "chunk_id": 55,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "pouring \nStygian waters will lie breathless for an entire \n22 Cerberus\nHesiod\n28\nyear, taking no ambrosia or nectar as sustenance \nbut lying spread out on a bed, breathless \nand speechless, enveloped in a foul coma. \nWhen the punishment ends after a full year, \nthe gods receive another, even worse, test: \nnine years of exile from other eternal gods,\ntheir councils and their feasts. But in the tenth\nyear, the gods can again mingle with others\nwho have homes on Olympus. This is the oath \nthat the gods take with Styx’s primeval waters,\nwhich pour out from that rugged place.\nAnd here are found the limits of the dark \nearth and of dark Tartarus and the barren\nsea and the starry skies, one after another—\nterrible places that even the gods abhor.\nAnd here are the marble gates and unmovable\nbronze ﬂoor that is bound to the earth with self-\ngrown roots, and here the Titans live, separated \nfrom all other gods, on the far edges of murky \nChaos. The famed allies of loud-thundering Zeus \nalso live",
+    "start_index": 44148,
+    "end_index": 45149,
+    "length": 1000
+  },
+  {
+    "chunk_id": 56,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "ﬂoor that is bound to the earth with self-\ngrown roots, and here the Titans live, separated \nfrom all other gods, on the far edges of murky \nChaos. The famed allies of loud-thundering Zeus \nalso live here, far below the ﬂoor of Oceanus, \nCottus and Gyges, but Earth-shaker Poseidon\nmade noble Briareus his son-in-law by giving \nhim Cymopolea, his daughter, to marry.\nAfter Zeus drove the Titans from heaven, huge \nGaia joined with Tartarus and bore her youngest \nchild, Typhon, aided by golden Aphrodite. \nHis hands were strong and capable of great deeds, \nand his feet were tireless. A hundred snake heads \nsat on his shoulders, fearsome dragons with dark \nﬂickering tongues. Fire sparkled from the eyes\non each divine head, and with each look his eyes\nburned ﬁre. The voices in all the heads produced \nindescribable sounds. At times, they made sounds \nthe gods could understand; at other times, they \nbellowed loudly like a giant bull with unbelievable \nstrength or roared like a proud lion or cried",
+    "start_index": 44949,
+    "end_index": 45951,
+    "length": 1001
+  },
+  {
+    "chunk_id": 57,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "d \nindescribable sounds. At times, they made sounds \nthe gods could understand; at other times, they \nbellowed loudly like a giant bull with unbelievable \nstrength or roared like a proud lion or cried \nTheogony\n29\nlike a litter of puppies, amazing to behold, \nor they hissed and made the tall mountains echo. \nAnd terrible deeds would have happened \non that day, and Typhon would have ruled over \nmortals and gods alike had Zeus, father of gods \nand mortals, not been watching. He thundered loud \nand hard and the earth shook violently, as did \nthe heavens above and the seas and the Oceanic \nstreams and deep Tartarus. As lord Zeus rushed \nahead, all Olympus shook under his immortal feet, \nand the earth groaned. Beneath them, the violet \nsea was consumed by the heat of the thunder \nand lightning and the monster’s ﬂames and winds \nand blazing bolts. And the earth, sea, and sky \nall boiled, and the force of the immortals \nsent great waves crashing over the sea shores, \nand an endless quake arose;",
+    "start_index": 45751,
+    "end_index": 46753,
+    "length": 1002
+  },
+  {
+    "chunk_id": 58,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "d the monster’s ﬂames and winds \nand blazing bolts. And the earth, sea, and sky \nall boiled, and the force of the immortals \nsent great waves crashing over the sea shores, \nand an endless quake arose; and Hades, \nlord of the underworld, and the Titans \nin Tartarus around Cronos trembled in fear \nof the endless noise and terrible battle-strife.\nWhen Zeus had raised his might and taken \nhis weapons, thunder and lightning, he leapt\nfrom Olympus onto the terrifying monster\nand burnt all of his divine heads. Once \noverpowered by striking blows, Typhon fell \nover lame, and the wide earth groaned; and as \nhe was struck, ﬂames ﬂew from the thunderbolt \nlord in the dark, rocky mountain dells, and this \nawesome blast burnt much of the wide earth \nand melted it like tin that skilled young men \nheat in well-pierced melting pots or like iron, \nthe strongest of things, tamed in the mountain \ndells by blazing ﬁre and melted in the divine \nearth by skilled Hephaestus; so the ﬁre melted \nin the earth. And",
+    "start_index": 46553,
+    "end_index": 47556,
+    "length": 1003
+  },
+  {
+    "chunk_id": 59,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "ell-pierced melting pots or like iron, \nthe strongest of things, tamed in the mountain \ndells by blazing ﬁre and melted in the divine \nearth by skilled Hephaestus; so the ﬁre melted \nin the earth. And with rage in his heart, \nZeus hurled Typhon into broad Tartarus.\nFrom Typhon comes the might of the moist-\nblowing winds, separate from Notus, Boreas, \nHesiod\n30\nand clean Zephyrus, which are born of the gods\nand a proﬁt for mortals. The other winds blow \nrashly over the seas, bringing violent storms \nto murky waters and great woes to mortals.\nThey blow this way and that, scattering ships \nand killing sailors, and mortals who encounter\nthem on the seas are helpless against them. \nEven on the boundless, ﬂorid earth, they lay \nwaste to the beautiful works of humans,\nﬁlling them with dust and painful uproar.\nWhen the blessed gods ﬁnished their work\nand settled by force their battle with the Titans\nover honor, then with Gaia’s counsel they urged \nfar-seeing Zeus to become king and rule over all",
+    "start_index": 47356,
+    "end_index": 48358,
+    "length": 1002
+  },
+  {
+    "chunk_id": 60,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "ful uproar.\nWhen the blessed gods ﬁnished their work\nand settled by force their battle with the Titans\nover honor, then with Gaia’s counsel they urged \nfar-seeing Zeus to become king and rule over all \nimmortals, and he divided their honors among them.\nZeus, king of the gods, took as his ﬁrst wife Metis, \nwho knows more than any other god or mortal.\nBut when she was about to give birth to gleaming-\neyed goddess Athena, he deceived her with cunning \nwords by putting Athena into his belly, taking\nthe advice of Gaia and starry Ouranos. They\nprophesied that one of the other immortal gods\nwould hold the honors of king instead of Zeus,\nfor Metis would one day bear very wise children:\nﬁrst she would bear gleaming-eyed Tritogeneia, \nwho had strength and wisdom equal to her father, \nand then a son, a king of gods and mortals, \nwith a violent heart. But before this happened, \nZeus put Athena in his own belly, so the goddess \nwould advise him on good and evil.\nHis second marriage was to shining Themis,",
+    "start_index": 48158,
+    "end_index": 49164,
+    "length": 1006
+  },
+  {
+    "chunk_id": 61,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "g of gods and mortals, \nwith a violent heart. But before this happened, \nZeus put Athena in his own belly, so the goddess \nwould advise him on good and evil.\nHis second marriage was to shining Themis, who \nbore the Horae—Eunomia, Dike, and prosperous \nEirene—who23 protect the works of mortals;24\n23 Eunomia = Lawfulness, Dike = Justice, Eirene = Peace\n24 Horae = Seasons/Passage of Time, Eunomia = Order, Dike = Justice, Eirene = \nPeace\nTheogony\n31\nand the Moirai—Clotho, Lachesis, and Atropos—\nto whom counselor Zeus gives the greatest honor, \nfor they give mortal humans both good and evil.\nThen Eurynome, beautiful daughter of Oceanus,\nbore for him the three fair-cheeked Charities:\nAglaea, Euphrosyne, and charming Thalia; limb-\nrelaxing desire falls from their eyes at every glance, \nfor they are beautiful to behold under their brows.\nThen bountiful Demeter came to his bed and bore \nwhite-armed Persephone, taken from her mother \nby Hades with the approval of counselor Zeus.\nThen he fell in love",
+    "start_index": 48964,
+    "end_index": 49968,
+    "length": 1004
+  },
+  {
+    "chunk_id": 62,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "eautiful to behold under their brows.\nThen bountiful Demeter came to his bed and bore \nwhite-armed Persephone, taken from her mother \nby Hades with the approval of counselor Zeus.\nThen he fell in love with fair-haired Mnemosyne,\nane she bore the nine Muses with golden bands,\nwho delight in festivals and the joy of song.\nThen aegis-bearing Zeus joined in love with Leto,\nand she bore Apollo and Artemis, shedder\nof arrows, loveliest of all Ouranos’ children.\nFinally, Zeus made Hera his ﬂourishing wife,\nand she joined in love with the king of gods\nand mortals and bore Hebe, Ares, and Eileithyia.\nZeus bore from his own head bright-eyed Athena,\nthe revered rouser of terrible war and untiring \nleader who delights in the chaos of battle;\nthis made Hera furious, so without mingling \nin love she bore famed Hephaestus, whose \nskilled hands surpassed all of Ouranos’ children.\nAnd Amphitrite bore for the loud-roaring Earth-\nshaker great and mighty Triton, who holds the sea\nbottom and dwells in a golden",
+    "start_index": 49768,
+    "end_index": 50772,
+    "length": 1004
+  },
+  {
+    "chunk_id": 63,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "med Hephaestus, whose \nskilled hands surpassed all of Ouranos’ children.\nAnd Amphitrite bore for the loud-roaring Earth-\nshaker great and mighty Triton, who holds the sea\nbottom and dwells in a golden palace with his dear \nmother and lordly father, a feared god.\nAnd Cytherea bore for shield-piercing Ares terrible \nHesiod\n32\nPhobos and Deimos,25 who drive the battle lines \nof men into confusion with Ares, destroyer of cities, \nand Harmonia, who became wife of Cadmus.\nAnd Zeus took Maia, daughter of Atlas, to bed, \nand she bore famed Hermes, herald of the gods.\nSemele, daughter of Cadmus, joined with Zeus \nand bore delightful Dionysus, a mortal woman \nbearing an immortal son, but now both are gods.\nAnd Alcmene joined in love with cloud-gatherer \nZeus and gave birth to the mighty Heracles.\nAnd Hephaestus, famed for his twisted legs,\ntook as wife Aglaea, youngest of the Charities.\nAnd golden-haired Dionysus took as his wife\nblonde Ariadne, Minos’ daughter, and the son\nof Cronos made her immortal",
+    "start_index": 50572,
+    "end_index": 51578,
+    "length": 1006
+  },
+  {
+    "chunk_id": 64,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "aestus, famed for his twisted legs,\ntook as wife Aglaea, youngest of the Charities.\nAnd golden-haired Dionysus took as his wife\nblonde Ariadne, Minos’ daughter, and the son\nof Cronos made her immortal for his sake.\nThe strong son of fair-ankled Alcmene, mighty\nHercules, took Hebe, daughter of great Zeus \nand golden-sandaled Hera, as his revered wife\non snowy Olympus, after completing his painful \ntasks, for he now lives unharmed and ageless\namong the immortals for the rest of days.\nAnd Perseis, famed daughter of Oceanus, bore \nCirce and King Aeëtes for untiring Helios.\nAeetes, son of light-bringing Helios, married\nthe daughter of unending-river Oceanus,\nbeautiful-cheeked Idyia, by will of the gods;\nand she, overcome by the passion of golden \nAphrodite, gave birth to fair-cheeked Medea.\nNow farewell to you with homes on Olympus,\n25 Phobos = Fear, Demios = Terror\nTheogony\n33\nand the islands, mainlands, and salt seas within.\nNow, sweet-voiced Olympian Muses, daughters\nof aegis-bearing Zeus,",
+    "start_index": 51378,
+    "end_index": 52380,
+    "length": 1002
+  },
+  {
+    "chunk_id": 65,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "arewell to you with homes on Olympus,\n25 Phobos = Fear, Demios = Terror\nTheogony\n33\nand the islands, mainlands, and salt seas within.\nNow, sweet-voiced Olympian Muses, daughters\nof aegis-bearing Zeus, sing of the race of goddesses, \nthose who lay in beds with immortals and mortals \nand who bore children equal to the gods.\nThe divine goddess Demeter mingled in love \nwith heroic Iasius in a thrice-plowed ﬁeld in Crete’s \nbountiful lands and bore noble Plutus,26 who travels \nall over the earth and the wide sea’s back; whoever \nhappens upon him and comes into his arms \nis made rich, for he grants them great wealth. \nHarmonia, golden Aphrodite’s daughter bore\nto Cadmus Ino, Semele, fair-cheeked Agave,\nand Autonoë, who married long-haired Aristaeus,\nand Polydorus, in fair-meadowed Thebes.\nCallirhoe, daughter of Oceanus, mingled \nin Aphrodite’s love with stout-hearted Chrysaor,\nand bore the strongest of all mortals, Geryon,\nwho was killed by mighty Hercules over \nhis oxen with rolling feet in",
+    "start_index": 52180,
+    "end_index": 53180,
+    "length": 1000
+  },
+  {
+    "chunk_id": 66,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "hoe, daughter of Oceanus, mingled \nin Aphrodite’s love with stout-hearted Chrysaor,\nand bore the strongest of all mortals, Geryon,\nwho was killed by mighty Hercules over \nhis oxen with rolling feet in sea-girt Erytheia.\nAnd Eos bore to Tithonus bronze-helmed \nMemnon, Ethiopian king, and lord Emathion.\nBut to Cephalus she bore a shining son, \nstrong Phaethon, a god among mortals.\nWhen he was a delicate child in the soft bloom \nof youth, laughter-loving Aphrodite snatched\nhim up and made him the night guardian \nof her sacred temples, a divine spirit.\nBy will of the immortal gods, Jason, Aeson’s son, \nled the daughter of Zeus-blessed King Aeëtes \naway after completing the many grueling tasks \nassigned to him by the arrogant king, the violent-\n26 Plutus is the god of wealth; his name is the origin of the word “plutocracy,” \nrule by the wealthy.\nHesiod\n34\nminded Pelias. After enduring many hardships, \nhe came to Iolcus in a swift ship with glancing-\neyed Medea, daughter of Aeëtes, and made her",
+    "start_index": 52980,
+    "end_index": 53983,
+    "length": 1003
+  },
+  {
+    "chunk_id": 67,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "n of the word “plutocracy,” \nrule by the wealthy.\nHesiod\n34\nminded Pelias. After enduring many hardships, \nhe came to Iolcus in a swift ship with glancing-\neyed Medea, daughter of Aeëtes, and made her \nhis blushing bride. She joined in love with Jason,\nshepherd of the people, and bore Medus, \nwho was raised in the mountains by Chiron,\nson of Philyra. Thus Zeus’ will was fulﬁlled.\nOf the daughters of Nereus, Old Man of the Sea,\ndivine Psamathe joined with Aeacus in the love \nof golden Aphrodite and bore Phocus, while \nsilver-footed Thetis joined with Peleus and bore \nlion-hearted Achilles, router of enemies.\nAnd fair-crowned Cytherea bore Aeneas,\njoining in love with the hero Anchises\non the peaks of windy Ida, rich in valleys.\nCirce, daughter of Helios, son of Hyperion,\njoined in love with stout-hearted Odysseus\nand bore Agrius and Latinus, noble and strong;\nand she bore Telegonus thanks to golden \nAphrodite. They ruled over the famed\nTyrrhenians, far away in the holy islands.27\nDivine",
+    "start_index": 53783,
+    "end_index": 54783,
+    "length": 1000
+  },
+  {
+    "chunk_id": 68,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "stout-hearted Odysseus\nand bore Agrius and Latinus, noble and strong;\nand she bore Telegonus thanks to golden \nAphrodite. They ruled over the famed\nTyrrhenians, far away in the holy islands.27\nDivine Calypso joined in love with Odysseus \nand bore Nausithous and Nausinous.\nThese are goddesses who lay with mortal \nmen and bore children equal to the gods.\nNow, Olympian Muses, daughters of aegis-\nbearing Zeus, sing of the race of women.28\n27 This is an apparent reference to Italy, which in Hesiod’s time was more a \nplace of legend.\n28 These two lines are both the end of Theogony and the start of the Catalog of \nWomen, a Greek epic poem naming the heriones who slept with gods and bore \ntheir offspring, only fragments of which still exist.\nGlossary\nAchelous: God of the river Achelous in Greece, 340\nAcaste: Oceanid, daughter of Oceanus and Tethys, and companion of \nPersephone, 355\nAchilles: Son of King Peleus of Phthia and Thetis, grandson of Aeacus, \ncousin of Telamonian Ajax, and leader of",
+    "start_index": 54583,
+    "end_index": 55583,
+    "length": 999
+  },
+  {
+    "chunk_id": 69,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "340\nAcaste: Oceanid, daughter of Oceanus and Tethys, and companion of \nPersephone, 355\nAchilles: Son of King Peleus of Phthia and Thetis, grandson of Aeacus, \ncousin of Telamonian Ajax, and leader of the Myrmidons in the Trojan \nWar, 1007\nAdmete: Oceanid, daughter of Oceanus and Tethys, a companion of \nPersephone when Hades abducted her, 349\nAeacus: King of Aegina, son of Zeus and Aegina, father of Peleus, \nTelamon, and Phocus, and grandfather of Achilles and Ajax, 1004\nAeëtes: King of Colchis, son of Helios and Perseis, brother of Circe, \nhusband of Idyia, and father of Medea, 957\nAegaeon (Mt.): Mountain on the island of Crete, and location of \nPsychro Cave, where Rhea gave birth to Zeus, 484\nAeneas: Trojan prince, son of Aphrodite and Anchises, cousin of \nHector and Paris, 1008\nAeson: King of Iolcus in Thessaly, son of Cretheus and Tyro, father of \nJason and Promachus, 992\nAether: the “upper sky” or pure air breathed by the gods; also \npersoniﬁcation of brightness, 124\nAgave: Theban",
+    "start_index": 55383,
+    "end_index": 56383,
+    "length": 999
+  },
+  {
+    "chunk_id": 70,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "ing of Iolcus in Thessaly, son of Cretheus and Tyro, father of \nJason and Promachus, 992\nAether: the “upper sky” or pure air breathed by the gods; also \npersoniﬁcation of brightness, 124\nAgave: Theban princess, queen of the Maenads, daughter of Harmonia \nand Cadmus, mother of Pentheus and Epirus, and sister of Ino, Semele, \nAutonoë, and Polydorus, 976\nAglaea: see Charities\nAlcmene: Mother of Heracles (with Zeus) and wife of Amphitryon, 527\nAlgea: Personiﬁcations of pain and woe and children of Eris, 227\nAlpheus: God of the Alpheus river in the Peloponnese, 338\nAmphillogiai: Goddesses of disputes, daughters of Eris, 229\nAmphitrite: Queen of the sea, daughter of Nereus and Doris, wife of \nPoseidon, and mother of Triton, 243\nAmphitryon: Son of Alcaeus, Theban general, and step-father of \nHercules, 316\nAnchises: Member of the royal family in Troy, cousin of King Priam of \nTroy, son of Capys and Themiste, lover of Aphrodite, and father of \nAeneas, 1009\nAndroktasiai: Female personiﬁcations of",
+    "start_index": 56183,
+    "end_index": 57184,
+    "length": 1001
+  },
+  {
+    "chunk_id": 71,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "les, 316\nAnchises: Member of the royal family in Troy, cousin of King Priam of \nTroy, son of Capys and Themiste, lover of Aphrodite, and father of \nAeneas, 1009\nAndroktasiai: Female personiﬁcations of manslaughter and daughters \nHesiod\n36\nof Eris, 228\nAnemoi: The four winds, children of Eos and Astraeus: Boreas (north \nwind), Zephyrus (west wind), Notus (south wind), and Eurus (east \nwind), 379-80\nApate: Personiﬁcation of deceit, daughter of Nyx, 224\nApesas: Mountain in Peloponnese, Greece, now called Phoukas, 331\nAphrodite: Goddess of love, beauty, passion, and procreation, 17\nApollo: God of archery, music, dance, sun, light, healing, prophecy, \nand more, son of Zeus and Leto, 14\nAres: God of war, son of Zeus and Hera, 923\nAresas: Mountain in Peloponnese, now called Phoukas, 331\nArgos: City in Peloponnese, 12\nAriadne: Cretan princess, daughter of King Minos, wife of Dionysus, \n948\nAristaeus: Son of Apollo and Cyrene, a minor god who introduced \nbee-keeping (among other useful arts) and",
+    "start_index": 56984,
+    "end_index": 57985,
+    "length": 1001
+  },
+  {
+    "chunk_id": 72,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "y in Peloponnese, 12\nAriadne: Cretan princess, daughter of King Minos, wife of Dionysus, \n948\nAristaeus: Son of Apollo and Cyrene, a minor god who introduced \nbee-keeping (among other useful arts) and was known as the pastoral \nApollo in Boeotia, husband of Autonoë, and father of Actaeon and \nMacris, 977\nArtemis: Goddess of the hunt, wilderness, animals, and chastity, \ndaughter of Zeus and Leto, 15\nAsmete: Oceanid, daughter of Oceanus and Tethys, and companion of \nPersephone, 349\nAsteria: Personiﬁcation of the island Asteria or Delos, wife of Perses, \ndaughter of Phoebe and Coeus, sister of Leto, mother of Hecate, 409\nAstraeus: God of the dusk, son of Crius and Eurybia, husband of Eos, \nand father of the Anemoi (four winds), 376\nAtë: Goddess of mischief, delusion, ruin, and folly and daughter of \nEris, 230\nA Terrible Snake: see Ladon\nAthena: Goddess of wisdom, handicrafts, and warfare, daughter of \nZeus, 13\nAtlas: Titan son of Iapetus and Clymene and brother of Prometheus, \nMenoetius, and",
+    "start_index": 57785,
+    "end_index": 58788,
+    "length": 1003
+  },
+  {
+    "chunk_id": 73,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "of \nEris, 230\nA Terrible Snake: see Ladon\nAthena: Goddess of wisdom, handicrafts, and warfare, daughter of \nZeus, 13\nAtlas: Titan son of Iapetus and Clymene and brother of Prometheus, \nMenoetius, and Epimetheus, cursed to hold up the earth and heavens \nwith his head and shoulders, 509\nAtropos: One of the three fates (Moirai), who cut the thread of life, \ndaughter of Nyx or of Themis and Zeus, 218\nAutonoë: Theban princess, eldest daughter of Cadmus and Harmonia, \nwife of Aristaeus, mother of Acateon and Macris, and sister of Ino, \nSemele, Agave, and Polydorus, 977\nTheogony\n37\nBellerophon: Hero, slayer of monsters, including the Chimera, 325\nBia: Goddess of force, anger, and raw energy, daughter of Styx and \nPallas, 385\nBoreas: see Anemoi\nBriareus: see Hecatoncheires\nCadmea: citadel in ancient Thebes, 327\nCadmus: Greek hero, founder and ﬁrst king of Thebes, husband of \nHarmonia, 937\nCalliope: Muse of eloquence and epic poetry and leader of all Muses, \n79\nCallirhoe: Naiad, daughter of Oceanus",
+    "start_index": 58588,
+    "end_index": 59593,
+    "length": 1004
+  },
+  {
+    "chunk_id": 74,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "hebes, 327\nCadmus: Greek hero, founder and ﬁrst king of Thebes, husband of \nHarmonia, 937\nCalliope: Muse of eloquence and epic poetry and leader of all Muses, \n79\nCallirhoe: Naiad, daughter of Oceanus and Tethys, married to \nChrysaor, 287\nCalypso: Oceanid nymph who lived on island of Ogygia, lover of \nOdysseus, and mother of Nausithous and Nausinous, 358\nCephalus: Athenian son of Hermes and Herse, lover of Eos, and father \nof Phaethon (though in some accounts, he is the father of Tithonus, \nwho is the father of Phaethon), 986\nCerberus: Many-headed dog who guards the gates of Hades, son of \nEchidna and Typhon, 310\nChaos: The ﬁrst of the primordial beings to come into existence, a \ngaping space upon which Gaia and all other entities exist, 116\nChiron: Centaur who was skilled in medicine, warfare, and music and \nwho trained numerous famed warriors, including Jason, Ajax, Achilles, \nand Perseus, 1001\nClytie: Water nymph, daughter of Oceanus and Tethys, 352\nCeto: Sea goddess and daughter of",
+    "start_index": 59393,
+    "end_index": 60393,
+    "length": 1000
+  },
+  {
+    "chunk_id": 75,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "fare, and music and \nwho trained numerous famed warriors, including Jason, Ajax, Achilles, \nand Perseus, 1001\nClytie: Water nymph, daughter of Oceanus and Tethys, 352\nCeto: Sea goddess and daughter of Pontus and Gaia, 238\nCharities: Aglaea (“Shining”), Euphrosyne (“Joy”), and Thalia \n(“Blooming”) are the Charities or Graces, goddesses of charm, beauty, \ncreativity, and fertility, 64\nChimera: Fire-breathing monster, daughter of Echidna, with the heads \nof a lion, a goat, and a serpent, slain by Bellerophon and Pegasus, 320\nChrysaor: Son of Poseidon and Medusa and brother of the horse \nPegasus, born when Perseus cut off his mother’s head, 281\nCirce: Goddess and enchantress, daughter of Helios and Perseis, who \nlived on the island of Aeaea, and whose encounters with Odysseus are \ndepicted in the Odyssey, 957\nClio: Muse of history and lyre playing, 77\nClotho: One of the three fates (Moirai), who spins the thread of life, \ndaughter of Nyx or of Themis and Zeus, 218\nHesiod\n38\nCoeus: Titan, son",
+    "start_index": 60193,
+    "end_index": 61195,
+    "length": 1002
+  },
+  {
+    "chunk_id": 76,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "e Odyssey, 957\nClio: Muse of history and lyre playing, 77\nClotho: One of the three fates (Moirai), who spins the thread of life, \ndaughter of Nyx or of Themis and Zeus, 218\nHesiod\n38\nCoeus: Titan, son of Gaia and Ouranos, husband of Phoebe, father of \nLeto and Asteria, 134\nCottus: see Hecatoncheires\nCrete: Largest island in Greece, home to the ancient Minoan \ncivilization, 478\nCrius: Titan, son of Gaia and Ouranos, 134\nCronos: Leader of the Titans, son of Gaia and Ouranos, father of Zeus, \nPoseidon, Hera, Hades, Hestia, Demeter, and Chiron, 18\nCyclopes: One-eyed creatures, sons of Ouranos and uncles of Zeus and \nthe other Olympian gods; Zeus freed them from captivity, and as a \nreward they gave Zeus the power over thunder and lightning, 501\nCymopolea: Daughter of Poseidon and wife of Briareus, 819\nCythera: Island just south of the Peloponnese and north of Crete, 193\nCytherea: see Aphrodite\nCyprus: Island south of Anatolia (modern-day Turkey), the supposed \nbirthplace of Aphrodite,193\nDeimos:",
+    "start_index": 60995,
+    "end_index": 62001,
+    "length": 1006
+  },
+  {
+    "chunk_id": 77,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "19\nCythera: Island just south of the Peloponnese and north of Crete, 193\nCytherea: see Aphrodite\nCyprus: Island south of Anatolia (modern-day Turkey), the supposed \nbirthplace of Aphrodite,193\nDeimos: Personiﬁcation of dread and terror, son of Ares and Aphrodite \nand twin brother of Phobos, 935\nDelphi: Also known as Pytho, location of an ancient sanctuary to \nApollo, home of the Delphic oracle, and (for the ancient Greeks) the \ncenter of the world, 499\nDemeter: Goddess of the harvest and agriculture, daughter of Rhea \nand Cronos, mother of Persephone, 454\nDike: See Horae\nDione: Titan, daughter of Gaia and Ouranos, mother of Aphrodite, 18\nDionysus: God of wine, fertility, orchards, ritual madness, ecstasy, \nfestivity, and theater, son of Zeus and the mortal Semele (who later \nbecame mortal), 941\nDoris: Sea goddess, daughter of Oceanus and Tethys, wife of Nereus, \nand mother of the Nerites and Nereids, 242\nDynamene: Sea nymph, daughter of Nereus and Doris, associated \nwith the might of ocean",
+    "start_index": 61801,
+    "end_index": 62805,
+    "length": 1004
+  },
+  {
+    "chunk_id": 78,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "1\nDoris: Sea goddess, daughter of Oceanus and Tethys, wife of Nereus, \nand mother of the Nerites and Nereids, 242\nDynamene: Sea nymph, daughter of Nereus and Doris, associated \nwith the might of ocean swells, 248\nDysnomia: Daemons of lawlessness and daughters of Eris, 230\nEchidna: Half-nymph, half-snake monster, born to Ceto and Phorcys, \n297\nEirene: see Horae\nElectra: Daughter of Oceanus and Tethys, wife of Thaumas, mother of \nIris and the Harpies, 265\nTheogony\n39\nEileithyia: Goddess of childbirth and midwives, daughter of Zeus and \nHera, 923\nEleutherae: City in Attica, west of Athens, 53\nEmathion: Son of Eos and Tithous, brother of Memnon, king of \nEthiopia, killed by Heracles, 985\nEos: Titan goddess of the dawn, daughter of Hyperion and Theia, and \nmother of Memnon, Emation, and Phaethon,19\nEpimetheus: Titan son of Iapetus and Clymene, brother of Atlas, \nPrometheus, and Menoetius, received the gift of Pandora and \npurportedly married her, 511\nErato: Muse of love poetry, 78\nErebus: Primordial",
+    "start_index": 62605,
+    "end_index": 63614,
+    "length": 1009
+  },
+  {
+    "chunk_id": 79,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "etheus: Titan son of Iapetus and Clymene, brother of Atlas, \nPrometheus, and Menoetius, received the gift of Pandora and \npurportedly married her, 511\nErato: Muse of love poetry, 78\nErebus: Primordial darkness, 123\nEridanos: God of the Eridanos river in Hades, 338\nErinyes: Furies, female goddesses of vengeance; born to Gaia from the \nblood of Ouranos’ castrated genitals, 185\nEris: Goddess of strife, daughter of Nyx, 225\nEros: God of love and sex, 119\nErytheia: Island in the Hesperides, close to modern-day Spain, 290\nEudora: Nereid, daughter of Nereus and Doris, 244\nEunomia: see Horae\nEuphrosyne: see Charities\nEuryale: One of the Gorgons, 277\nEurybia: Goddess of mastery of the seas, daughter of Pontus and Gaia, \nand mother of Astraeus, Pallas, and Perses, 239\nEurynome: Oceanid, daughter of Oceanus and Tethys, worshipped at \nthe conﬂux of the Neda and Lymax rivers in Peloponnese, 357\nEuterpe: Muse of music, 77\nFifty Daughters: see Nereids\nGaia: Personiﬁcation of Earth and mother of all life,",
+    "start_index": 63414,
+    "end_index": 64418,
+    "length": 1004
+  },
+  {
+    "chunk_id": 80,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "nus and Tethys, worshipped at \nthe conﬂux of the Neda and Lymax rivers in Peloponnese, 357\nEuterpe: Muse of music, 77\nFifty Daughters: see Nereids\nGaia: Personiﬁcation of Earth and mother of all life, 20\nGalatea: Sea goddess, daughter of Nereus and Doris, love object of the \ncyclops Polyphemus, 249\nGalene: Sea goddess, daughter of Nereus and Doris, associated with \ncalm seas, 244\nGeras: God of old age, son of Nyx, 225\nGeryon: Giant who lived on the island of Erytheia in the Hesperides, \nson of Callirhoe and Chrysaor, slain by Hercules, 288\nGiants: Strong and aggressive creatures (but not large in size); born to \nGaia from the blood of Ouranos’ castrated genitals, 185\nHesiod\n40\nGorgons: Daughters of Ceto and Phorcys whose hair was made of \nsnakes and could turn life into stone, 274\nGraeae: Sisters who shared one eye, daughters of Phorcys and Ceto, \n271\nGyges: see Hecatoncheires\nHades: God of the dead and king of the underworld, son of Rhea and \nZeus, 455\nHarmonia: Goddess of harmony and",
+    "start_index": 64218,
+    "end_index": 65218,
+    "length": 1000
+  },
+  {
+    "chunk_id": 81,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "Sisters who shared one eye, daughters of Phorcys and Ceto, \n271\nGyges: see Hecatoncheires\nHades: God of the dead and king of the underworld, son of Rhea and \nZeus, 455\nHarmonia: Goddess of harmony and concord, daughter of Ares and \nAphrodite, and mother of Ino, Semele, Agave, Autonoë, and \nPolydorus, 937\nHarpies: Half-human, half-bird creatures who ﬂew faster than birds or \nthe winds, daughters of Thaumas and Electra, 267\nHebe: Goddess of youth and the prime of life, daughter of Zeus and \nHera, 17\nHecate: Titan goddess of witchcraft, boundaries and crossroads, birth \nand death, success and failure, daughter of Perses and Asteria, 411\nHecatoncheires: Hundred-handed giants Cottus, Briareus, and Gyges, \nborn to Ouranos and Gaia, 148-49\nHelicon: Mountain in Thespiai, sacred home of the Muses, 2\nHelios: Personiﬁcation of the sun, father of the Charities and Circe, son \nof Hyperion and Theia, 19\nHemera: Primordial goddess of daytime, 124\nHeosphoros: Morning-star (Venus), son of Astraeus and Eos,",
+    "start_index": 65018,
+    "end_index": 66022,
+    "length": 1004
+  },
+  {
+    "chunk_id": 82,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "lios: Personiﬁcation of the sun, father of the Charities and Circe, son \nof Hyperion and Theia, 19\nHemera: Primordial goddess of daytime, 124\nHeosphoros: Morning-star (Venus), son of Astraeus and Eos, 381\nHephaestus: God of craftsmen, artisans, ﬁre, and volcanoes who was \nlame in one foot, son of Hera alone (or Zeus and Hera), and husband \nof Aphrodite, 572\nHera: Goddess of women, marriage, and family, wife and sister of \nZeus, daughter of Cronos and Rhea, 11\nHeracles: Famous hero, born in Thebes, son of Zeus and Alcmene, \nbecame immortal after his death, 289\nHermes: Messenger of the gods, protector of travelers, thieves, \nmerchants, and orators, son of Zeus and Maia, 443\nHestia: Goddess of the hearth, domesticity, and the family and \ndaughter of Rhea and Cronos, 454\nHesperides: Nymphs of evening and the golden light of sunset and \ndaughters of Nyx, 214\nHimeros: Winged gods associated with sexuality, 64\nHippocrene: Spring on Mt. Helion that is sacred to the Muses and \nformed the hooves",
+    "start_index": 65822,
+    "end_index": 66822,
+    "length": 1000
+  },
+  {
+    "chunk_id": 83,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "evening and the golden light of sunset and \ndaughters of Nyx, 214\nHimeros: Winged gods associated with sexuality, 64\nHippocrene: Spring on Mt. Helion that is sacred to the Muses and \nformed the hooves of Pegasus, 6\nTheogony\n41\nHorae: Eunomia (Lawfulness), Dike (Justice) and Eirene (Peace) are \ngoddesses of the seasons and the passing of time, daughters of Themis \nand Zeus, 902\nHorkos: Personiﬁcation of the curse inﬂicted upon a mortal for \nswearing a false oath, son of Eris, 231\nHydra of Lerna: Serpent monster, daughter of Echidna and Typhon, \nkilled by Hercules, 313\nHyperion: Titan, father of Helios, Selene, and Eos, 134\nHypnos: God of sleep and son of Nyx, 213\nHysminai: Personiﬁcations of battle and children of Eris, 227\nIapetus: Titan, father of Atlas and Promethius, 18\nIasius: Founder of the mystic rites on Samothrace, son of Electra and \nZeus, father of Plutus and Philomenus, 970\nIda: Mountain in Anatolia, south of Troy where the gods, particularly \nZeus, often gathered to watch the",
+    "start_index": 66622,
+    "end_index": 67624,
+    "length": 1002
+  },
+  {
+    "chunk_id": 84,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "the mystic rites on Samothrace, son of Electra and \nZeus, father of Plutus and Philomenus, 970\nIda: Mountain in Anatolia, south of Troy where the gods, particularly \nZeus, often gathered to watch the Trojan War, 1010\nIdyia: Oceanid, daughter of Oceanus and Tethys, queen to Aeëtes, king \nof Colchis, and mother of Medea, 352\nIno: Mortal queen of Boeotia who was made immortal after her death \nand took the name Leucotheia (“The White Goddess”), daughter of \nHarmonia and Cadmus, wife of King Athamas, mother of Learchus \nand Melicertes, and sister of Semele, Agave, Autonoë, and Polydorus, \n976\nIolaus: Son of Automedon and Iphicles, charioteer of Hercules, 318\nIolcus: Ancient city in Thessaly, home of Aeson, Pelias, and Jason, 997\nIris: Goddess of rainbows and messenger of the gods, daughter of \nThaumas and Electra, 266\nJason: Son of Aeson, leader of the Argonauts who captured the Golden \nFleece (among many other adventures), husband of Medea, father of \nThessalus and many others (many of whom",
+    "start_index": 67424,
+    "end_index": 68426,
+    "length": 1001
+  },
+  {
+    "chunk_id": 85,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "haumas and Electra, 266\nJason: Son of Aeson, leader of the Argonauts who captured the Golden \nFleece (among many other adventures), husband of Medea, father of \nThessalus and many others (many of whom Medea murdered in \nrevenge over Jason’s desire to marry Creusa, daughter of the king of \nCorinth), 992\nKer: Goddess of violent death and daughter of Nyx, 212\nKeres: Female death spirits and daughters of Nyx, 217\nKratos: God of strength, son of Styx and Pallas, 385\nLachesis: One of the three fates (Moirai), who measured the thread of \nlife, daughter of Nyx or of Themis and Zeus, 218\nHesiod\n42\nLadon: Serpent-like monster who guarded the golden apples in the \nGarden of the Hesperides, killed by Heracles, 334\nLame One: see Hephaestus\nLatinus: Son of Odysseus and Circe, brother of Agrius and Telegonus, \nand ruler of the Tyrrhenians (often linked to the Etruscans), 1013\nLethe: One of the ﬁve rivers in Hades; also the spirit of forgetfulness \nand daughter of Eris, 226\nLeto: Goddess, mother of Artemis",
+    "start_index": 68226,
+    "end_index": 69231,
+    "length": 1005
+  },
+  {
+    "chunk_id": 86,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "and ruler of the Tyrrhenians (often linked to the Etruscans), 1013\nLethe: One of the ﬁve rivers in Hades; also the spirit of forgetfulness \nand daughter of Eris, 226\nLeto: Goddess, mother of Artemis and Apollo, daughter of Phoebe and \nCoeus, 18\nLimos: Goddess of starvation and daughter of Eris, 226\nLyctus: City in Crete where Rhea gave birth to Zeus, 477\nMachai: Spirits of battle and combat and children of Eris, 227\nMaia: Daughter of Atlas and Pleione, mother of Hermes, 938\nMeander: God of the Meander river in southern Asia Minor (Turkey), \n339\nMecone: The place where Prometheus tricked Zeus, often associated \nwith Sicyon in northern Peloponnese, Greece, 535\nMedea: Daughter of King Aeëtes of Colchis and Idyia, niece of Circe, \ngranddaughter of Helios and Perseis, aids Jason in his search for the \nGolden Fleece, and later goes with Jason back to Thebes, 962\nMedus: King of Colchis, son of Medea and Jason, 1000\nMedusa: Youngest of the Gorgons, killed by Perseus, 277\nMeliae: nymphs of the",
+    "start_index": 69031,
+    "end_index": 70032,
+    "length": 999
+  },
+  {
+    "chunk_id": 87,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "for the \nGolden Fleece, and later goes with Jason back to Thebes, 962\nMedus: King of Colchis, son of Medea and Jason, 1000\nMedusa: Youngest of the Gorgons, killed by Perseus, 277\nMeliae: nymphs of the ash tree, born to Gaia from the blood of \nOuranos’ castrated genitals, 187\nMelpomene: Muse of tragedy, 78\nMemnon: Ethiopian king and son of Eos and Tithonus, killed by \nAchilles in Trojan War, as depicted in the lost epic Aethiopis, 985\nMenoetius: Titan son of Iapetus and Clymene, brother of Atlas, \nPrometheus, and Epimetheus, punished by Zeus after Titan war exiled \nto Erebus, 509\nMetis: Titan and Oceanid, daughter of Oceanus and Tethys, and cousin \nand ﬁrst wife of Zeus, 358\nMnemosyne: Goddess of memory and mother of the nine Muses, 53\nMoirai: The Fates, daughters of Nyx or of Themis and Zeus, 217\nMomus: The god of satire and disgrace and son of Nix, 213\nMoros: God of impending doom and son of Nyx, 212\nMuses: Nine goddesses, born of Mnemosyne and Zeus, who are the \ninspiration for literature,",
+    "start_index": 69832,
+    "end_index": 70838,
+    "length": 1006
+  },
+  {
+    "chunk_id": 88,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "7\nMomus: The god of satire and disgrace and son of Nix, 213\nMoros: God of impending doom and son of Nyx, 212\nMuses: Nine goddesses, born of Mnemosyne and Zeus, who are the \ninspiration for literature, science, and the arts, 1\nTheogony\n43\nNausinous: Son of Odysseus and Calypso, and brother of Nausithous, \n1018\nNausithous: Son of Odysseus and Calypso (though some accounts say \nhe is the son of Circe), and brother of Nausinous, 1018\nNeikea: Spirits of arguments and children of Eris, 229\nNemean lion: Monster, offspring of Orthus and Chimera, killed by \nHercules, 327\nNemea: Region in northeastern Peloponnese, 329\nNemesis: Goddess who punished those who committed hubris, \ndaughter of Nyx, 223\nNereids: Sea goddesses (50 in total according to Hesiod), daughters of \nNereus and Doris, 264\nNereus: Also known as the Old Man of the Sea, son of Pontus and \nGaia, 233\nNight: see Nyx\nNike: Goddess of victory, daughter of Styx and Pallas, 385\nNilus: God of the Nile river, 338\nNotus: see Anemoi\nNyx: Goddess",
+    "start_index": 70638,
+    "end_index": 71641,
+    "length": 1003
+  },
+  {
+    "chunk_id": 89,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "known as the Old Man of the Sea, son of Pontus and \nGaia, 233\nNight: see Nyx\nNike: Goddess of victory, daughter of Styx and Pallas, 385\nNilus: God of the Nile river, 338\nNotus: see Anemoi\nNyx: Goddess of the night, 20\nOceanids: Nymph daughters of Tethys and Oceanus, numbering in the \nthousands, 337\nOceanus: Titan, embodiment of the river that circled the world, father \nof the river gods and Oceanids, 20\nOdysseus: King of Ithaca, best known for his intellect, son of Laertes \nand Anticlea, husband of Penelope, and father (with Circe) of \nTelemacus, Agrius, Latinus, and Telegonus, and father (with Calypso) \nof Nausithous and Nausinous, 1012\nOizys: Goddess of misery, anxiety, grief, and depression and daughter \nof Nyx, 214\nOlmedius: Stream near Mt. Helicon, 6\nOlympus: Highest mountain in Greece and home of the Greek gods, 37\nOneiroi: The gods of dreams and sons of Nyx, 213\nOrthrus: Two-headed dog who guarded Geryon’s castle, son of \nEchidna and Typhon, 309\nOthrys (Mt.): Mountain in central",
+    "start_index": 71441,
+    "end_index": 72441,
+    "length": 1000
+  },
+  {
+    "chunk_id": 90,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "e and home of the Greek gods, 37\nOneiroi: The gods of dreams and sons of Nyx, 213\nOrthrus: Two-headed dog who guarded Geryon’s castle, son of \nEchidna and Typhon, 309\nOthrys (Mt.): Mountain in central Greece, 632\nOurea: The elemental mountains (including Olympus, Helicon, and \nEtna) born by Gaia alone, 129\nOuranos: Primordial sky god, son and husband of Gaia, and father of \nthe Titans, and after Cronos castrated Ouranos, his discarded blood \nHesiod\n44\nand genitals created the Furies, the Giantsand Aphrodite, 45\nOurania: Muse of astronomy, 79\nPallas: Titan, son of Crius and Eurybia, brother of Astraeus and Perses, \nhusband of Styx, and father of Zelus, Nike, Kratos, and Bia, 377\nParnassus: Mountain in central Greece, north-west of Athens, that \ntowers over Delphi, 499\nPegasus: Winged horse, son of Poseidon and Medusa, brother of \nChrysaor, born when Perseus cut off his mother’s head, usually \ndepicted as pure white, 281\nPeleus: King of Phthia, member of the Argonauts, husband of Thetis,",
+    "start_index": 72241,
+    "end_index": 73241,
+    "length": 1000
+  },
+  {
+    "chunk_id": 91,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "son of Poseidon and Medusa, brother of \nChrysaor, born when Perseus cut off his mother’s head, usually \ndepicted as pure white, 281\nPeleus: King of Phthia, member of the Argonauts, husband of Thetis, \nand father of Achilles, 1006\nPelias: Son of Tyro and Poseidon, king of Iolcus, and nephew of Jason, \nwho he sent on the quest for the Golden Fleece, 996\nPeneius: Thessalian river god, 342\nPermessus: Stream near Mt. Helicon, 5\nPerseis: Oceanid, daughter of Oceanus and Tethys, wife of Helios, and \nmother of Aeëtes, Perses, Pasiphae, and Circe, 355\nPerses: Titan, son of Crius and Eurybia, brother of Pallas and Astraeus, \nhusband of Asteria, and father of Hecate, 377\nPerseus: Son of Zeus, great-grandfather of Hercules, heroic founder of \nMycenae who slayed Medusa and saved Andromeda from the monster \nCetus, 280\nPhaeton: Son of Eos and Cephalus, was taken by Aphrodite and made \nthe night guardian of her sacred temples, 987\nPherusa: Sea nymph, daughter of Nereus and Doris, associated with \nthe",
+    "start_index": 73041,
+    "end_index": 74041,
+    "length": 999
+  },
+  {
+    "chunk_id": 92,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "ster \nCetus, 280\nPhaeton: Son of Eos and Cephalus, was taken by Aphrodite and made \nthe night guardian of her sacred temples, 987\nPherusa: Sea nymph, daughter of Nereus and Doris, associated with \nthe might of ocean swells, 248\nPhilotes: Goddess of affection, friendship, and sex, daughter of Nyx, \n224\nPhilyra: Oceanid, daughter of Oceanus and Tethys, mother of Chiron, \n1002\nPhobos: Personiﬁcation of fear and panic, son of Ares and Aphrodite \nand twin brother of Deimos, 935\nPhocus: Prince of Aegina, son of Psamathe and Aeacus and brother of \nTelamon and Peleus, who was killed by his brothers, 1005\nPhoebe: Titan goddess associated with the moon, husband of Coeus, \nmother of Leto and Asteria, 136\nPhoebus Apollo: see Apollo\nPhonoi: Male personiﬁcations of murder, sons of Eris, 228\nPhorcys: Sea god son of Pontus and Gaia, 238\nTheogony\n45\nPieria: Region in Macedonia (northern Greece), home of the Muses and \nOrpheus, 54\nPlutus: Greek god of wealth, son of Demeter and Iasius, 971\nPolydorus: King",
+    "start_index": 73841,
+    "end_index": 74843,
+    "length": 1002
+  },
+  {
+    "chunk_id": 93,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "od son of Pontus and Gaia, 238\nTheogony\n45\nPieria: Region in Macedonia (northern Greece), home of the Muses and \nOrpheus, 54\nPlutus: Greek god of wealth, son of Demeter and Iasius, 971\nPolydorus: King of Thebes, son of Cadmus and Harmonia, husband of \nNycteïs, father of Labdacus, and brother of Ino, Semele, Agave, and \nAutonoë, 978\nPolymnia: Muse of sacred poetry, sacred hymns, dance, eloquence, \nagriculture, and pantomime, 78\nPonos: Personiﬁcation of hardship and toil and son of Eris, 226\nPontus: Primordial (pre-Olympic) sea god, 107\nPoseidon: God of the sea, son of Cronos and Rhea, brother of Hades, \nZeus, Hera, Demeter, Chiron, and Hestia, father of Triton, Polyphemus, \nAtlas, Pegasus, and Orion, 16\nPotaomai: Gods and goddesses of the rivers, 348\nPrometheus: Titan trickster, son of Iapetus and Clymene, brother of \nAtlas, Menoetius, and Epimetheus, punished by Zeus by being tied to \na post and having his liver eaten by an eagle, but was later freed by \nHeracles, 510\nPsamathe: Sea goddess",
+    "start_index": 74643,
+    "end_index": 75647,
+    "length": 1004
+  },
+  {
+    "chunk_id": 94,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "and Clymene, brother of \nAtlas, Menoetius, and Epimetheus, punished by Zeus by being tied to \na post and having his liver eaten by an eagle, but was later freed by \nHeracles, 510\nPsamathe: Sea goddess associated with sand beaches, daughter of \nNereus and Doris, mother of Phocus, 259\nPytho: see Delphi\nRhea: Titan, sister and wife of Cronos, mother of Zeus, Hera, Poseidon, \nHades, Demeter, and Hestia, 135\nSangarius: Phrygian river god, 344\nScamander: River god on the Trojan plain, 345\nSelene: Goddess of the moon, daughter of Hyperion and Theia, 19\nSemele: Daughter of Cadmus and Harmonia, mortal mother of \nDionysus who was made immortal after Dionysus rescued her from \nHades, 940\nSimoeis: River on the Trojan plain, 342\nSphinx: Lion/human hybrid creature found in Greek and Egyptian \nmythologies, 326\nSthenno: Oldest of the Gorgons, 277\nStrymon: River god and king of Thrace, 339\nStyx: River separating Earth from Hades, 360\nTartarus: Deep abyss where Zeus sent the Titans, 119\nTelegonus: Son of",
+    "start_index": 75447,
+    "end_index": 76448,
+    "length": 1001
+  },
+  {
+    "chunk_id": 95,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": ", 326\nSthenno: Oldest of the Gorgons, 277\nStrymon: River god and king of Thrace, 339\nStyx: River separating Earth from Hades, 360\nTartarus: Deep abyss where Zeus sent the Titans, 119\nTelegonus: Son of Odysseus and Circe, brother of Agrius and Latinus, \nHesiod\n46\nhalf-brother of Telemachus, and (according to some accounts) \naccidental killer of his father, 1014\nTelesto: Oceanid, daughter of Oceanus and Tethys, and personiﬁcation \nof success, 358\nTerpsichore: Muse of dance and chorus, 78\nTethys: Titan, mother of the river gods and Oceanids, 136\nThaumas: Sea god son of Pontus and Gaia, 237\nThalia (Charities): see Charities\nThalia (Muse): Muse of comedy and idyllic poetry, 77\nThanatos: God of death and son of Nyx, 212\nThebes: City in Boeotia, central Greece, and home of Cadmus, \nOedipus, Dionysus, Hercules, and many others, 529\nTheia: Titan, sister/wife to Hyperion, mother of Helios, Selene, and \nEos, 135\nThemis: Titan, one of the Oracles of Delphi, and he personiﬁcation of \ndivine justice,",
+    "start_index": 76248,
+    "end_index": 77249,
+    "length": 1001
+  },
+  {
+    "chunk_id": 96,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "us, Hercules, and many others, 529\nTheia: Titan, sister/wife to Hyperion, mother of Helios, Selene, and \nEos, 135\nThemis: Titan, one of the Oracles of Delphi, and he personiﬁcation of \ndivine justice, 16\nThetis: Sea nymph, daughter of Nereus and Doris, wife of Peleus, and \nmother of Achilles, 244\nTiryns: Area in Argolis in the Peloponnese where Hercules performed \nhis twelve labors, 292\nTithonus: Prince of Troy, son of King Laomedon and Strymo, taken by \nEos to be her lover and fathered two sons, Memnon and Emation, and \nlater Eos asked Zeus to make Tithonus immortal but failed to ask for \nimmortal youth as well, so he continued to age as he lived forever, 984\nTritogeneia: see Athena\nTriton: God of the sea, son of Poseidon and Amphitrite, 931\nTwisting Rivers: see Oceanids\nTyche: Oceanid, daughter of Oceanus and Tethys, 359\nTyphon: Monstrous serpent, son of Gaia and Tartarus, father to many \nmonsters including Cerberus and the Hydra of Lerna, 307\nTyrrhenians: Ancient people who lived in",
+    "start_index": 77049,
+    "end_index": 78049,
+    "length": 1000
+  },
+  {
+    "chunk_id": 97,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "aughter of Oceanus and Tethys, 359\nTyphon: Monstrous serpent, son of Gaia and Tartarus, father to many \nmonsters including Cerberus and the Hydra of Lerna, 307\nTyrrhenians: Ancient people who lived in modern-day Italy and who \nare often associated with the Etruscans, 1016\nZelus: God of dedication, rivalry, envy, jealousy, and zeal, son of Styx \nand Pallas, 384\nZephyrus: see Anemoi\nZeus: God of thunder, ruler of Olympian gods, son of Cronos and \nRhea, husband of Hera, father of Aphrodite, Apollo, Ares, Artemis, \nAthena, Dionysus, Elis, Helen of Troy, Heracles, Hermes, Persephone, \nPerseus, and Muses, among others, 11\nTheogony\n47\nStudy Questions for Hesiod's Theogony\n1. Who are the Muses? Why does Hesiod invoke them at the start \nof the poem?\n2. Why do the Muses insult Hesiod before giving him the gift of \npoetry?\n3. What do the Muses mean when they tell Hesiod, “We know \nhow to make lies into truth and we know how to speak truth \nwhen we wish” (27-28)?\n4. Hesiod notes that the songs of the",
+    "start_index": 77849,
+    "end_index": 78852,
+    "length": 1003
+  },
+  {
+    "chunk_id": 98,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "the gift of \npoetry?\n3. What do the Muses mean when they tell Hesiod, “We know \nhow to make lies into truth and we know how to speak truth \nwhen we wish” (27-28)?\n4. Hesiod notes that the songs of the Muses “celebrate the laws \nand customs of all the immortals” (66-67). If this is the purpose \nof the Muses’ songs, then what is the purpose of Hesiod’s own \nsong?\n5. Why is Calliope superior to the other muses (79-80)? What \ndoes this tell us about Ancient Greek culture?\n6. How does the creation story that begins at line 116 compare to \nother creation stories, such as the one in Genesis?\n7. What does Hesiod mean when he says, “First there was \nChaos” (116)? \n8. Does Chaos create Gaia, Tartarus, and Eros? If not, then what \ndoes?\n9. Why do you think Eros is among the ﬁrst of the gods? What \nrole does sex play in the Greek creation myth? \n10. What is the signiﬁcance of the Cottus, Briareus, and Gyges, the \nHundred-Handed (Hecatoncheires)? What roles do they play \nin the battles between the various",
+    "start_index": 78652,
+    "end_index": 79659,
+    "length": 1007
+  },
+  {
+    "chunk_id": 99,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "sex play in the Greek creation myth? \n10. What is the signiﬁcance of the Cottus, Briareus, and Gyges, the \nHundred-Handed (Hecatoncheires)? What roles do they play \nin the battles between the various gods?\n11. What is born from the blood of Ouranos’s genitals?\n12. Why are the Titans called “Titans”?\n13. If you review the list of rivers in lines 338-371, you will notice \nthat many of the rivers are located far from Greece. What does \nthis tell us about geographical knowledge at this time—\nespecially given the fact that Hesiod was not a seafarer but a \nshepherd?\n14. Why is Hecate honored above the other gods? \n15. What does Cronos do to his children and why?\n16. Why does Rhea save Zeus? How does she save him?\n17. Why is Styx and her children so beloved by Zeus? What does \nthis tell us about Zeus?\nTheogony\n49\n18. Who is Atlas and what happens to him?\n19. How does Prometheus ﬁrst try to trick Zeus? What is the \nconsequence? \n20. How does Prometheus trick Zeus the second time? What is the",
+    "start_index": 79459,
+    "end_index": 80459,
+    "length": 998
+  },
+  {
+    "chunk_id": 100,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "Zeus?\nTheogony\n49\n18. Who is Atlas and what happens to him?\n19. How does Prometheus ﬁrst try to trick Zeus? What is the \nconsequence? \n20. How does Prometheus trick Zeus the second time? What is the \nconsequence for Prometheus? What is the consequence for \nhumanity?\n21. Zeus “desired evil for mortals” (551-52). What “evil” does \nZeus inﬂict upon human beings (speciﬁcally, men)?\n22. Compare this story of Pandora (the “moulded maiden”) to the \nmore traditional story of Pandora’s Box (found in Hesiod’s \nother work, Work & Days).\n23. What is Hesiod’s attitude towards women? Do you think this \nreﬂects the general attitude of Greek men towards women?\n24. How does Zeus convince the Hundred-Handed to join his side \nof the war against the Titans? What does this tell us about \nZeus?\n25. How do the Olympian Gods defeat the Titans?\n26. What is Tartarus? Where is it located? How does it differ from \nErebus?\n27. Who are Nyx and Hemera? Why can they not both be in the \npalaces of Nyx at the same time?",
+    "start_index": 80259,
+    "end_index": 81261,
+    "length": 1001
+  },
+  {
+    "chunk_id": 101,
+    "book": "Theogony",
+    "source_file": "Theogony.txt",
+    "mythology": "greek",
+    "chunk_text": "ympian Gods defeat the Titans?\n26. What is Tartarus? Where is it located? How does it differ from \nErebus?\n27. Who are Nyx and Hemera? Why can they not both be in the \npalaces of Nyx at the same time?\n28. What trick does Cerberus use to lure mortals into Hades?\n29. Why is Styx “loathed by immortals” (775)?\n30. Why does Iris retrieve a golden jug from Styx? What is in the \njug? What is the jug used for?\n31. Why is oath-breaking such a terrible crime for the gods? What \nhappens to oath-breakers?\n32. Who is Typhon? What is his signiﬁcance?\n33. How was Athena born? Why was she born in this way?\n34. Hesiod identiﬁes several mortals who are granted immortality\n—including Heracles, Semele, Dionysus, and Ariadne. What \nreasons are given for these exceptions to the general rule that \nseparates mortals and immortals?",
+    "start_index": 81061,
+    "end_index": 81879,
+    "length": 818
+  }
+]

@@ -1,0 +1,1787 @@
+THEOGONY
+Hesiod
+Translated by 
+Michael Heumann
+Theogony by Hesiod 
+translated into English by Michael Heumann
+ is licensed under a Creative Commons Attribution-NonCommercial-
+ShareAlike 4.0 International License.
+© 2021 Michael Heumann
+Table of  Contents
+Introduction 2
+Theogony 5
+Glossary 35
+Study Questions for Hesiod’s Theogony 48
+Introduction
+Greek literature begins with Homer and Hesiod, and while Homer’s 
+works, the Iliad and the Odyssey, get most of the attention, Hesiod’s 
+contributions to Greek (and, by extension, western) culture are 
+arguably just as important. 
+The only surviving biographical information about Hesiod that still 
+exists comes straight from the poet himself. Early in the Theogony, for 
+example, Hesiod mentions that he is a shepherd who tends sheep 
+under Mount Helicon in Boeotia, a region in central Greece. This is 
+where he claims the Muses appeared to him and gave him the gift of 
+poetry. In Work and Days, Hesiod also notes that he lived in Ascra, a 
+small village near Mt. Helicon; that he has a brother, Perses, with 
+whom he was often at odds; that Hesiod’s and Perses’ father came to 
+Boeotia from Aeolian Cyme in Anatolia; and that Hesiod himself rarely 
+left his home region save for one small trip across the 3 mile (4.8 km)-
+wide Euripus Strait from Aulis to Chalcis to participate in the funeral 
+games for Athamas of Chalcis, where he won a tripod in a singing 
+competition—which he cites as evidence of the poetic gift given to him 
+by the Muses. 
+Whether these biographical details are accurate is uncertain, but it does 
+provide at least a starting point for investigating Hesiod’s writings. 
+The question of when Hesiod wrote is a bit more complex. However, it 
+is likely that Hesiod and Homer wrote in the 8th century, shortly after 
+the emergence of the Greek alphabet. This was a period of great 
+cultural and economic growth after a very long dark ages that began 
+around 1200 BCE when most of the major Mediterranean civilizations 
+(including Hittite, Assyria, Babylonian, and Mycenaean) were wiped 
+out by a combination of natural catastrophes, internal strife, and 
+invasion from a group known from history only as the Sea Peoples. 
+Broadly speaking, then, Hesiod and Homer are writing during the 
+same historical period. They are also using a similar dialect of Greek, 
+which is a variation of Ionic Greek that is usually referred to ask 
+Homeric Greek or Epic Greek—a dialect as different from the Greek of 
+Classical Greece as Shakespeare is different from modern English. 
+Theogony
+3
+Given these linguistic similarities, then, it is no surprise that both 
+authors employ many of the same poetic conventions, such as the use 
+of epithets, descriptive phrases that identify a characteristic of the 
+person or god in question (like “loud-thundering Zeus” or “grey-eyed 
+Athena”). 
+Ultimately, what links Homer and Hesiod together is the simple fact 
+that both poets’ works are concerned with the gods and heroes of the 
+eastern Mediterranean—speciﬁcally a Mycenaean Greek culture that 
+ceased to exist hundreds of years before the poets were born and lived 
+on only in stories and legends. Of course, each poet goes about this 
+task differently. Homer’s epics tell speciﬁc stories about some of the 
+key ﬁgures in the Trojan War, and feature some of the most complex 
+and fully-realized characters in all of literature. This is true of both the 
+mortal characters like Achilles and Odysseus and the immortals like 
+Zeus and Athena. 
+By contrast, Hesiod’s Theogony uses a bigger canvas and focuses on the 
+biggest of pictures: the creation of the world and the heavens, the birth 
+of the gods, the disputes and battles between the different generations 
+of gods, and the various interaction between the gods and mortals. 
+None of this should come as a surprise since the word “theogony” in 
+Greek literally means “the genealogy of the gods.” This, then, is the 
+principle purpose of theis work: to tell the origin of the universe and 
+the subsequent generational development of the gods from primordial 
+beings like Nyx (Night) and Gaia (Earth) to Olympian gods like Zeus, 
+Athena, and Hera. 
+That is not to say that there are no good stories here—far from it. In 
+fact, this brief work includes many of the most well-known stories 
+from Greek mythology, including Cronos’s castration of Ouranos, the 
+births of Aphrodite and Athena, the battle between the gods and the 
+Titans, Prometheus, Heracles, Pegasus, Pandora, Jason and Medea, and 
+Perseus and Medusa. There are also a lot of fascinating monsters, like 
+the Hundred-Handed, the Cyclopes, the Harpies, the Gorgons, 
+Echidna, Orthrus, Cerberus, the Hydra of Lerna, the Chimera. 
+In short, Hesiod’s Theogony is a fascinating overview of Greek 
+mythology, but it can be a tricky read given the fact that it revels in the 
+sheer depth of the Greek pantheon of gods. There are over 400 
+Hesiod
+4
+different Greek gods, demigods, and other creatures mentioned in this 
+1,022-line work, and keeping track of them all is a tall order even for 
+experienced readers of mythology. Therefore, to help simplify the task 
+of learning about all these ﬁgures, I have included links to Wikipedia 
+articles on most of the character and place names mentioned 
+throughout the poem.  These links can be found at the ﬁrst mention of 
+each name; for example, the link to the Wikipedia page on Zeus can be 
+found in line 11 but not in any subsequent mention of the god. For 
+those not reading the book digitally, I have also included a standard 
+glossary of people and places; and though this glossary information is 
+not as comprehensive as that found online, it should sufﬁce for most 
+readers.
+Theogony
+We begin our song with the Heliconian Muses 
+who hold high and holy mount Helicon
+and with their soft feet dance upon the violet
+waters and the altar of Cronos’ mighty son. 
+After bathing their tender ﬂesh in the Permessus, 
+Hippocrene, or sacred Olmedius, they perform 
+their chorals on the highest peaks of Helicon, 
+sublime beauty ﬂowing freely from their feet.
+Starting there and shrouded in a great mist,
+they travel by night, their beautiful voices 
+singing to aegis-bearing Zeus, to queen Hera
+of Argos who walks with golden sandals,
+to Athena, gleaming-eyed daughter of Zeus,
+to Phoebus Apollo, to shedder of arrows 
+Artemis, to Earth-holder and Earth-shaker 
+Poseidon, to venerable Themis, to darting-eyed 
+Aphrodite, to golden-crowned Hebe, to fair 
+Dione, to Leto and Iapetus and wily Cronos,
+to Eos and great Helios and bright Selene,
+to Gaia and great Oceanus and black Nyx,
+and to all other immortals who always are.1
+The Muses once taught Hesiod a beautiful 
+song as he tended lambs under holy Helicon. 
+First, the goddesses, Olympian Muses, daughters 
+of aegis-bearing Zeus, spoke these words to me:
+“Shepherds in ﬁelds, foul disgraces, nothing
+but bellies—we know how to make lies into truth, 
+and we know how to speak truth when we wish.” 
+So saying, Zeus’ eloquent daughters plucked a staff, 
+a ﬁne branch of blooming laurels, and gave it 
+to me; they blew a divine voice into my mouth 
+so I would glorify what was and what will be; 
+1 Eos = Dawn, Helios = Sun, Selene = Moon, Gaia = Earth, Oceanus = the River 
+that circles the world (or just Oceans), Nyx = Night
+Hesiod
+6
+and they ordered me to sing of those who 
+always were and of themselves ﬁrst and last.
+But why do I speak of an oak or a rock?2
+We begin with the Muses, who praise great
+father Zeus on Olympus and so cheer his mind,
+their sweet, harmonic voices ﬂowing tirelessly
+from their mouths, singing of what is, what was,
+and what will be. The house of loud-thundering 
+father Zeus laughs at the goddesses’ lily-like voices, 
+as do the peaks of snowy Olympus and mansions 
+of the immortals. First, they sing a divine song 
+to celebrate the beginning the race of gods, 
+those brought to life by Gaia and Ouranos,
+and those born of them, givers of good fortune.3
+Then they celebrate Zeus, father of gods and mortals,
+both in the beginning of their song and the end,
+for he is the best and greatest of all the gods.
+Again, the Olympian Muses, daughters of aegis-
+bearing Zeus, please the mind of Olympian Zeus 
+by singing of the races of Giants and of humans.
+Mnemosyne, guardian of the Eleutherae hills, 
+joined with the son of Cronos on Pieria 
+and bore the Muses to shun evil and dispel 
+distress. For nine nights, counselor Zeus mixed 
+with her in her sacred bed, away from the other
+gods. A year later, after the cycle of the seasons
+and the passing of many months and days, she 
+bore nine like-minded maidens—their breasts 
+ﬁlled with song, their spirits free of woe—
+near the highest peak of snowy Olympus, 
+a place of splendid choruses and beautiful 
+mansions, where the Charities and Himeros 
+have their homes and festivities. Their lovely 
+voices celebrate the laws and customs of all 
+2 In other words, “why do I speak of unimportant things?”
+3 Ouranos = Sky or Heavens
+Theogony
+7
+the immortals in the songs they send forth.
+On their way to Olympus, their beautiful voices 
+ﬁlled the air with a divine song, the black earth 
+echoed as they sang, and a lovely noise rose beneath 
+their feet as they went to see their father, lord 
+of the heavens and wielder of the ﬁery thunderbolt, 
+who defeated his father Cronos and distributed
+fairly the powers and honors to the immortals.
+These were the songs of the Muses, whose
+homes were on Olympus, the nine daughters 
+of great Zeus: Clio, Euterpe, Thalia, 
+Melpomene, Terpsichore, Erato, Polymnia, 
+Ourania, and Calliope, who was superior
+to all for she also accompanied revered kings.
+When a Zeus-nourished king is born, great
+Zeus’ daughters honor him by pouring sweet 
+dewdrops on his tongue, so words ﬂow like honey 
+from his mouth. All his people look upon him 
+as he solves disputes with sound judgment, 
+and his eloquent and truthful words quickly
+and fairly resolve even the bitterest conﬂict. 
+This is why kings are wise, for when people
+do harm in the assembly, kings easily halt calls 
+for revenge and appease both sides with gentle 
+words. In markets they treat him with deference
+like a god, and he stands out in a crowd. 
+Such are the gifts given to mortals by the Muses.
+Muses and far-shooting Apollo bring singers 
+and lyre players to the earth, but Zeus makes 
+kings; and mortals loved by the Muses are blessed, 
+for sweet words ﬂow from their mouths. If a singer 
+who serves the Muses sings about the famous 
+deeds of ancient men and women and the blessed 
+gods who live on Olympus, then mortals whose
+souls are fresh with pain and whose hearts
+burn with grief will instantly forget their suffering
+and pain, diverted by the gifts of the goddesses.
+Hesiod
+8
+Welcome, children of Zeus. Sing to me a lovely 
+song, a song of the divine race of immortals who 
+always are, those born of Gaia, starry Ouranos, 
+and dark Nix and nourished by salty Pontus.
+Tell us how the gods and earth ﬁrst came to be,
+and the rivers, the inﬁnite seas that swell with rage,
+the shining stars, and the wide heavens above.
+Tell us how the gods were born, givers of fortune, 
+how they divided riches and distributed honors, 
+and how they ﬁrst took craggy Olympus. 
+Start at the beginning, Muses with homes
+on Olympus, and tell me: who was born ﬁrst?
+First there was Chaos, then broad-chested Gaia, 
+the steadfast seat of all immortals who live 
+upon the snowy peaks of Olympus, then murky 
+Tartarus in the depths of the wide earth, and Eros, 
+most beautiful of the immortal gods, who weakens 
+the limbs and overwhelms the minds and wise 
+counsel in the breasts of all gods and humans.4
+Chaos gave birth to Erebus and black Nix,
+and from Nyx came Aether and Hemera,
+conceived after Nyx joined in love with Erebus.5 
+First, Gaia bore starry Ouranos, her equal,
+to envelop her on all sides so she would be
+the ever-secure home for the blessed gods.
+Then she bore tall Ourea,6 pleasant refuge
+for the goddess Nymphs of the mountain
+forests, and the sterile, swelling seas of Pontus. 
+All of these she bore alone. Then she 
+4 Eros = Desire
+5 Erebus = Darkness, Aether = Upper Sky (or air that the gods breathe), 
+Hemera = Day
+6 The Ourea are ten gods who personify different mountains, including 
+Olympus, Helicon, and Etna. The Roman equivalent of the Ourea are called 
+Montes, which is the origin of the word mountains.
+Theogony
+9
+bedded Ouranos and bore deep-whirling 
+Oceanus, Coeus, Crius, Hyperion, Iapetus, 
+Theia, Rhea, Themis, Mnemosyne, golden-
+crowned Phoebe, and fair Tethys. Then wily 
+Cronos was born, her youngest and most
+dreadful child, who hated his fearsome father.
+Then she bore the violent-hearted Cyclopes:
+Brontes, Steropes, and spirited Arges7. They
+gave thunder to Zeus and built thunderbolts,
+and they looked like the gods in every way
+but one: they had only one eye in the middle 
+of their foreheads. Because of this single,
+circular eye, they were called Cyclopes. 8
+Their strength was great, as was their craft.
+But Gaia and Ouranos gave birth to three
+unspeakably huge and powerful sons: 
+Cottus, Briareus, and Gyges, arrogant 
+children. From their shoulders sprang 
+a hundred monstrous arms, with ﬁfty 
+heads on each pair of sturdy shoulders, 
+and immense strength in their massive forms.
+These were the worst all those born to Gaia 
+and Ouranos. Their father hated them 
+from the moment they were born and hid them
+all in a secret corner of Gaia, never allowing 
+them into the light, and Ouranos rejoiced
+at his foul work. But Gaia groaned at the strain
+within her depths and devised a wicked plan.
+She quickly made a large scythe using gray, 
+impenetrable steel and showed it to her children.
+Then she said to them, as her heart grieved:
+“My children, born to a wicked father, if you 
+7 The Cyclopes are personiﬁcations of lightning and thunder: Brontes means 
+Thunder, Steropes means Lightning, and Arges means Bright
+8 The Greek word for Cyclopes is κθκλοτερής, which means round or circular.
+Hesiod
+10
+choose to obey, then avenge your father’s foul
+disgrace, for he was the ﬁrst to plot evil deeds.”
+So she said, but fear seized them, and no one 
+said a word. But crooked-counselor Cronos
+boldly answered his noble mother, saying:
+“Mother, I pledge to complete this task;
+I do not care about our despicable father,
+for he was the ﬁrst to plot evil deeds.”
+Hearing this, colossal Gaia rejoiced in her heart. 
+She hid Cronos in an ambush, put a sharp-
+toothed sword in his hands, and explained 
+to him the whole plan. When Ouranos came, 
+towing night, he stretched himself out over 
+Gaia, desiring her love. Cronos reached out 
+with his left hand, took the jagged-toothed 
+sickle in his right, and quickly cut off his dear 
+father’s genitals and threw them behind 
+him. But they did not fall in vain, for all 
+the blood-red drops that fell were caught 
+by Gaia, and in time, she bore the mighty 
+Erinyes, the great Giants with bright armor 
+and long spears, and the Nymphs called 
+Meliae across the endless earth.9 Soon after 
+the genitals were cut by the sickle and thrown 
+into the agitated sea, they were carried through 
+the water for a long time, and a white foam 
+sprang from the deathless ﬂesh, and inside 
+grew a young woman. First she came to sacred 
+Cythera and then to sea-bathed Cyprus, where 
+a beautiful goddess emerged with grass growing 
+around her slender feet. Gods and mortals call her 
+Aphrodite, for she was born from the sea-foam, 
+and fair-crowned Cytherea, for she reached 
+Cythera, and also Cyprogenes for she was born 
+9 Erinyes = Furies
+Theogony
+11
+on sea-bathed Cyprus, and Philommedes10 for she 
+sprang from genitals. Eros followed her, and fair
+Himeros stayed with her from the moment she 
+was born until she joined the race of the gods. 
+She had this honor from the beginning 
+and obtained by lot from humans and immortal 
+gods the secrets, smiles, deceptions, sweet delights,  
+friendliness, and gentleness of young women.
+Their father, great Ouranos, rejected his sons
+and nicknamed them Titans, for he said they 
+foolishly stretched to commit a great deed 
+and would one day pay a price for their actions.11
+Nyx, though she had not slept with any other gods, 
+bore terrible Moros, black Ker, and Thanatos, 
+Hypnos, the tribe of Oneiroi, and Momus, 
+deadly Oizys, and the Hesperides, who cared 
+for the beautiful, golden apples and the trees that 
+bore them beyond famed Oceanus.12 She also bore 
+the Moirai and the pitilessly punishing Keres—
+Clotho, Lachesis, and Atropos—who assign 
+good and evil to mortals at birth, who pursue 
+the wrongs of both mortals and gods, and who 
+never abandoned their terrible fury until they 
+gave their dire punishments to wrongdoers.13 
+And deathly Nyx bore Nemesis, bringing 
+woe to mortals, and then bore Apate, Philotes, 
+10 Philommedes literally means “lover of genitals”
+11 The word “titan” comes from the Greek word titano, which means to stretch, 
+extend, or exert oneself. In other words, Ouranos is saying that the Titans went 
+too far in their attack on him and would be punished for it one day.
+12 Moros = Doom, Ker = Deadly Fate, Thanatos = Death, Hypnos = Sleep, 
+Oneiroi = Dreams, Momus = Satire/Mockery, Oizys = Misery, Hesperides = 
+Evening
+13 Moirai and Keres are both terms representing the Fates. The three Fates 
+mentioned here each perform a speciﬁc task when a child is born. Clotho spins 
+the thread of life; Lachesis measures the allotted thread (time) each life is 
+given; and Atropos cuts the thread of life.
+Hesiod
+12
+mournful Geras, and hard-hearted Eris.14
+And hated Eris bore woeful Ponos, Lethe, Limos, 
+the lamentable Algea, the Hysminai, the Machai, 
+the Phonoi, the Androktasiai, the Neikea, 
+the Pseudea, the Logoi, the Amphillogiai, 
+the Dysnomia, Atë, all similar to each other, 
+and Horkos, who brings great misery to mortals
+when someone willingly swears a false oath.15
+Pontus fathered truthful and sincere Nereus,
+his oldest child; they call him Old Man,
+for he is gentle and kind, never forgets customs,
+and makes fair and honest plans. Then he 
+mixed again with Gaia and bore great Thaumas, 
+arrogant Phorcys, fair-cheeked Ceto, 
+and Eurybia, whose heart is made of steel.
+Many children, all greatly desired, were 
+born in the barren sea to Nereus and fair-
+haired Doris, daughter of ever-circling 
+Ocean: Protho, Eucrante, Sao, Amphitrite, 
+and Eudora, Thetis, Galene, Glauce, 
+and Cymothoe, swift Speo, beautiful 
+Thalia, Pasithea, Erato, rosy-armed Eunice,
+charming Melite, Eulimene, Agave, Doto, 
+Proto, Pherusa, Dynamene, Nessea, Actaea, 
+Protomedea, Doris, Panope, lovely Galatea, 
+fair Hippothoe, rosy-armed Hipponoe, 
+and Cymodoce who, along with Cymatolege 
+and ﬁne-ankled Amphitrite, calm the dark 
+sea’s waves and the stormy wind’s blasts; 
+14 Nemesis = Vengeance, Apate = Deceit, Philotes = Friendship, Geras = Old 
+Age, Eris = Strife
+15 Ponos = Hardship and Toil, Lethe = Forgetfulness, Limos = Starvation, Algea 
+= Pain, Hysminae and Machai = various aspects of battle and combat, Phonoi 
+= Murder, Androktasiai = Manslaughter, Neikea = Argument, Pseudea = Lies, 
+Logoi = Stories, Amphillogiai = Disputes, Dysnomia = Anarchy, Atë = Hate 
+and Ruin, Horkos = Oath
+Theogony
+13
+and Cymo, Eone, fair-crowned Halimede, 
+smiling Glauconome, Pontoporea, 
+and Leagore, Eusagore, Laomeda, Polynoe, 
+and Autonoe, Lusianassa, Euarne, who is 
+ﬁne in ﬁgure and blameless in beauty, 
+and Psamathe, who is beautiful in body,
+and divine Menippe, Neso, Eupompe, 
+Themisto, Pronoe, and Nemertess,
+who has the mind of her immortal father.
+These came from the illustrious Nereus:
+ﬁfty daughters all able to do great work.
+Thaumas wed Electra, deep-ﬂowing 
+Oceanus’ daughter, and she bore swift Iris 
+and the fair Harpies, Aello and Ocypete,
+who had swift wings and soared high
+up in the air like the wind or the birds.
+To Phorcys, Ceto bore the fair-cheeked, 
+grey-haired Graeae, so-called by mortals 
+and immortals alike: ﬁne-robed Pemphredo
+and saffron-veiled Enyo. And she bore 
+the Gorgons who live beyond famed Oceanus 
+at the edge of Nyx where the clear-voiced 
+Hesperides dwell: the immortal and ageless
+Sthenno and Euryale, and the mortal Medusa, 
+who met a foul end. Dark-haired Poseidon 
+slept with Medusa in a soft meadow surrounded 
+by spring ﬂowers. When Perseus beheaded her, 
+out sprang great Chrysaor and the horse Pegasus.
+one named for the sword he held, the other
+for being born beside the waters16 of Oceanus.
+Pegasus left the earth, mother of sheep, and ﬂew
+to the immortals, and he lives in Zeus’ house,
+bringing thunder and lightning to counselor Zeus.
+Chrysaor joined with Callirhoe, great daughter
+of Oceanus, and she bore three-headed Geryon,
+16 The Greek word πηγή (pegai) means water.
+Hesiod
+14
+who was killed by mighty Heracles beside 
+his tottering cattle on sea-bathed Erytheia
+on the day he drove the broad-chested cattle
+across the Oceanus streams to sacred Tiryns
+and killed Orthus and herdsman Eurytion
+in the dark stables across famed Oceanus.
+Ceto also bore in a hollow cave another terrible 
+monster who is unlike any mortal or immortal 
+god: divine, dauntless Echidna, who is one-half 
+fair-eyed, beautiful nymph and one-half terrible, 
+quick-moving serpent who eats raw ﬂesh 
+in the hidden places under the earth. Her cave 
+is beneath a hollow boulder, far from immortal 
+gods and mortal humans. There the gods 
+assigned pitiful Echidna glorious houses to live in, 
+and the immortal and ageless nymph keeps 
+watch among the Arima under the earth.
+It is said that the quick-glancing maiden Echidna
+joined with terrible, violent, and lawless Typhon,
+became pregnant, and bore fearsome children.
+First came the Orthrus, Geryon’s dog; then she 
+bore the unmanageable, unspeakable Cerberus,
+eater of raw ﬂesh, the bronze-voiced dog 
+of Hades, ﬁfty-headed, merciless, and mighty.
+Then she bore foul-minded Hydra of Lerna,
+reared by the white-armed goddess Hera when 
+she was monstrously angry with mighty Heracles.
+But Heracles, son of Zeus and of Amphitryon,
+slew the Hydra with pitiless bronze, aided 
+by warlike Iolaus and plunderer Athena’s counsel.
+And Echidna bore the invincible, ﬁre-breathing 
+Chimera: terrible, huge, swift, and powerful.
+She had three heads: a savage lion, a she-goat, 
+and a serpent, a mighty dragon; her front was 
+lion, her middle was goat, her back was serpent,
+and she breathed terrible ﬁre. She was slain 
+by Pegasus and noble Bellerophon. Chimera, 
+Theogony
+15
+subdued by Orthrus, bore deadly Sphinx, scourge 
+of the Cadmeans, and the Nemean lion, 
+the bane of mortals, whom Hera, glorious wife 
+of Zeus, raised and sent to live in Nemea. 
+While dwelling there, it laid waste to the mortal
+races and ruled Tretos in Nemea and Apesas;
+but the strength of Hercules overpowered it.
+Ceto made love to Phorcys and bore her youngest 
+child, a terrible snake who guards the golden 
+apples in the dark places at the end of the world. 
+These, then, are the children of Ceto and Phorcys.
+Tethys bore to Oceanus the twisting rivers:
+Nilus, Alpheus, the deep-swirling Eridanos,
+Strymon, Meander, beautiful-ﬂowing Ister,
+Phasis, Rhesus, the silver-waving Achelous,
+Nessus, Rhodius, Haliacmon, Heptarorus, 
+Grenicus, Aesepus, divine Simoeis, Peneius,
+Hermus, fair-ﬂowing Caïcus, the great
+Sangarius, Ladon, Parthenius, Euenus,
+Aldescus, and the divine Scamander.
+And she bore divine daughters who raised 
+young boys into men along with lord Apollo 
+and the Potamoi, for this was Zeus’ charge 
+to them: Peitho, Admete, Ianthe, Electra, 
+Doris, Prymno, divine-formed Ourania, 
+Hippo, Clymene, Rhodea, Callirhoe, 
+Zeuxo, Clytie, Idyia, Pasithoe, Plexaura, 
+Galaxaura, welcoming Dione, Melobosis, 
+Thoe, shapely Polydora, fair-formed Cerceis, 
+doe-eyed Pluto, Perseis, Ianeira, Acaste, 
+Xanthe, charming Petraea, Menestho, 
+Europa, Metis, Eurynome, saffron-veiled 
+Telesto, Chryseis, Asia, fair Calypso, 
+Eudora, Tyche, Amphiro, Ocyrhoe, 
+and Styx, who is without a doubt the greatest 
+of them all. These were the oldest 
+of the maidens born to Oceanus and Tethys, 
+but there are many others: three-thousand 
+Hesiod
+16
+thin-ankled daughters of Oceanus spread 
+across the earth and watery depths, all equal, 
+shining children of goddesses. And many 
+other loud-ﬂowing rivers, sons of Oceanus, 
+were born to queen Tethys; their names 
+are difﬁcult for a mortal to recite, but each 
+is known by those who dwell near them.
+And Theia, taken in love by Hyperion, 
+bore great Helios, bright Selene, and Eos, 
+who shines for all mortals upon the earth
+and for the gods who hold the broad heavens.
+And Eurybia, divine among goddesses, joined 
+in love with Crius and bore great Astraeus, 
+Pallas, and Perses, famed for his knowledge.
+And Eos, a goddess in love with a god, 
+bore to Astraeus the violent winds: clearing 
+Zephyrus, swift-moving Boreas, and Notus.
+After this, Eos bore early-born Heosphoros 
+and the shining stars that crown the heavens.
+Oceanus’ daughter Styx mixed with Pallas
+and bore in her palace Zelus, beautiful-ankled 
+Nike, Kratos, and Bia, famous children all.
+They have no house but the house of Zeus,
+no seat, and no path besides the one the god
+gives them, and always sit beside thundering Zeus.
+So Styx, immortal daughter of Oceanus, decided
+on the day the Olympian hurler of lightning 
+called all immortal gods to great Olympus
+and said that whoever ﬁghts against the Titans
+would not lose their privileges and would retain
+all of their honors among the immortal gods;
+and those who were denied honor by Cronos
+would gain honor and privilege, as is their right.
+So incorruptible Styx and her children, following
+her father’s plan, were ﬁrst to go to Olympus,
+and Zeus honored her and gave her great gifts,
+Theogony
+17
+making her the great oath of the gods17 and keeping
+her children beside him from that day on.
+And everything that he promised, he fulﬁlled,
+and he himself rules with greatness and might.
+Phoebe came to the much desired bed of Coeus,
+and the goddess, pregnant with a god’s love,
+bore dark-robed Leto, always gentle and kind 
+both to humans and to the immortal gods—gentle 
+from the start, and kindest of those on Olympus.
+Phoebe also bore honorable Asteria, whom Perses
+led to his great house to become his loving wife.
+Asteria bore Hecate, whom Zeus, Cronos’ son, 
+honored above all others. He gave her splendid
+gifts: a portion of the earth and the sterile sea, 
+a share of the honor from the starry skies, 
+and the highest honors from the immortal gods.
+Now, whenever humans upon the earth pray
+for favors by offering beautiful sacriﬁces, they call 
+on Hecate. Much honor follows the ones whose 
+prayers the goddess kindly accepts, and fortune 
+follows those so blessed—such is her power.
+For all those born to Gaia and Ouranos were
+granted honors, and Hecate had her share too.
+Nor did the son of Cronos seek to deprive
+her of any honor she received from the Titans, 
+and she retains all she was given in the beginning.
+Nor does this goddess, an only child, have fewer 
+honors on the earth, in the sky, or in the sea; 
+in fact, she has more, for Zeus himself honors her. 
+When she comes and proudly aids someone,
+that person will surpass all others in the assembly.
+When men arm themselves for deadly combat, 
+the goddess stands beside her chosen side, eager 
+to grant victory and extend glory. She stands 
+beside revered kings during trials, she stands 
+17 The gods swore all their oaths upon the Styx.
+Hesiod
+18
+beside horsemen that she chooses, and she stands 
+beside and helps those competing in contests.
+And when one gains victory by strength or force, 
+he carries his prize with ease and joy and honors 
+his parents. And to those who work the gusty gray 
+sea and pray to Hecate and the roaring Earth-
+shaker, the great goddess easily grants a great haul 
+of ﬁsh, and just as easily takes it away, if her spirit 
+so wishes. And along with Hermes, she excels 
+at increasing livestock in pens: herds of cattle 
+and wide goats, and ﬂocks of wooly sheep; 
+she can strengthen a herd or ﬂock or weaken it—
+whatever her spirit desires. And though she is 
+her mother’s only child, she is granted great honors 
+among the immortals. And Cronos’ son made 
+her nurse to all children who see with their eyes 
+the light of all-seeing Eos. Thus she was a nurse 
+from the very start, and these are her honors.
+Rhea was tamed by Cronos and bore him 
+glorious children: Hestia, Demeter, golden-
+sandaled Hera, mighty Hades whose ruthless 
+heart lived beneath the earth, the loud-sounding 
+Earth-shaker, and counselor Zeus, father of gods 
+and mortals, whose thunder shakes the wide earth.
+Great Cronos gulped the children down as soon as
+they emerged from kneeling Rhea’s divine womb.
+He wished to prevent Ouranos’ famed children
+from becoming king over the immortals, for he
+learned from Gaia and starry Ouranos that,
+though he was strong, his own son was fated
+to overthrow him through the plans of great 
+Zeus; thus he kept constant watch and swallowed
+his children whole, bringing Rhea great grief.
+So when she was about to bear Zeus, father 
+of gods and mortals, she begged her dear parents,
+Gaia and starry Ouranos, to devise a plan
+to let her bear her child in secret and avenge 
+her father’s fury and the fury of her children
+whom wily Cronos had swallowed. They
+Theogony
+19
+listened to their dear daughter and obeyed her, 
+revealing to her all that was destined to happen 
+to king Cronos and his stout-hearted son. 
+Then they sent her to Lyctus, in the rich 
+lands of Crete when she was ready to bear 
+her youngest, great Zeus; once there, gigantic 
+Gaia would receive him, nurse him, and raise 
+him. So Rhea carried him through the quick 
+black night to Lyctus, took him in her hands,
+and hid him in a cave deep within holy 
+Gaia, in the dense forests of Mount Aegaeon.
+Then she took a stone, wrapped it in swaddling 
+clothes, and gave it to Ouranos’ son, the Titan 
+king. He grabbed the stone and swallowed it
+cruelly, unaware that his son remained free 
+and untroubled and would one day overpower 
+him, drive him from his place of honor, 
+and become king of the immortals. 
+Lord Zeus’ strength and glorious limbs grew 
+quickly, and after a year’s time, thanks to Gaia’s
+elegant deception, great crooked-counselor 
+Cronos vomited up his children, defeated
+by his son’s plans and his might. First, Cronos 
+vomited up the stone, since he had swallowed 
+it last; Zeus took the stone and placed it in sacred
+Pytho, in the valleys around Parnassus, to be 
+a sign of wonder for mortals from that point on.18
+Then he freed his uncles, the Cyclopes, sons 
+of Ouranos, from the bonds Cronos foolishly
+inﬂicted upon them. In return for his kindness, 
+they gave him thunder, blasting thunderbolts, 
+and lightning, which before Gaia had concealed. 
+With these, Zeus rules over mortals and immortals.
+Iapetus married Clymene, Oceanus’ fair-ankled
+18 Pytho is the ancient name for Delphi, so the stone in question is the 
+Omphalos Stone at Delphi.
+Hesiod
+20
+daughter, went to bed with her, and she bore 
+stout-hearted Atlas, illustrious Menoetius,
+shrewd and sly Prometheus, and scatter-brained
+Epimetheus, who became the bane of all mortals 
+who work for their bread, for he was the ﬁrst 
+to accept Zeus’ moulded maiden.19 Far-seeing 
+Zeus hurled arrogant Menoetius down to Erebus 
+with a thunderbolt because of his foolishness 
+and his reckless vanity. Atlas is forced to stand 
+at the ends of the earth in front of the clear-
+voiced Hesperides and hold up the wide heavens 
+with his head and tireless arms, for this is the fate 
+counselor Zeus assigned to him. And Zeus 
+bound wily Prometheus in painful, unbreakable 
+chains that were driven through the middle 
+of a pillar, and he sent a wide-winged eagle 
+to eat his immortal liver, but each night the liver 
+grew back as much as the wide-winged bird 
+had eaten that day. But Heracles, son of fair-
+ankled Alcmene, killed the eagle, repelling 
+the foul fate of Iapetus’ son, freeing him 
+from suffering, and adding to Theban-born
+Heracles’ great glory upon the bountiful earth.
+High-ruling Olympian Zeus approved, for he 
+wished to honor his revered son, and so gave 
+up the anger he held against Prometheus
+for matching wits with Cronos’ mighty son. 
+For when gods and mortals met in Mecone,
+Prometheus cleverly divided a great ox 
+and set it before him, hoping to deceive Zeus. 
+First, he set down before him ﬂesh and rich,  
+fat entrails and hid them in the ox’s stomach;
+then he cleverly set down the white ox bones
+and covered them with shining fat. Then
+the father of gods and mortals said to him:
+“Dear son of Iapetus, noblest of all the gods,
+19 Pandora
+Theogony
+21
+you have divided the portions unfairly.”
+So said all-knowing Zeus, mocking him.
+But with a smile, crooked-counselor Prometheus 
+replied to him, not forgetting his clever trick:
+“Glorious Zeus, greatest of all immortals,
+choose whichever one your heart desires.”
+So he said, deceptively. All-knowing Zeus
+spotted the deception, but he desired evil
+for mortals, which he would fulﬁll. He took 
+the white fat with both hands, and when he saw 
+the white ox bones and realized the deception, 
+he exploded with rage, his mind ﬁlled with malice. 
+Ever since then, mortals burn white bones 
+on smoking altars in offering to the gods.
+And a fuming cloud-gatherer Zeus told him:
+“So, dear son of Iapetus, noblest of all the gods,
+you did not forget your clever tricks after all.”
+So spoke an angry, all-knowing Zeus. 
+And because of this deception, he refused
+to give the might of eternal ﬁre to the ash
+trees for mortals who live upon the earth.20 
+But the son of Iapetus tricked Zeus again
+by stealing the far-shining gleam of eternal 
+ﬁre in a hollow fennel stalk. It burned deep
+in high-thundering Zeus’ soul when he saw 
+the far-shining gleam of ﬁre among mortals,
+so he devised a wicked punishment for humans.
+Following the plans of Cronos’ son, famed 
+Hephaestus molded from earth a beautiful girl.
+Then the grey-eyed goddess Athena dressed
+her in silvery clothes and covered her head 
+with a ﬁnely-crafted veil, a true wonder.
+Around her head Pallas Athena ﬁrst placed 
+20 This relates to an early belief that ﬁre lived within trees; and ash trees were 
+very common in Greece.
+Hesiod
+22
+a garland of fresh ﬂowers of the meadow 
+to arouse desire and then added a golden
+diadem made by the hands of the famed Lame
+One, Hephaestus, to please Zeus, his father.
+On this he added many ﬁnely-made designs,
+terrible beasts that the land and sea nourish;
+he made many of these, each one a shimmering 
+miracle, as real as a living, speaking creature. 
+When he had built this ﬁne but evil creature, 
+the price for ﬁre, he led her out to the other gods
+and mortals, resplendent in the adornments
+of Zeus’ grey-eyed daughter. Gods and men
+alike were awed when they saw the steep 
+deception, which men could never control. 
+For she was mother to the race of females, 
+who live with men but are their greatest foe, 
+always a friend of luxury, never of poverty.  
+Just as bees in roofed beehives feed drones,
+their partners in their foul deeds—every day,
+all day long until the sun goes down, the bees
+hurry about building their white honeycombs,
+while the drones sit inside the roofed beehives
+feeding their stomachs on the toil of others—
+so also did high-thundering Zeus create women 
+to be the bane of mortal men, partners in painful 
+deeds. And he exchanged another good for evil:
+he who ﬂees marriage and women’s foul deeds
+and refuses to marry comes to old age deprived 
+of a caretaker; when he lives, he lacks nothing,
+but when he dies his relatives divide his fortune.
+The man who marries a worthy wife, one 
+whose mind is similar to his own, will see
+good and evil in balance throughout his life.
+But the man who takes a troublemaker 
+for a wife will know endless, incurable pain 
+in his mind and heart during his life.  
+Thus, no one can deceive the mind of Zeus.
+Not even Iapetus’ son, gracious Prometheus,
+Theogony
+23
+could escape a foul fate, for despite his sharp
+mind, a terrible burden holds him down. 
+When Ouranos ﬁrst grew angry with Briareus,
+Cottus, and Gyges, he bound them in strong 
+chains, for he hated their arrogance, their looks, 
+and their size and he made them live beneath 
+the broad earth. So they sat below, at the earth’s
+edge, living in pain and suffering greatly, 
+their hearts ﬁlled with grief. But the son of Cronos 
+and the other immortals born in love to fair-haired 
+Rhea and Cronos returned them to the light 
+with the advice of Gaia, who told them the whole 
+story and showed them how these creatures 
+would help them win and gain great glory.
+The Titans and those born to Cronos would 
+battle against one another for a very long time
+and suffer greatly—the Titans from high 
+Othrys and from Olympus the gods, who bring 
+good things and who were born to fair-haired 
+Rhea after sleeping with Cronos. For ten
+long years they fought one another, their spirits
+ﬁlled with rage. And there was no resolution
+in sight, for both sides were evenly divided 
+and the war’s outcome was uncertain.
+But when Zeus offered the Hecatoncheires
+nectar and ambrosia,21 which the gods 
+themselves eat, their hearts and spirits were
+lifted. The the father of gods and mortals
+addressed them and said to them:
+“Listen to me, bright children of Gaia 
+and Ouranos, so I can say what is in my heart. 
+We have battled every day for a long time,
+each seeking victory and power, the Titans
+and we gods who were born from Cronos.
+So use your great strength and untouchable 
+21 Ambrosia is the food of the gods, and nectar is the drink.
+Hesiod
+24
+hands and ﬁght with us against the Titans,
+for we are your kind friends who freed you 
+from your painful bonds and brought you
+out of the bitter dark and into the light.”
+So he said, and at once great Cottus replied:
+“Noble sir, you say what we already know.
+We know your mind and thoughts are superior
+and you defend the gods against icy ruin.
+Your wisdom, lord son of Cronos, brought 
+us out of the gloomy darkness and freed us 
+from unrelenting bonds, which we hope 
+never to experience again. Thus, with clear
+minds and eager spirits, we vow to defend 
+your power against the Titans in dread battle.” 
+So he said, and the gods who give glory heard
+his words and approved. Their hearts desired 
+war more than ever before, and on that day all 
+readied for battle, men and women, the Titan
+gods and the children of Cronos as well as
+those deﬁantly strong beings Zeus brought 
+back to the light from Erebus under the earth,
+each of them with a hundred arms coming 
+out of their shoulders, and ﬁfty heads growing 
+from their shoulders on top of their giant 
+limbs. They took their places against the Titans
+wielding enormous stones in their large hands.
+But the Titans quickly reinforced their battle 
+lines, and both sides readied their mighty 
+hands. The endless seas echoed around them, 
+the great earth rumbled, the heavens groaned, 
+and high Olympus shook from the ground up as 
+the immortals charged, and the rumble and cries 
+reached all the way to deep Tartarus. So it was 
+that the two sides hurled their terrible spears 
+at each other, their encouraging shouts reaching 
+the starry skies as the two sides converged.
+Zeus unleashed the full fury of his heart 
+Theogony
+25
+and the full force of his might. From both the sky
+and from Olympus, he hurled a constant barrage 
+of lightning bolts, and the bolts, like a twisting 
+ﬁre, ﬂew closely-packed out of his gigantic hands 
+along with the ﬂash and thunder. All over, 
+the life-giving earth burned black, a loud 
+crackling ﬁlled the vast forests, and the earth 
+and the streams of Oceanus and the seas all 
+boiled. The hot ﬂames encircled the earth-
+born Titans and reached the heavenly 
+aether, and for all their power, their eyes were 
+blinded by the ﬂashing light of the bolts. 
+Divine heat took hold of Chaos that looked 
+to the eyes and sounded to the ears like 
+Gaia and Ouranos making love: the great 
+sound that rose up when he pressed down 
+upon her from on high, the sound of gods 
+converging in passion. And the wind stirred 
+a torrent of dust that mixed with the thunder-
+bolts and lightning—the weapons of great 
+Zeus—and these carried the cries and shouts 
+into the center between the two sides, 
+and a terrifying noise of battle rose up, 
+and mighty deeds were revealed.
+Then the battle turned. Earlier, they had 
+converged on each other and fought steadily, 
+but then Cottus, Briareus, and battle-crazed
+Gyges rose up from the front lines and hurled
+three hundred boulders from their massive
+hands, one after another, and overwhelmed
+the Titans with their blows, defeating them
+and sending them down beneath the earth 
+and binding them there. As far below 
+the earth as the sky is above the earth—
+that is the drop from earth to murky Tartarus.
+A bronze anvil falling from the sky for nine days 
+and nights would reach the earth on the tenth day, 
+and the same anvil falling from the earth for nine 
+Hesiod
+26
+days and nights would reach Tartarus on the tenth.
+A bronze barrier surrounds Tartarus, and night
+is poured around its neck in three rows; and above
+it grow the roots of the earth and the sterile sea.
+This is the murky netherworld where the Titan 
+gods were hidden by design of cloud-gatherer Zeus: 
+an vile place at the very ends of the wide earth. 
+There is no escape, for Poseidon placed a bronze
+gate around it, and a wall surrounds it on all sides.
+This is where Gyges, Cottus, and great-hearted 
+Briareus live, the guards of aegis-bearing Zeus.
+And this is the source and limits of the dark 
+earth, murky Tartarus, the barren sea, the starry 
+heavens—dank, a terrible place that even the gods 
+abhor: a great chasm. Those who come inside 
+the gates could never reach the chasm’s end
+even in a full year, for they would be blown
+this way and that by one storm after another,
+monstrous even for the immortal gods.
+And it is here where the palaces of Nyx
+can be found, shrouded in black clouds.
+It is here where Atlas, son of Iapetus, stands 
+immobile, holding the wide heavens with his head 
+and sturdy hands, and Nyx and Hemera cross 
+paths and greet each other as they pass the great 
+bronze threshold, one going out the door 
+and the other coming in, for both cannot be 
+in the house at the same time, for one leaves 
+the house to pass around the earth while the other 
+remains in the house waiting for her journey 
+to begin. Hemera carries light for the earth; 
+the other holds in her hands Hypnos, brother 
+of Thanatos—deadly Nyx, shrouded in clouds.
+And here Nyx’s children have their homes:
+Hypnos and Thanatos, feared gods. Bright 
+Helios never shines his light upon them when
+Theogony
+27
+he rises in the sky or when he sets in the sky.
+Hypnos travels gently over the earth and wide 
+seas soothing human beings, but Thanatos
+has an iron heart and brazen soul, and when 
+he takes hold of a human, he does not let go.
+He is hated even by the immortal gods.
+And here stand the echoing palaces of the god
+of the underworld, stout Hades and terrible
+Persephone. A fearsome dog22 ruthlessly 
+guards the gates using a nasty trick: he wags
+his tail and ears at those going in, but watches
+them carefully and does not let them leave, 
+devouring those trying to go out the gates 
+of stout Hades and terrible Persephone.
+And here lives a goddess loathed by immortals, 
+terrible Styx, oldest daughter of ebbing Oceanus; 
+she lives aloof from other gods in a famous palace 
+with a large rock roof and silver pillars on all 
+sides that reach to the heavens. Thauma’s 
+daughter, swift-footed Iris, rarely travels under 
+the broad back of the sea to deliver her messages.
+When strife or quarrel stirs between the gods
+or when one with mansions on Olympus lies,
+Zeus will send Iris to bring back a golden jug ﬁlled 
+with the great oath of the gods, the many named 
+icy water that pours down from a high rock,
+ﬂowing under the wide earth along the holy river,
+a branch of Oceanus, a tenth of which is given 
+to Styx. Nine parts ﬂow all over the earth 
+and the sea’s wide back in silver, whirling spools 
+before falling into the sea, but one part ﬂows
+from her rock, a great misery for the gods. 
+Immortals with homes on Olympus’ snowy
+peaks who swear false oaths after pouring 
+Stygian waters will lie breathless for an entire 
+22 Cerberus
+Hesiod
+28
+year, taking no ambrosia or nectar as sustenance 
+but lying spread out on a bed, breathless 
+and speechless, enveloped in a foul coma. 
+When the punishment ends after a full year, 
+the gods receive another, even worse, test: 
+nine years of exile from other eternal gods,
+their councils and their feasts. But in the tenth
+year, the gods can again mingle with others
+who have homes on Olympus. This is the oath 
+that the gods take with Styx’s primeval waters,
+which pour out from that rugged place.
+And here are found the limits of the dark 
+earth and of dark Tartarus and the barren
+sea and the starry skies, one after another—
+terrible places that even the gods abhor.
+And here are the marble gates and unmovable
+bronze ﬂoor that is bound to the earth with self-
+grown roots, and here the Titans live, separated 
+from all other gods, on the far edges of murky 
+Chaos. The famed allies of loud-thundering Zeus 
+also live here, far below the ﬂoor of Oceanus, 
+Cottus and Gyges, but Earth-shaker Poseidon
+made noble Briareus his son-in-law by giving 
+him Cymopolea, his daughter, to marry.
+After Zeus drove the Titans from heaven, huge 
+Gaia joined with Tartarus and bore her youngest 
+child, Typhon, aided by golden Aphrodite. 
+His hands were strong and capable of great deeds, 
+and his feet were tireless. A hundred snake heads 
+sat on his shoulders, fearsome dragons with dark 
+ﬂickering tongues. Fire sparkled from the eyes
+on each divine head, and with each look his eyes
+burned ﬁre. The voices in all the heads produced 
+indescribable sounds. At times, they made sounds 
+the gods could understand; at other times, they 
+bellowed loudly like a giant bull with unbelievable 
+strength or roared like a proud lion or cried 
+Theogony
+29
+like a litter of puppies, amazing to behold, 
+or they hissed and made the tall mountains echo. 
+And terrible deeds would have happened 
+on that day, and Typhon would have ruled over 
+mortals and gods alike had Zeus, father of gods 
+and mortals, not been watching. He thundered loud 
+and hard and the earth shook violently, as did 
+the heavens above and the seas and the Oceanic 
+streams and deep Tartarus. As lord Zeus rushed 
+ahead, all Olympus shook under his immortal feet, 
+and the earth groaned. Beneath them, the violet 
+sea was consumed by the heat of the thunder 
+and lightning  and the monster’s ﬂames and winds 
+and blazing bolts. And the earth, sea, and sky 
+all boiled, and the force of the immortals 
+sent great waves crashing over the sea shores, 
+and an endless quake arose; and Hades, 
+lord of the underworld, and the Titans 
+in Tartarus around Cronos trembled in fear 
+of the endless noise and terrible battle-strife.
+When Zeus had raised his might and taken 
+his weapons, thunder and lightning, he leapt
+from Olympus onto the terrifying monster
+and burnt all of his divine heads. Once 
+overpowered by striking blows, Typhon fell 
+over lame, and the wide earth groaned; and as 
+he was struck, ﬂames ﬂew from the thunderbolt 
+lord in the dark, rocky mountain dells, and this 
+awesome blast burnt much of the wide earth 
+and melted it like tin that skilled young men 
+heat in well-pierced melting pots or like iron, 
+the strongest of things, tamed in the mountain 
+dells by blazing ﬁre and melted in the divine 
+earth by skilled Hephaestus; so the ﬁre melted 
+in the earth. And with rage in his heart, 
+Zeus hurled Typhon into broad Tartarus.
+From Typhon comes the might of the moist-
+blowing winds, separate from Notus, Boreas, 
+Hesiod
+30
+and clean Zephyrus, which are born of the gods
+and a proﬁt for mortals. The other winds blow 
+rashly over the seas, bringing violent storms 
+to murky waters and great woes to mortals.
+They blow this way and that, scattering ships 
+and killing sailors, and mortals who encounter
+them on the seas are helpless against them. 
+Even on the boundless, ﬂorid earth, they lay 
+waste to the beautiful works of humans,
+ﬁlling them with dust and painful uproar.
+When the blessed gods ﬁnished their work
+and settled by force their battle with the Titans
+over honor, then with Gaia’s counsel they urged 
+far-seeing Zeus to become king and rule over all 
+immortals, and he divided their honors among them.
+Zeus, king of the gods, took as his ﬁrst wife Metis, 
+who knows more than any other god or mortal.
+But when she was about to give birth to gleaming-
+eyed goddess Athena, he deceived her with cunning 
+words by putting Athena into his belly, taking
+the advice of Gaia and starry Ouranos. They
+prophesied that one of the other immortal gods
+would hold the honors of king instead of Zeus,
+for Metis would one day bear very wise children:
+ﬁrst she would bear gleaming-eyed Tritogeneia, 
+who had strength and wisdom equal to her father, 
+and then a son, a king of gods and mortals, 
+with a violent heart. But before this happened, 
+Zeus put Athena in his own belly, so the goddess 
+would advise him on good and evil.
+His second marriage was to shining Themis, who 
+bore the Horae—Eunomia, Dike, and prosperous 
+Eirene—who23 protect the works of mortals;24
+23 Eunomia = Lawfulness, Dike = Justice, Eirene = Peace
+24 Horae = Seasons/Passage of Time, Eunomia = Order, Dike = Justice, Eirene = 
+Peace
+Theogony
+31
+and the Moirai—Clotho, Lachesis, and Atropos—
+to whom counselor Zeus gives the greatest honor, 
+for they give mortal humans both good and evil.
+Then Eurynome, beautiful daughter of Oceanus,
+bore for him the three fair-cheeked Charities:
+Aglaea, Euphrosyne, and charming Thalia; limb-
+relaxing desire falls from their eyes at every glance, 
+for they are beautiful to behold under their brows.
+Then bountiful Demeter came to his bed and bore 
+white-armed Persephone, taken from her mother 
+by Hades with the approval of counselor Zeus.
+Then he fell in love with fair-haired Mnemosyne,
+ane she bore the nine Muses with golden bands,
+who delight in festivals and the joy of song.
+Then aegis-bearing Zeus joined in love with Leto,
+and she bore Apollo and Artemis, shedder
+of arrows, loveliest of all Ouranos’ children.
+Finally, Zeus made Hera his ﬂourishing wife,
+and she joined in love with the king of gods
+and mortals and bore Hebe, Ares, and Eileithyia.
+Zeus bore from his own head bright-eyed Athena,
+the revered rouser of terrible war and untiring 
+leader who delights in the chaos of battle;
+this made Hera furious, so without mingling 
+in love she bore famed Hephaestus, whose 
+skilled hands surpassed all of Ouranos’ children.
+And Amphitrite bore for the loud-roaring Earth-
+shaker great and mighty Triton, who holds the sea
+bottom and dwells in a golden palace with his dear 
+mother and lordly father, a feared god.
+And Cytherea bore for shield-piercing Ares terrible 
+Hesiod
+32
+Phobos and Deimos,25 who drive the battle lines 
+of men into confusion with Ares, destroyer of cities, 
+and Harmonia, who became wife of Cadmus.
+And Zeus took Maia, daughter of Atlas, to bed, 
+and she bore famed Hermes, herald of the gods.
+Semele, daughter of Cadmus, joined with Zeus 
+and bore delightful Dionysus, a mortal woman 
+bearing an immortal son, but now both are gods.
+And Alcmene joined in love with cloud-gatherer 
+Zeus and gave birth to the mighty Heracles.
+And Hephaestus, famed for his twisted legs,
+took as wife Aglaea, youngest of the Charities.
+And golden-haired Dionysus took as his wife
+blonde Ariadne, Minos’ daughter, and the son
+of Cronos made her immortal for his sake.
+The strong son of fair-ankled Alcmene, mighty
+Hercules, took Hebe, daughter of great Zeus 
+and golden-sandaled Hera, as his revered wife
+on snowy Olympus, after completing his painful 
+tasks, for he now lives unharmed and ageless
+among the immortals for the rest of days.
+And Perseis, famed daughter of Oceanus, bore 
+Circe and King Aeëtes for untiring Helios.
+Aeetes, son of light-bringing Helios, married
+the daughter of unending-river Oceanus,
+beautiful-cheeked Idyia, by will of the gods;
+and she, overcome by the passion of golden 
+Aphrodite, gave birth to fair-cheeked Medea.
+Now farewell to you with homes on Olympus,
+25 Phobos = Fear, Demios = Terror
+Theogony
+33
+and the islands, mainlands, and salt seas within.
+Now, sweet-voiced Olympian Muses, daughters
+of aegis-bearing Zeus, sing of the race of goddesses, 
+those who lay in beds with immortals and mortals 
+and who bore children equal to the gods.
+The divine goddess Demeter mingled in love 
+with heroic Iasius in a thrice-plowed ﬁeld in Crete’s 
+bountiful lands and bore noble Plutus,26 who travels 
+all over the earth and the wide sea’s back; whoever 
+happens upon him and comes into his arms 
+is made rich, for he grants them great wealth. 
+Harmonia, golden Aphrodite’s daughter bore
+to Cadmus Ino, Semele, fair-cheeked Agave,
+and Autonoë, who married long-haired Aristaeus,
+and Polydorus, in fair-meadowed Thebes.
+Callirhoe, daughter of Oceanus, mingled 
+in Aphrodite’s love with stout-hearted Chrysaor,
+and bore the strongest of all mortals, Geryon,
+who was killed by mighty Hercules over 
+his oxen with rolling feet in sea-girt Erytheia.
+And Eos bore to Tithonus bronze-helmed 
+Memnon, Ethiopian king, and lord Emathion.
+But to Cephalus she bore a shining son, 
+strong Phaethon, a god among mortals.
+When he was a delicate child in the soft bloom 
+of youth, laughter-loving Aphrodite snatched
+him up and made him the night guardian 
+of her sacred temples, a divine spirit.
+By will of the immortal gods, Jason, Aeson’s son, 
+led the daughter of Zeus-blessed King Aeëtes 
+away after completing the many grueling tasks 
+assigned to him by the arrogant king, the violent-
+26 Plutus is the god of wealth; his name is the origin of the word “plutocracy,” 
+rule by the wealthy.
+Hesiod
+34
+minded Pelias. After enduring many hardships, 
+he came to Iolcus in a swift ship with glancing-
+eyed Medea, daughter of Aeëtes, and made her 
+his blushing bride. She joined in love with Jason,
+shepherd of the people, and bore Medus, 
+who was raised in the mountains by Chiron,
+son of Philyra. Thus Zeus’ will was fulﬁlled.
+Of the daughters of Nereus, Old Man of the Sea,
+divine Psamathe joined with Aeacus in the love 
+of golden Aphrodite and bore Phocus, while 
+silver-footed Thetis joined with Peleus and bore 
+lion-hearted Achilles, router of enemies.
+And fair-crowned Cytherea bore Aeneas,
+joining in love with the hero Anchises
+on the peaks of windy Ida, rich in valleys.
+Circe, daughter of Helios, son of Hyperion,
+joined in love with stout-hearted Odysseus
+and bore Agrius and Latinus, noble and strong;
+and she bore Telegonus thanks to golden 
+Aphrodite. They ruled over the famed
+Tyrrhenians, far away in the holy islands.27
+Divine Calypso joined in love with Odysseus 
+and bore Nausithous and Nausinous.
+These are goddesses who lay with mortal 
+men and bore children equal to the gods.
+Now, Olympian Muses, daughters of aegis-
+bearing Zeus, sing of the race of women.28
+27 This is an apparent reference to Italy, which in Hesiod’s time was more a 
+place of legend.
+28 These two lines are both the end of Theogony and the start of the Catalog of 
+Women, a Greek epic poem naming the heriones who slept with gods and bore 
+their offspring, only fragments of which still exist.
+Glossary
+Achelous: God of the river Achelous in Greece, 340
+Acaste: Oceanid, daughter of Oceanus and Tethys, and companion of 
+Persephone, 355
+Achilles: Son of King Peleus of Phthia and Thetis, grandson of Aeacus, 
+cousin of Telamonian Ajax, and leader of the Myrmidons in the Trojan 
+War, 1007
+Admete: Oceanid, daughter of Oceanus and Tethys, a companion of 
+Persephone when Hades abducted her, 349
+Aeacus: King of Aegina, son of Zeus and Aegina, father of Peleus, 
+Telamon, and Phocus, and grandfather of Achilles and Ajax, 1004
+Aeëtes: King of Colchis, son of Helios and Perseis, brother of Circe, 
+husband of Idyia, and father of Medea, 957
+Aegaeon (Mt.): Mountain on the island of Crete, and location of 
+Psychro Cave, where Rhea gave birth to Zeus, 484
+Aeneas: Trojan prince, son of Aphrodite and Anchises, cousin of 
+Hector and Paris, 1008
+Aeson: King of Iolcus in Thessaly, son of Cretheus and Tyro, father of 
+Jason and Promachus, 992
+Aether: the “upper sky” or pure air breathed by the gods; also 
+personiﬁcation of brightness, 124
+Agave: Theban princess, queen of the Maenads, daughter of Harmonia 
+and Cadmus, mother of Pentheus and Epirus, and sister of Ino, Semele, 
+Autonoë, and Polydorus, 976
+Aglaea: see Charities
+Alcmene: Mother of Heracles (with Zeus) and wife of Amphitryon, 527
+Algea: Personiﬁcations of pain and woe and children of Eris, 227
+Alpheus: God of the Alpheus river in the Peloponnese, 338
+Amphillogiai: Goddesses of disputes, daughters of Eris, 229
+Amphitrite: Queen of the sea, daughter of Nereus and Doris, wife of 
+Poseidon, and mother of Triton, 243
+Amphitryon: Son of Alcaeus, Theban general, and step-father of 
+Hercules, 316
+Anchises: Member of the royal family in Troy, cousin of King Priam of 
+Troy, son of Capys and Themiste, lover of Aphrodite, and father of 
+Aeneas, 1009
+Androktasiai: Female personiﬁcations of manslaughter and daughters 
+Hesiod
+36
+of Eris, 228
+Anemoi: The four winds, children of Eos and Astraeus: Boreas (north 
+wind), Zephyrus (west wind), Notus (south wind), and Eurus (east 
+wind), 379-80
+Apate: Personiﬁcation of deceit, daughter of Nyx, 224
+Apesas: Mountain in Peloponnese, Greece, now called Phoukas, 331
+Aphrodite: Goddess of love, beauty, passion, and procreation, 17
+Apollo: God of archery, music, dance, sun, light, healing, prophecy, 
+and more, son of Zeus and Leto, 14
+Ares: God of war, son of Zeus and Hera, 923
+Aresas: Mountain in Peloponnese, now called Phoukas, 331
+Argos: City in Peloponnese, 12
+Ariadne: Cretan princess, daughter of King Minos, wife of Dionysus, 
+948
+Aristaeus: Son of Apollo and Cyrene, a minor god who introduced 
+bee-keeping (among other useful arts) and was known as the pastoral 
+Apollo in Boeotia, husband of Autonoë, and father of Actaeon and 
+Macris, 977
+Artemis: Goddess of the hunt, wilderness, animals, and chastity, 
+daughter of Zeus and Leto, 15
+Asmete: Oceanid, daughter of Oceanus and Tethys, and companion of 
+Persephone, 349
+Asteria: Personiﬁcation of the island Asteria or Delos, wife of Perses, 
+daughter of Phoebe and Coeus, sister of Leto, mother of Hecate, 409
+Astraeus: God of the dusk, son of Crius and Eurybia, husband of Eos, 
+and father of the Anemoi (four winds), 376
+Atë: Goddess of mischief, delusion, ruin, and folly and daughter of 
+Eris, 230
+A Terrible Snake: see Ladon
+Athena: Goddess of wisdom, handicrafts, and warfare, daughter of 
+Zeus, 13
+Atlas: Titan son of Iapetus and Clymene and brother of Prometheus, 
+Menoetius, and Epimetheus, cursed to hold up the earth and heavens 
+with his head and shoulders, 509
+Atropos: One of the three fates (Moirai), who cut the thread of life, 
+daughter of Nyx or of Themis and Zeus, 218
+Autonoë: Theban princess, eldest daughter of Cadmus and Harmonia, 
+wife of Aristaeus, mother of Acateon and Macris, and sister of Ino, 
+Semele, Agave, and Polydorus, 977
+Theogony
+37
+Bellerophon: Hero, slayer of monsters, including the Chimera, 325
+Bia: Goddess of force, anger, and raw energy, daughter of Styx and 
+Pallas, 385
+Boreas: see Anemoi
+Briareus: see Hecatoncheires
+Cadmea: citadel in ancient Thebes, 327
+Cadmus: Greek hero, founder and ﬁrst king of Thebes, husband of 
+Harmonia, 937
+Calliope: Muse of eloquence and epic poetry and leader of all Muses, 
+79
+Callirhoe: Naiad, daughter of Oceanus and Tethys, married to 
+Chrysaor, 287
+Calypso: Oceanid nymph who lived on island of Ogygia, lover of 
+Odysseus, and mother of Nausithous and Nausinous, 358
+Cephalus: Athenian son of Hermes and Herse, lover of Eos, and father 
+of Phaethon (though in some accounts, he is the father of Tithonus, 
+who is the father of Phaethon), 986
+Cerberus: Many-headed dog who guards the gates of Hades, son of 
+Echidna and Typhon, 310
+Chaos: The ﬁrst of the primordial beings to come into existence, a 
+gaping space upon which Gaia and all other entities exist, 116
+Chiron: Centaur who was skilled in medicine, warfare, and music and 
+who trained numerous famed warriors, including Jason, Ajax, Achilles, 
+and Perseus, 1001
+Clytie: Water nymph, daughter of Oceanus and Tethys, 352
+Ceto: Sea goddess and daughter of Pontus and Gaia, 238
+Charities: Aglaea (“Shining”), Euphrosyne (“Joy”), and Thalia 
+(“Blooming”) are the Charities or Graces, goddesses of charm, beauty, 
+creativity, and fertility, 64
+Chimera: Fire-breathing monster, daughter of Echidna, with the heads 
+of a lion, a goat, and a serpent, slain by Bellerophon and Pegasus, 320
+Chrysaor: Son of Poseidon and Medusa and brother of the horse 
+Pegasus, born when Perseus cut off his mother’s head, 281
+Circe: Goddess and enchantress, daughter of Helios and Perseis, who 
+lived on the island of Aeaea, and whose encounters with Odysseus are 
+depicted in the Odyssey, 957
+Clio: Muse of history and lyre playing, 77
+Clotho: One of the three fates (Moirai), who spins the thread of life, 
+daughter of Nyx or of Themis and Zeus, 218
+Hesiod
+38
+Coeus: Titan, son of Gaia and Ouranos, husband of Phoebe, father of 
+Leto and Asteria, 134
+Cottus: see Hecatoncheires
+Crete: Largest island in Greece, home to the ancient Minoan 
+civilization, 478
+Crius: Titan, son of Gaia and Ouranos, 134
+Cronos: Leader of the Titans, son of Gaia and Ouranos, father of Zeus, 
+Poseidon, Hera, Hades, Hestia, Demeter, and Chiron, 18
+Cyclopes: One-eyed creatures, sons of Ouranos and uncles of Zeus and 
+the other Olympian gods; Zeus freed them from captivity, and as a 
+reward they gave Zeus the power over thunder and lightning, 501
+Cymopolea: Daughter of Poseidon and wife of Briareus, 819
+Cythera: Island just south of the Peloponnese and north of Crete, 193
+Cytherea: see Aphrodite
+Cyprus: Island south of Anatolia (modern-day Turkey), the supposed 
+birthplace of Aphrodite,193
+Deimos: Personiﬁcation of dread and terror, son of Ares and Aphrodite 
+and twin brother of Phobos, 935
+Delphi: Also known as Pytho, location of an ancient sanctuary to 
+Apollo, home of the Delphic oracle, and (for the ancient Greeks) the 
+center of the world, 499
+Demeter: Goddess of the harvest and agriculture, daughter of Rhea 
+and Cronos, mother of Persephone, 454
+Dike: See Horae
+Dione: Titan, daughter of Gaia and Ouranos, mother of Aphrodite, 18
+Dionysus: God of wine, fertility, orchards, ritual madness, ecstasy, 
+festivity, and theater, son of Zeus and the mortal Semele (who later 
+became mortal), 941
+Doris: Sea goddess, daughter of Oceanus and Tethys, wife of Nereus, 
+and mother of the Nerites and Nereids, 242
+Dynamene: Sea nymph, daughter of Nereus and Doris, associated 
+with the might of ocean swells, 248
+Dysnomia: Daemons of lawlessness and daughters of Eris, 230
+Echidna: Half-nymph, half-snake monster, born to Ceto and Phorcys, 
+297
+Eirene: see Horae
+Electra: Daughter of Oceanus and Tethys, wife of Thaumas, mother of 
+Iris and the Harpies, 265
+Theogony
+39
+Eileithyia: Goddess of childbirth and midwives, daughter of Zeus and 
+Hera, 923
+Eleutherae: City in Attica, west of Athens, 53
+Emathion: Son of Eos and Tithous, brother of Memnon, king of 
+Ethiopia, killed by Heracles, 985
+Eos: Titan goddess of the dawn, daughter of Hyperion and Theia, and 
+mother of Memnon, Emation, and Phaethon,19
+Epimetheus: Titan son of Iapetus and Clymene, brother of Atlas, 
+Prometheus, and Menoetius, received the gift of Pandora and 
+purportedly married her, 511
+Erato: Muse of love poetry, 78
+Erebus: Primordial darkness, 123
+Eridanos: God of the Eridanos river in Hades, 338
+Erinyes: Furies, female goddesses of vengeance; born to Gaia from the 
+blood of Ouranos’ castrated genitals, 185
+Eris: Goddess of strife, daughter of Nyx, 225
+Eros: God of love and sex, 119
+Erytheia: Island in the Hesperides, close to modern-day Spain, 290
+Eudora: Nereid, daughter of Nereus and Doris, 244
+Eunomia: see Horae
+Euphrosyne: see Charities
+Euryale: One of the Gorgons, 277
+Eurybia: Goddess of mastery of the seas, daughter of Pontus and Gaia, 
+and mother of Astraeus, Pallas, and Perses, 239
+Eurynome: Oceanid, daughter of Oceanus and Tethys, worshipped at 
+the conﬂux of the Neda and Lymax rivers in Peloponnese, 357
+Euterpe: Muse of music, 77
+Fifty Daughters: see Nereids
+Gaia: Personiﬁcation of Earth and mother of all life, 20
+Galatea: Sea goddess, daughter of Nereus and Doris, love object of the 
+cyclops Polyphemus, 249
+Galene: Sea goddess, daughter of Nereus and Doris, associated with 
+calm seas, 244
+Geras: God of old age, son of Nyx, 225
+Geryon: Giant who lived on the island of Erytheia in the Hesperides, 
+son of Callirhoe and Chrysaor, slain by Hercules, 288
+Giants: Strong and aggressive creatures (but not large in size); born to 
+Gaia from the blood of Ouranos’ castrated genitals, 185
+Hesiod
+40
+Gorgons: Daughters of Ceto and Phorcys whose hair was made of 
+snakes and could turn life into stone, 274
+Graeae: Sisters who shared one eye, daughters of Phorcys and Ceto, 
+271
+Gyges: see Hecatoncheires
+Hades: God of the dead and king of the underworld, son of Rhea and 
+Zeus, 455
+Harmonia: Goddess of harmony and concord, daughter of Ares and 
+Aphrodite, and mother of Ino, Semele, Agave, Autonoë, and 
+Polydorus, 937
+Harpies: Half-human, half-bird creatures who ﬂew faster than birds or 
+the winds, daughters of Thaumas and Electra, 267
+Hebe: Goddess of youth and the prime of life, daughter of Zeus and 
+Hera, 17
+Hecate: Titan goddess of witchcraft, boundaries and crossroads, birth 
+and death, success and failure, daughter of Perses and Asteria, 411
+Hecatoncheires: Hundred-handed giants Cottus, Briareus, and Gyges, 
+born to Ouranos and Gaia, 148-49
+Helicon: Mountain in Thespiai, sacred home of the Muses, 2
+Helios: Personiﬁcation of the sun, father of the Charities and Circe, son 
+of Hyperion and Theia, 19
+Hemera: Primordial goddess of daytime, 124
+Heosphoros: Morning-star (Venus), son of Astraeus and Eos, 381
+Hephaestus: God of craftsmen, artisans, ﬁre, and volcanoes who was 
+lame in one foot, son of Hera alone (or Zeus and Hera), and husband 
+of Aphrodite, 572
+Hera: Goddess of women, marriage, and family, wife and sister of 
+Zeus, daughter of Cronos and Rhea, 11
+Heracles: Famous hero, born in Thebes, son of Zeus and Alcmene, 
+became immortal after his death, 289
+Hermes: Messenger of the gods, protector of travelers, thieves, 
+merchants, and orators, son of Zeus and Maia, 443
+Hestia: Goddess of the hearth, domesticity, and the family and 
+daughter of Rhea and Cronos, 454
+Hesperides: Nymphs of evening and the golden light of sunset and 
+daughters of Nyx, 214
+Himeros: Winged gods associated with sexuality, 64
+Hippocrene: Spring on Mt. Helion that is sacred to the Muses and 
+formed the hooves of Pegasus, 6
+Theogony
+41
+Horae: Eunomia (Lawfulness), Dike (Justice) and Eirene (Peace) are 
+goddesses of the seasons and the passing of time, daughters of Themis 
+and Zeus, 902
+Horkos: Personiﬁcation of the curse inﬂicted upon a mortal for 
+swearing a false oath, son of Eris, 231
+Hydra of Lerna: Serpent monster, daughter of Echidna and Typhon, 
+killed by Hercules, 313
+Hyperion: Titan, father of Helios, Selene, and Eos, 134
+Hypnos: God of sleep and son of Nyx, 213
+Hysminai: Personiﬁcations of battle and children of Eris, 227
+Iapetus: Titan, father of Atlas and Promethius, 18
+Iasius: Founder of the mystic rites on Samothrace, son of Electra and 
+Zeus, father of Plutus and Philomenus, 970
+Ida: Mountain in Anatolia, south of Troy where the gods, particularly 
+Zeus, often gathered to watch the Trojan War, 1010
+Idyia: Oceanid, daughter of Oceanus and Tethys, queen to Aeëtes, king 
+of Colchis, and mother of Medea, 352
+Ino: Mortal queen of Boeotia who was made immortal after her death 
+and took the name Leucotheia (“The White Goddess”), daughter of 
+Harmonia and Cadmus, wife of King Athamas, mother of Learchus 
+and Melicertes, and sister of Semele, Agave, Autonoë, and Polydorus, 
+976
+Iolaus: Son of Automedon and Iphicles, charioteer of Hercules, 318
+Iolcus: Ancient city in Thessaly, home of Aeson, Pelias, and Jason, 997
+Iris: Goddess of rainbows and messenger of the gods, daughter of 
+Thaumas and Electra, 266
+Jason: Son of Aeson, leader of the Argonauts who captured the Golden 
+Fleece (among many other adventures), husband of Medea, father of 
+Thessalus and many others (many of whom Medea murdered in 
+revenge over Jason’s desire to marry Creusa, daughter of the king of 
+Corinth), 992
+Ker: Goddess of violent death and daughter of Nyx, 212
+Keres: Female death spirits and daughters of Nyx, 217
+Kratos: God of strength, son of Styx and Pallas, 385
+Lachesis: One of the three fates (Moirai), who measured the thread of 
+life, daughter of Nyx or of Themis and Zeus, 218
+Hesiod
+42
+Ladon: Serpent-like monster who guarded the golden apples in the 
+Garden of the Hesperides, killed by Heracles, 334
+Lame One: see Hephaestus
+Latinus: Son of Odysseus and Circe, brother of Agrius and Telegonus, 
+and ruler of the Tyrrhenians (often linked to the Etruscans), 1013
+Lethe: One of the ﬁve rivers in Hades; also the spirit of forgetfulness 
+and daughter of Eris, 226
+Leto: Goddess, mother of Artemis and Apollo, daughter of Phoebe and 
+Coeus, 18
+Limos: Goddess of starvation and daughter of Eris, 226
+Lyctus: City in Crete where Rhea gave birth to Zeus, 477
+Machai: Spirits of battle and combat and children of Eris, 227
+Maia: Daughter of Atlas and Pleione, mother of Hermes, 938
+Meander: God of the Meander river in southern Asia Minor (Turkey), 
+339
+Mecone: The place where Prometheus tricked Zeus, often associated 
+with Sicyon in northern Peloponnese, Greece, 535
+Medea: Daughter of King Aeëtes of Colchis and Idyia, niece of Circe, 
+granddaughter of Helios and Perseis, aids Jason in his search for the 
+Golden Fleece, and later goes with Jason back to Thebes, 962
+Medus: King of Colchis, son of Medea and Jason, 1000
+Medusa: Youngest of the Gorgons, killed by Perseus, 277
+Meliae: nymphs of the ash tree, born to Gaia from the blood of 
+Ouranos’ castrated genitals, 187
+Melpomene: Muse of tragedy, 78
+Memnon: Ethiopian king and son of Eos and Tithonus, killed by 
+Achilles in Trojan War, as depicted in the lost epic Aethiopis, 985
+Menoetius: Titan son of Iapetus and Clymene, brother of Atlas, 
+Prometheus, and Epimetheus, punished by Zeus after Titan war exiled 
+to Erebus, 509
+Metis: Titan and Oceanid, daughter of Oceanus and Tethys, and cousin 
+and ﬁrst wife of Zeus, 358
+Mnemosyne: Goddess of memory and mother of the nine Muses, 53
+Moirai: The Fates, daughters of Nyx or of Themis and Zeus, 217
+Momus: The god of satire and disgrace and son of Nix, 213
+Moros: God of impending doom and son of Nyx, 212
+Muses: Nine goddesses, born of Mnemosyne and Zeus, who are the 
+inspiration for literature, science, and the arts, 1
+Theogony
+43
+Nausinous: Son of Odysseus and Calypso, and brother of Nausithous, 
+1018
+Nausithous: Son of Odysseus and Calypso (though some accounts say 
+he is the son of Circe), and brother of Nausinous, 1018
+Neikea: Spirits of arguments and children of Eris, 229
+Nemean lion: Monster, offspring of Orthus and Chimera, killed by 
+Hercules, 327
+Nemea: Region in northeastern Peloponnese, 329
+Nemesis: Goddess who punished those who committed hubris, 
+daughter of Nyx, 223
+Nereids: Sea goddesses (50 in total according to Hesiod), daughters of 
+Nereus and Doris, 264
+Nereus: Also known as the Old Man of the Sea, son of Pontus and 
+Gaia, 233
+Night: see Nyx
+Nike: Goddess of victory, daughter of Styx and Pallas, 385
+Nilus: God of the Nile river, 338
+Notus: see Anemoi
+Nyx: Goddess of the night, 20
+Oceanids: Nymph daughters of Tethys and Oceanus, numbering in the 
+thousands, 337
+Oceanus: Titan, embodiment of the river that circled the world, father 
+of the river gods and Oceanids, 20
+Odysseus: King of Ithaca, best known for his intellect, son of Laertes 
+and Anticlea, husband of Penelope, and father (with Circe) of 
+Telemacus, Agrius, Latinus, and Telegonus, and father (with Calypso) 
+of Nausithous and Nausinous, 1012
+Oizys: Goddess of misery, anxiety, grief, and depression and daughter 
+of Nyx, 214
+Olmedius:  Stream near Mt. Helicon, 6
+Olympus: Highest mountain in Greece and home of the Greek gods, 37
+Oneiroi: The gods of dreams and sons of Nyx, 213
+Orthrus: Two-headed dog who guarded Geryon’s castle, son of 
+Echidna and Typhon, 309
+Othrys (Mt.): Mountain in central Greece, 632
+Ourea: The elemental mountains (including Olympus, Helicon, and 
+Etna) born by Gaia alone, 129
+Ouranos: Primordial sky god, son and husband of Gaia, and father of 
+the Titans, and after Cronos castrated Ouranos, his discarded blood 
+Hesiod
+44
+and genitals created the Furies, the Giantsand Aphrodite, 45
+Ourania: Muse of astronomy, 79
+Pallas: Titan, son of Crius and Eurybia, brother of Astraeus and Perses, 
+husband of Styx, and father of Zelus, Nike, Kratos, and Bia, 377
+Parnassus: Mountain in central Greece, north-west of Athens, that 
+towers over Delphi, 499
+Pegasus: Winged horse, son of Poseidon and Medusa, brother of 
+Chrysaor, born when Perseus cut off his mother’s head, usually 
+depicted as pure white, 281
+Peleus: King of Phthia, member of the Argonauts, husband of Thetis, 
+and father of Achilles, 1006
+Pelias: Son of Tyro and Poseidon, king of Iolcus, and nephew of Jason, 
+who he sent on the quest for the Golden Fleece, 996
+Peneius: Thessalian river god, 342
+Permessus: Stream near Mt. Helicon, 5
+Perseis: Oceanid, daughter of Oceanus and Tethys, wife of Helios, and 
+mother of Aeëtes, Perses, Pasiphae, and Circe, 355
+Perses: Titan, son of Crius and Eurybia, brother of Pallas and Astraeus, 
+husband of Asteria, and father of Hecate, 377
+Perseus: Son of Zeus, great-grandfather of Hercules, heroic founder of 
+Mycenae who slayed Medusa and saved Andromeda from the monster 
+Cetus, 280
+Phaeton: Son of Eos and Cephalus, was taken by Aphrodite and made 
+the night guardian of her sacred temples, 987
+Pherusa: Sea nymph, daughter of Nereus and Doris, associated with 
+the might of ocean swells, 248
+Philotes: Goddess of affection, friendship, and sex, daughter of Nyx, 
+224
+Philyra: Oceanid, daughter of Oceanus and Tethys, mother of Chiron, 
+1002
+Phobos: Personiﬁcation of fear and panic, son of Ares and Aphrodite 
+and twin brother of Deimos, 935
+Phocus: Prince of Aegina, son of Psamathe and Aeacus and brother of 
+Telamon and Peleus, who was killed by his brothers, 1005
+Phoebe: Titan goddess associated with the moon, husband of Coeus, 
+mother of Leto and Asteria, 136
+Phoebus Apollo: see Apollo
+Phonoi: Male personiﬁcations of murder, sons of Eris, 228
+Phorcys: Sea god son of Pontus and Gaia, 238
+Theogony
+45
+Pieria: Region in Macedonia (northern Greece), home of the Muses and 
+Orpheus, 54
+Plutus: Greek god of wealth, son of Demeter and Iasius, 971
+Polydorus: King of Thebes, son of Cadmus and Harmonia, husband of 
+Nycteïs, father of Labdacus, and brother of Ino, Semele, Agave, and 
+Autonoë, 978
+Polymnia: Muse of sacred poetry, sacred hymns, dance, eloquence, 
+agriculture, and pantomime, 78
+Ponos: Personiﬁcation of hardship and toil and son of Eris, 226
+Pontus: Primordial (pre-Olympic) sea god, 107
+Poseidon: God of the sea, son of Cronos and Rhea, brother of Hades, 
+Zeus, Hera, Demeter, Chiron, and Hestia, father of Triton, Polyphemus, 
+Atlas, Pegasus, and Orion, 16
+Potaomai: Gods and goddesses of the rivers, 348
+Prometheus: Titan trickster, son of Iapetus and Clymene, brother of 
+Atlas, Menoetius, and Epimetheus, punished by Zeus by being tied to 
+a post and having his liver eaten by an eagle, but was later freed by 
+Heracles, 510
+Psamathe: Sea goddess associated with sand beaches, daughter of 
+Nereus and Doris, mother of Phocus, 259
+Pytho: see Delphi
+Rhea: Titan, sister and wife of Cronos, mother of Zeus, Hera, Poseidon, 
+Hades, Demeter, and Hestia, 135
+Sangarius: Phrygian river god, 344
+Scamander: River god on the Trojan plain, 345
+Selene: Goddess of the moon, daughter of Hyperion and Theia, 19
+Semele: Daughter of Cadmus and Harmonia, mortal mother of 
+Dionysus who was made immortal after Dionysus rescued her from 
+Hades, 940
+Simoeis: River on the Trojan plain, 342
+Sphinx: Lion/human hybrid creature found in Greek and Egyptian 
+mythologies, 326
+Sthenno: Oldest of the Gorgons, 277
+Strymon: River god and king of Thrace, 339
+Styx: River separating Earth from Hades, 360
+Tartarus: Deep abyss where Zeus sent the Titans, 119
+Telegonus: Son of Odysseus and Circe, brother of Agrius and Latinus, 
+Hesiod
+46
+half-brother of Telemachus, and (according to some accounts) 
+accidental killer of his father, 1014
+Telesto: Oceanid, daughter of Oceanus and Tethys, and personiﬁcation 
+of success, 358
+Terpsichore: Muse of dance and chorus, 78
+Tethys: Titan, mother of the river gods and Oceanids, 136
+Thaumas: Sea god son of Pontus and Gaia, 237
+Thalia (Charities): see Charities
+Thalia (Muse): Muse of comedy and idyllic poetry, 77
+Thanatos: God of death and son of Nyx, 212
+Thebes: City in Boeotia, central Greece, and home of Cadmus, 
+Oedipus, Dionysus, Hercules, and many others, 529
+Theia: Titan, sister/wife to Hyperion, mother of Helios, Selene, and 
+Eos, 135
+Themis: Titan, one of the Oracles of Delphi, and he personiﬁcation of 
+divine justice, 16
+Thetis: Sea nymph, daughter of Nereus and Doris, wife of Peleus, and 
+mother of Achilles, 244
+Tiryns: Area in Argolis in the Peloponnese where Hercules performed 
+his twelve labors, 292
+Tithonus: Prince of Troy, son of King Laomedon and Strymo, taken by 
+Eos to be her lover and fathered two sons, Memnon and Emation, and 
+later Eos asked Zeus to make Tithonus immortal but failed to ask for 
+immortal youth as well, so he continued to age as he lived forever, 984
+Tritogeneia: see Athena
+Triton: God of the sea, son of Poseidon and Amphitrite, 931
+Twisting Rivers: see Oceanids
+Tyche: Oceanid, daughter of Oceanus and Tethys, 359
+Typhon: Monstrous serpent, son of Gaia and Tartarus, father to many 
+monsters including Cerberus and the Hydra of Lerna, 307
+Tyrrhenians: Ancient people who lived in modern-day Italy and who 
+are often associated with the Etruscans, 1016
+Zelus: God of dedication, rivalry, envy, jealousy, and zeal, son of Styx 
+and Pallas, 384
+Zephyrus: see Anemoi
+Zeus: God of thunder, ruler of Olympian gods, son of Cronos and 
+Rhea, husband of Hera, father of Aphrodite, Apollo, Ares, Artemis, 
+Athena, Dionysus, Elis, Helen of Troy, Heracles, Hermes, Persephone, 
+Perseus, and Muses, among others, 11
+Theogony
+47
+Study Questions for Hesiod's Theogony
+1. Who are the Muses? Why does Hesiod invoke them at the start 
+of the poem?
+2. Why do the Muses insult Hesiod before giving him the gift of 
+poetry?
+3. What do the Muses mean when they tell Hesiod, “We know 
+how to make lies into truth and we know how to speak truth 
+when we wish” (27-28)?
+4. Hesiod notes that the songs of the Muses “celebrate the laws 
+and customs of all the immortals” (66-67). If this is the purpose 
+of the Muses’ songs, then what is the purpose of Hesiod’s own 
+song?
+5. Why is Calliope superior to the other muses (79-80)? What 
+does this tell us about Ancient Greek culture?
+6. How does the creation story that begins at line 116 compare to 
+other creation stories, such as the one in Genesis?
+7. What does Hesiod mean when he says, “First there was 
+Chaos” (116)? 
+8. Does Chaos create Gaia, Tartarus, and Eros? If not, then what 
+does?
+9. Why do you think Eros is among the ﬁrst of the gods? What 
+role does sex play in the Greek creation myth? 
+10. What is the signiﬁcance of the Cottus, Briareus, and Gyges, the 
+Hundred-Handed (Hecatoncheires)? What roles do they play 
+in the battles between the various gods?
+11. What is born from the blood of Ouranos’s genitals?
+12. Why are the Titans called “Titans”?
+13. If you review the list of rivers in lines 338-371, you will notice 
+that many of the rivers are located far from Greece. What does 
+this tell us about geographical knowledge at this time—
+especially given the fact that Hesiod was not a seafarer but a 
+shepherd?
+14. Why is Hecate honored above the other gods? 
+15. What does Cronos do to his children and why?
+16. Why does Rhea save Zeus? How does she save him?
+17. Why is Styx and her children so beloved by Zeus? What does 
+this tell us about Zeus?
+Theogony
+49
+18. Who is Atlas and what happens to him?
+19. How does Prometheus ﬁrst try to trick Zeus? What is the 
+consequence? 
+20. How does Prometheus trick Zeus the second time? What is the 
+consequence for Prometheus? What is the consequence for 
+humanity?
+21. Zeus “desired evil for mortals” (551-52). What “evil” does 
+Zeus inﬂict upon human beings (speciﬁcally, men)?
+22. Compare this story of Pandora (the “moulded maiden”) to the 
+more traditional story of Pandora’s Box (found in Hesiod’s 
+other work, Work & Days).
+23. What is Hesiod’s attitude towards women? Do you think this 
+reﬂects the general attitude of Greek men towards women?
+24. How does Zeus convince the Hundred-Handed to join his side 
+of the war against the Titans? What does this tell us about 
+Zeus?
+25. How do the Olympian Gods defeat the Titans?
+26. What is Tartarus? Where is it located? How does it differ from 
+Erebus?
+27. Who are Nyx and Hemera? Why can they not both be in the 
+palaces of Nyx at the same time?
+28. What trick does Cerberus use to lure mortals into Hades?
+29. Why is Styx “loathed by immortals” (775)?
+30. Why does Iris retrieve a golden jug from Styx? What is in the 
+jug? What is the jug used for?
+31. Why is oath-breaking such a terrible crime for the gods? What 
+happens to oath-breakers?
+32. Who is Typhon? What is his signiﬁcance?
+33. How was Athena born? Why was she born in this way?
+34. Hesiod identiﬁes several mortals who are granted immortality
+—including Heracles, Semele, Dionysus, and Ariadne. What 
+reasons are given for these exceptions to the general rule that 
+separates mortals and immortals?
