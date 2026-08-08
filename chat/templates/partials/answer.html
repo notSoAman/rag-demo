@@ -4,6 +4,6 @@
         <h2 class="section-label text-lg font-semibold">Question:</h2>
         <p id="question" class="theme-text mb-4">{{ question }}</p>
         <h2 class="section-label text-lg font-semibold">Answer:</h2>
-        <p id="answer" class="theme-text">{{ answer }}</p>
+        <p id="answer" class="theme-text">{{ answer|safe }}</p>
     </div>
 {% endblock %}
