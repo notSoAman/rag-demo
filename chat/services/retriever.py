@@ -9,7 +9,7 @@ os.environ.setdefault("HF_HUB_DISABLE_PROGRESS_BARS", "1")
 import faiss
 import numpy as np
 from huggingface_hub import hf_hub_download
-from sentence_transformers import SentenceTransformer
+from openai import OpenAI
 
 
 # ============================================================
@@ -21,15 +21,16 @@ HF_REPO_ID = "notSoAman/rag-demo-knowledge"
 HF_REPO_TYPE = "dataset"
 
 # Only required if the HF dataset is private.
-# Your current repository is public, so this can remain unset.
 HF_TOKEN = os.getenv("HF_TOKEN")
 
-EMBEDDING_MODEL_NAME = "BAAI/bge-small-en-v1.5"
+# IMPORTANT:
+# The FAISS index must have been built with this SAME embedding
+# model. Do not use the old BGE index with this model.
+EMBEDDING_MODEL_NAME = "sentence-transformers/all-minilm-l6-v2"
 
-# BGE retrieval instruction: use for queries, not document embeddings.
-QUERY_PREFIX = (
-    "Represent this sentence for searching relevant passages: "
-)
+# OpenRouter's OpenAI-compatible embeddings endpoint.
+OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 
 CANDIDATE_K = 50
 DEFAULT_TOP_K = 8
@@ -77,14 +78,25 @@ def _download_vector_store() -> tuple[str, str]:
 
 
 @lru_cache(maxsize=1)
-def _load_resources():
-    """Load model, FAISS index, and metadata once per worker."""
+def _get_openrouter_client() -> OpenAI:
+    """Create one reusable OpenRouter client per worker."""
 
-    print("Loading embedding model...")
+    if not OPENROUTER_API_KEY:
+        raise RuntimeError(
+            "OPENROUTER_API_KEY is not set. "
+            "Add it to your .env file locally or to Render "
+            "Environment Variables in production."
+        )
 
-    model = SentenceTransformer(
-        EMBEDDING_MODEL_NAME
+    return OpenAI(
+        api_key=OPENROUTER_API_KEY,
+        base_url=OPENROUTER_BASE_URL,
     )
+
+
+@lru_cache(maxsize=1)
+def _load_resources():
+    """Load FAISS index and metadata once per worker."""
 
     index_path, metadata_path = _download_vector_store()
 
@@ -109,10 +121,11 @@ def _load_resources():
         )
 
     print(
-        f"RAG resources loaded: {index.ntotal} vectors"
+        f"RAG resources loaded: {index.ntotal} vectors "
+        f"(embedding model: {EMBEDDING_MODEL_NAME})"
     )
 
-    return model, index, metadata
+    return index, metadata
 
 
 # ============================================================
@@ -196,26 +209,33 @@ def phrase_score(
 def embed_query(
     question: str,
 ) -> np.ndarray:
-    """Create a normalized BGE embedding for the user question."""
+    """
+    Create a normalized embedding using OpenRouter.
 
-    model, _, _ = _load_resources()
+    IMPORTANT:
+    The document embeddings used to build index.faiss MUST have
+    been generated with the same model:
+    sentence-transformers/all-minilm-l6-v2
+    """
 
-    query = (
-        QUERY_PREFIX
-        + question.strip()
+    client = _get_openrouter_client()
+
+    response = client.embeddings.create(
+        model=EMBEDDING_MODEL_NAME,
+        input=question.strip(),
+        encoding_format="float",
     )
 
-    embedding = model.encode(
-        [query],
-        convert_to_numpy=True,
-        normalize_embeddings=True,
-        show_progress_bar=False,
-    )
-
-    return np.asarray(
-        embedding,
+    embedding = np.asarray(
+        response.data[0].embedding,
         dtype=np.float32,
     )
+
+    # Keep query normalization consistent with the FAISS index.
+    embedding = embedding.reshape(1, -1)
+    faiss.normalize_L2(embedding)
+
+    return embedding
 
 
 # ============================================================
@@ -233,7 +253,7 @@ def _search_faiss(
     the requested top candidate_k results in Python.
     """
 
-    _, index, metadata = _load_resources()
+    index, metadata = _load_resources()
 
     candidate_k = min(
         candidate_k,
@@ -246,6 +266,16 @@ def _search_faiss(
     question_embedding = embed_query(
         question
     )
+
+    # Guard against accidentally uploading an index built with
+    # a different embedding model/dimension.
+    if question_embedding.shape[1] != index.d:
+        raise RuntimeError(
+            "Embedding dimension mismatch: "
+            f"query embedding has {question_embedding.shape[1]} dimensions, "
+            f"but FAISS index expects {index.d}. "
+            "Rebuild index.faiss using the same embedding model."
+        )
 
     distances, indices = index.search(
         question_embedding,
