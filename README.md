@@ -1,139 +1,97 @@
 # RAG Demo
 
-A Django-based retrieval augmented generation (RAG) app for asking questions about mythology and getting answers grounded in the project knowledge base.
+A Django-based Retrieval-Augmented Generation (RAG) demo app that answers questions about mythology by searching a FAISS vector store and sending the retrieved context to a language model.
 
-The app uses a simple web UI, retrieves the most relevant passages from a FAISS vector store, sends those passages to an LLM through OpenRouter, and renders the response back into the page.
+This README covers quick setup, environment variables, development notes, and where to find the important pieces of the codebase.
 
-## What this project does
+Highlights
+- Django backend with HTMX for progressive updates and Alpine.js for small UI state.
+- FAISS vector store for retrieval, built from chunked/embedded knowledge files in `chat/knowledge/`.
+- LLM calls are performed through an API client (configured via `OPENROUTER_API_KEY` by default).
 
-- Accepts a question from a web form
-- Finds relevant evidence chunks from the knowledge base
-- Sends the evidence and question to a language model
-- Returns a concise answer with short supporting explanation
-- Renders the answer in the browser with Markdown converted to HTML
+## Quick start (local)
 
-## How it works
-
-1. The browser loads the main page from Django.
-2. The prompt form sends the question to `POST /ask/` using HTMX.
-3. `chat/views.py` calls `generate_answer()`.
-4. `chat/services/retriever.py` retrieves the most relevant passages from FAISS.
-5. The retriever embeds the user question with OpenRouter embeddings, scores candidates with a mix of semantic, lexical, and phrase matching, and then diversifies the final set so one source does not dominate the context.
-6. `chat/services/llm.py` formats the retrieved passages into a prompt and sends them to the chat model through OpenRouter.
-7. The response comes back as Markdown.
-8. `chat/services/markdown.py` converts the Markdown to HTML.
-9. `chat/templates/partials/answer.html` renders the answer fragment back into the page.
-
-## Project structure
-
-- `config/` - Django project settings, root URLs, WSGI/ASGI config
-- `chat/` - Main app, views, templates, services, and knowledge assets
-- `chat/services/` - RAG pipeline helpers
-- `chat/templates/` - Main page and partial HTML fragments
-- `chat/static/` - CSS and other static assets
-- `chat/knowledge/` - Raw, processed, chunked, embedded, and vector-store data
-- `manage.py` - Django command entry point
-
-## Requirements
-
-You need:
-
-- Python 3.12 or compatible
-- A virtual environment
-- An `OPENROUTER_API_KEY`
-- A `SECRET_KEY`
-- Internet access the first time the app loads the FAISS index from Hugging Face
-
-Optional:
-
-- `HF_TOKEN` if the Hugging Face dataset is private
-
-## Environment variables
-
-Create a `.env` file in the project root and set at least:
-
-```env
-SECRET_KEY=your-django-secret-key
-DEBUG=True
-OPENROUTER_API_KEY=your-openrouter-api-key
-```
-
-Optional values:
-
-```env
-HF_TOKEN=your-hugging-face-token
-RENDER_EXTERNAL_HOSTNAME=your-hostname
-```
-
-## Install and run
-
-From a fresh clone:
+1. Clone the repo and enter it:
 
 ```bash
+git clone <repo-url>
 cd rag-demo
-python3 -m venv .venv
-source .venv/bin/activate
-pip install django python-dotenv openai numpy huggingface_hub markdown-it-py whitenoise pypdf sentence-transformers torch scikit-learn scipy faiss-gpu
 ```
 
-If `faiss-gpu` is not available on your machine, install the CPU build instead and keep the rest of the project the same.
+2. Create and activate a Python virtualenv (recommended):
 
-Then run Django:
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+3. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Create a `.env` file in the project root with at least the following values:
+
+```env
+SECRET_KEY=replace-with-your-secret
+DEBUG=True
+OPENROUTER_API_KEY=your-openrouter-api-key
+# optional
+HF_TOKEN=your-hf-token-if-needed
+```
+
+5. Run migrations and start the development server:
 
 ```bash
 python manage.py migrate
 python manage.py runserver
 ```
 
-Open the app at:
+6. Open http://127.0.0.1:8000 in the browser.
 
-```text
-http://127.0.0.1:8000/
-```
+Notes:
+- If you plan to use FAISS locally, `faiss-cpu` is listed in `requirements.txt`. If you have a GPU and want the GPU build, install `faiss-gpu` separately.
 
-## How to make changes
+## Environment variables
+- `SECRET_KEY` — Django secret key (required)
+- `DEBUG` — `True` or `False` for dev/prod behavior
+- `OPENROUTER_API_KEY` — API key used for embeddings/LLM calls (project uses OpenRouter-compatible clients)
+- `HF_TOKEN` — optional token if you fetch vector store artifacts from a private Hugging Face repo
 
-### UI and styling
+Put these into a `.env` file or export them in your shell before running the server.
 
-- `chat/templates/index.html` controls the main page shell, the bottom input bar, and the theme toggle.
-- `chat/templates/partials/answer.html` controls how the question and answer are rendered.
-- `chat/static/chat/css/theme.css` contains the theme variables and all visual styling.
+## Project layout (important files)
+- `config/` — Django project settings and entrypoints
+- `chat/` — main app (views, models, templates, services)
+	- `chat/services/` — RAG helpers: `retriever.py`, `vector_store.py`, `embedder.py`, `chunk_maker.py`, `llm.py`, `markdown.py`
+	- `chat/templates/` — base templates, partials (answers, sidebar, etc.)
+	- `chat/static/` — styling (Tailwind via CDN + `chat/css/theme.css`)
+- `chat/knowledge/` — raw, processed, chunked, embeddings, and FAISS index data (not all files are included in the repo)
+- `manage.py` — Django management CLI
 
-If you want to change the light/dark mode colors, update `chat/static/chat/css/theme.css`.
+## How the request flow works (high level)
 
-### Request flow
+1. The browser sends the user's question to `POST /ask/` (HTMX is used for in-place updates).
+2. `chat.views.ask()` calls the RAG pipeline to retrieve evidence and generate an answer.
+3. `chat/services/retriever.py` finds relevant passages from the FAISS index.
+4. `chat/services/llm.py` formats the prompt (including retrieved passages) and calls the LLM provider.
+5. The response (Markdown) is converted to HTML and returned; partials render the new answer in the chat UI.
 
-- `chat/views.py` handles the `index` page and the `/ask/` request.
-- `chat/services/llm.py` builds the final prompt and calls the LLM.
-- `chat/services/markdown.py` turns Markdown into HTML before the response is rendered.
-
-If you want to change how answers are generated, start in `chat/services/llm.py`.
-
-### Retrieval and knowledge base
-
-- `chat/services/retriever.py` controls ranking and source diversification.
-- `chat/services/vector_store.py` rebuilds the FAISS index from the embedded chunks.
-- `chat/services/embedder.py` generates embeddings for chunked text.
-- `chat/services/chunk_maker.py` splits processed text into chunks.
-- `chat/services/pdf_loader.py` converts PDFs into plain text.
-
-The knowledge files live under `chat/knowledge/`:
-
-- `raw/` - source PDFs
-- `processed/` - extracted text files
-- `chunks/` - chunked JSON files
-- `embeddings/` - chunk JSON with embedding vectors
-- `vector_store/` - FAISS index and metadata
+## UI notes
+- The project uses Tailwind via CDN for utilities and small custom CSS in `chat/static/chat/css/theme.css`.
+- Alpine.js handles small UI state (sidebar toggles, theme state) and HTMX handles the ask flow and partial replacement.
+- If you want to change the theme variables, edit `chat/static/chat/css/theme.css`.
 
 ## Rebuilding the knowledge base
 
-If you add or replace source texts, rebuild the pipeline in this order:
+If you add source texts or PDFs, rebuild the pipeline in the following order:
 
-1. Put PDFs in `chat/knowledge/raw/<category>/`
-2. Convert PDFs to text with `chat/services/pdf_loader.py`
-3. Chunk the text with `chat/services/chunk_maker.py`
-4. Embed the chunks with `chat/services/embedder.py`
-5. Build the FAISS index with `chat/services/vector_store.py`
+1. Place PDFs or source files in `chat/knowledge/raw/<category>/`.
+2. Run the text extraction (`chat/services/pdf_loader.py`).
+3. Chunk the processed text (`chat/services/chunk_maker.py`).
+4. Create embeddings for the chunks (`chat/services/embedder.py`).
+5. Build the FAISS index (`chat/services/vector_store.py`).
 
 Example:
 
@@ -144,16 +102,22 @@ python chat/services/embedder.py
 python chat/services/vector_store.py
 ```
 
-## Important note about the vector store
+## Development & debugging tips
+- Create a Django superuser to access the admin: `python manage.py createsuperuser`.
+- Use `python manage.py check` and `python manage.py test` when adding functionality.
+- To inspect the chat rendering, open `chat/templates/partials/answer.html` and `chat/templates/base.html`.
 
-The live app loads the FAISS index and metadata through `chat/services/retriever.py`. That means the deployed runtime expects the vector store files to be available from the configured Hugging Face dataset and the embedding model used to build the index must match the model used at query time.
-
-If you change the embedding model, rebuild both the chunk embeddings and the FAISS index together.
+## Production notes
+- Use `gunicorn` with `whitenoise` to serve static files, and run migrations before startup.
+- Collect static files with `python manage.py collectstatic` and configure environment variables appropriately.
 
 ## Useful commands
 
 ```bash
 python manage.py check
-python manage.py runserver
 python manage.py migrate
+python manage.py createsuperuser
+python manage.py runserver
 ```
+
+
