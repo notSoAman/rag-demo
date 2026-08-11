@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+
+{% block title %}Create account{% endblock %}
+
+{% block content %}
+  <div class="mx-auto flex min-h-screen max-w-md items-center justify-center px-4 py-10">
+    <div class="w-full rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm">
+      <div class="mb-6 flex items-center justify-between gap-3">
+        <div>
+          <h1 class="text-2xl font-semibold">Create account</h1>
+          <p class="mt-1 text-sm text-muted-foreground">Join the mythology assistant and start asking questions.</p>
+        </div>
+      </div>
+
+      {% if message %}
+        <div class="mb-4 rounded-xl border border-red-500/30 bg-red-500/10 px-3 py-2 text-sm text-red-600">
+          {{ message }}
+        </div>
+      {% endif %}
+
+      <form action="{% url 'register' %}" method="post" class="flex flex-col gap-3">
+        {% csrf_token %}
+
+        <input
+          type="text"
+          name="username"
+          placeholder="Username"
+          required
+          class="theme-input w-full rounded-xl border border-[var(--border)] bg-transparent px-4 py-3 outline-none"
+        >
+
+        <input
+          type="email"
+          name="email"
+          placeholder="Email"
+          required
+          class="theme-input w-full rounded-xl border border-[var(--border)] bg-transparent px-4 py-3 outline-none"
+        >
+
+        <input
+          type="password"
+          name="password"
+          placeholder="Password"
+          required
+          class="theme-input w-full rounded-xl border border-[var(--border)] bg-transparent px-4 py-3 outline-none"
+        >
+
+        <input
+          type="password"
+          name="confirmation"
+          placeholder="Confirm password"
+          required
+          class="theme-input w-full rounded-xl border border-[var(--border)] bg-transparent px-4 py-3 outline-none"
+        >
+
+        <button type="submit" class="primary-button rounded-xl px-5 py-3 font-semibold transition">
+          Create account
+        </button>
+      </form>
+
+      <p class="mt-4 text-sm text-muted-foreground">
+        Already have an account?
+        <a class="font-medium text-[var(--accent)]" href="{% url 'login' %}">Log in</a>
+      </p>
+    </div>
+  </div>
+{% endblock %}
+{% block ask_form %}{% endblock %}

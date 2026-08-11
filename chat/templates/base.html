@@ -1,0 +1,179 @@
+{% load static %}
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{% block title %}RAG DEMO{% endblock %}</title>
+
+    <link rel="stylesheet" href="{% static 'chat/css/theme.css' %}" />
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <script>
+      window.themeSwitcher = function () {
+        return {
+          isDark: false,
+          sidebarOpen: false,
+
+          initTheme() {
+            const savedTheme = localStorage.getItem("theme");
+            const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+            this.isDark = savedTheme ? savedTheme === "dark" : prefersDark;
+            document.documentElement.classList.toggle("dark", this.isDark);
+          },
+
+          toggleTheme() {
+            this.isDark = !this.isDark;
+            document.documentElement.classList.toggle("dark", this.isDark);
+            localStorage.setItem("theme", this.isDark ? "dark" : "light");
+          },
+
+          toggleSidebar() {
+            this.sidebarOpen = !this.sidebarOpen;
+          }
+        };
+      };
+    </script>
+
+    <script src="https://unpkg.com/htmx.org@2.0.7"></script>
+    <script defer src="https://unpkg.com/alpinejs"></script>
+
+    {% block extra_head %}{% endblock %}
+  </head>
+
+  <body
+    x-data="themeSwitcher()"
+    x-init="initTheme()"
+    class="app-shell min-h-screen flex flex-col"
+  >
+
+    <!-- NAVBAR -->
+    <nav class="shrink-0 p-4">
+      <div class="flex items-center justify-between">
+
+        <div class="flex items-center gap-3">
+          <button
+            type="button"
+            class="icon-button rounded-lg p-2"
+            @click="toggleSidebar()"
+            :aria-label="sidebarOpen ? 'Close sidebar' : 'Open sidebar'"
+            :title="sidebarOpen ? 'Close sidebar' : 'Open sidebar'"
+          >
+            ☰
+          </button>
+
+          <h1 class="text-2xl font-bold">
+            RAG Application
+          </h1>
+        </div>
+
+        <div>
+          {% if user.is_authenticated %}
+            <a href="{% url 'logout' %}" class="text-sm font-medium text-[var(--accent)]">
+              Log out
+            </a>
+          {% else %}
+            <a href="{% url 'login' %}" class="text-sm font-medium text-[var(--accent)]">
+              Log in
+            </a>
+            <a href="{% url 'register' %}" class="ml-4 text-sm font-medium text-[var(--accent)]">
+              Sign up
+            </a>
+          {% endif %}
+        </div>
+
+      </div>
+    </nav>
+
+    <!-- APPLICATION LAYOUT -->
+    <div class="min-h-0 flex-1 flex">
+
+      {% include "partials/sidebar.html" %}
+      <main class="min-w-0 min-h-0 flex-1 flex flex-col transition-filter duration-200"
+      :class="sidebarOpen ? 'blur-sm' : ''"
+      >
+
+        <!-- SCROLLABLE CONTENT -->
+        <div id="chat-scroll" class="min-h-0 flex-1 overflow-y-auto">
+          <div class="container mx-auto p-4 pb-6">
+            {% block content %}{% endblock %}
+          </div>
+        </div>
+
+        <!-- ASK FORM -->
+        <form
+          hx-post="{% url 'ask' %}"
+          hx-target="#response"
+          hx-swap="beforeend"
+          hx-on:htmx:after-request="this.querySelector('#prompt').value = ''"
+          x-data="{ loading: false }"
+          @htmx:before-request.window="loading = true"
+          @htmx:after-request.window="loading = false"
+          class="shrink-0 px-4 py-4"
+        >
+          {% csrf_token %}
+
+          <input
+            type="hidden"
+            name="chat_id"
+            value="{% block chat_id_value %}{% endblock %}"
+          >
+
+          <div class="mx-auto flex max-w-5xl items-center gap-3 rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-3">
+
+            <input
+              autofocus
+              type="text"
+              id="prompt"
+              name="prompt"
+              placeholder="Enter your prompt here"
+              class="theme-input w-full rounded-xl px-4 py-3 outline-none"
+              :disabled="loading"
+            />
+
+            <button
+              id="submit"
+              class="primary-button rounded-xl px-5 py-3 font-semibold transition disabled:cursor-not-allowed disabled:opacity-70"
+              type="submit"
+              :disabled="loading"
+            >
+              <span x-text="loading ? 'Wait...' : 'Ask'"></span>
+            </button>
+
+            <button
+              id="theme-toggle"
+              type="button"
+              class="icon-button rounded-xl p-3 transition hidden md:block"
+              @click="toggleTheme()"
+              :aria-label="isDark ? 'Switch to light mode' : 'Switch to dark mode'"
+              :title="isDark ? 'Switch to light mode' : 'Switch to dark mode'"
+            >
+              Theme
+              <span class="sr-only">Toggle theme</span>
+            </button>
+
+          </div>
+        </form>
+
+      </main>
+    </div>
+
+    {% block extra_scripts %}
+      <script>
+        document.body.addEventListener("htmx:afterSwap", function (event) {
+          if (event.detail.target.id === "response") {
+            const scroll = document.getElementById("chat-scroll");
+            if (scroll) {
+              scroll.scrollTo({
+                top: scroll.scrollHeight,
+                behavior: "smooth"
+              });
+            }
+          }
+        });
+      </script>
+    {% endblock %}
+
+  </body>
+</html>

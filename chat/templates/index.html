@@ -1,133 +1,15 @@
-{% load static %}
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>RAG DEMO</title>
-    <link rel="stylesheet" href="{% static 'chat/css/theme.css' %}" />
-    <!--tailwindcss-->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-      window.themeSwitcher = function () {
-        return {
-          isDark: false,
+{% extends "base.html" %}
 
-          initTheme() {
-            const savedTheme = localStorage.getItem("theme");
-            const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-            this.isDark = savedTheme ? savedTheme === "dark" : prefersDark;
-            document.documentElement.classList.toggle("dark", this.isDark);
-          },
+{% block content %}
+  
 
-          toggleTheme() {
-            this.isDark = !this.isDark;
-            document.documentElement.classList.toggle("dark", this.isDark);
-            localStorage.setItem("theme", this.isDark ? "dark" : "light");
-          },
-        };
-      };
-    </script>
-    <!--htmx-->
-    <script src="https://unpkg.com/htmx.org@2.0.7"></script>
-    <!--alpinejs-->
-    <script defer src="https://unpkg.com/alpinejs"></script>
-  </head>
+  <!--application introduction -->
+  <div class="mb-6">
+    <p class="text-lg text-muted-foreground">
+      You can ask me questions about Hindu, Greek and Norse mythology.
+    </p>
+  </div>
 
-  <body x-data="themeSwitcher()" x-init="initTheme()" class="app-shell">
-
-    <div class="container mx-auto p-4 pb-36">
-
-      <!--application introduction -->
-      <div class="mb-6">
-        <h1 class="text-3xl font-bold">RAG Application Demo</h1>
-        <p class="text-lg text-muted-foreground">
-          You can ask me questions about Hindu, Greek and Norse mythology.
-        </p>
-      </div>
-
-      <div id="response">
-         <!-- This placeholder will be filled by child templates -->
-        {% block content %}
-        {% endblock %}
-      </div>
-      <div class="mx-auto p-6"></div>
-
-
-
-
-
-
-
-
-
-
-
-    <!--prompting box always visible at the bottom of screen-->
-    <form 
-        hx-post="/ask/"
-        hx-target="#response"
-        hx-swap="beforeend"
-        hx-on:htmx:after-request="this.reset()"
-        x-data="{ loading: false }"
-        @htmx:before-request.window="loading = true"
-        @htmx:after-request.window="loading = false"
-        >
-        {% csrf_token %}
-    <div class="fixed bottom-0 left-0 right-0 bottom-bar px-4 py-4">
-      <div class="mx-auto flex max-w-5xl items-center gap-3 rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-3">
-        <input
-          autofocus
-          type="text"
-          id="prompt"
-          name="prompt"
-          placeholder="Enter your prompt here"
-          class="theme-input w-full rounded-xl px-4 py-3 outline-none"
-          :disabled="loading"
-        />
-        <button id="submit" class="primary-button rounded-xl px-5 py-3 font-semibold transition disabled:cursor-not-allowed disabled:opacity-70" type="submit" :disabled="loading">
-          <span x-text="loading ? 'Wait...' : 'Ask'"></span>
-        </button>
-        <button
-          id="theme-toggle"
-          type="button"
-          class="icon-button rounded-xl p-3 transition disabled:cursor-not-allowed"
-          @click="toggleTheme()"
-          :aria-label="isDark ? 'Switch to light mode' : 'Switch to dark mode'"
-          :title="isDark ? 'Switch to light mode' : 'Switch to dark mode'"
-        >
-          <svg x-cloak x-show="!isDark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="h-5 w-5">
-            <path d="M21 12.8A8.5 8.5 0 1 1 11.2 3 7 7 0 0 0 21 12.8Z" />
-          </svg>
-          <svg x-cloak x-show="isDark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="h-5 w-5">
-            <path d="M12 3v2" />
-            <path d="M12 19v2" />
-            <path d="M5 12H3" />
-            <path d="M21 12h-2" />
-            <path d="m6.2 6.2-1.4-1.4" />
-            <path d="m19.2 19.2-1.4-1.4" />
-            <path d="m17.8 6.2 1.4-1.4" />
-            <path d="m4.8 19.2 1.4-1.4" />
-            <circle cx="12" cy="12" r="4" />
-          </svg>
-          <span class="sr-only">Toggle theme</span>
-        </button>
-      </div>
-    </div>
-    </form>
-
-    <!--auto scoll down-->
-    <script>
-    document.body.addEventListener("htmx:afterSwap", function (event) {
-            if (event.detail.target.id === "response") {
-                window.scrollTo({
-                    top: document.body.scrollHeight,
-                    behavior: "smooth"
-                });
-            }
-        });
-    </script>
-
-    
-  </body>
-</html>
+  <div id="response"></div>
+  <div class="mx-auto p-6"></div>
+{% endblock %}

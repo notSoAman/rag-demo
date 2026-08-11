@@ -1,0 +1,62 @@
+<aside
+  class="shrink-0 overflow-hidden border-r border-[var(--border)] bg-[var(--surface)] transition-[width] duration-200 ease-in-out"
+  :class="sidebarOpen ? 'w-64' : 'w-0'"
+>
+  <div class="flex h-full w-64 flex-col">
+
+    {% if user.is_authenticated %}
+
+      <div class="flex h-16 shrink-0 items-center px-4">
+        <span class="font-semibold whitespace-nowrap">
+          Chats
+        </span>
+      </div>
+
+      <div class="shrink-0 px-3">
+        <a
+          href="{% url 'index' %}"
+          class="flex items-center gap-3 rounded-lg px-3 py-2 hover:bg-[var(--surface-muted)]"
+          aria-label="New Chat"
+        >
+          <span class="text-xl">+</span>
+          <span class="whitespace-nowrap">New Chat</span>
+        </a>
+      </div>
+
+      <div class="mt-5 min-h-0 flex-1 overflow-y-auto px-3">
+        <h2 class="mb-2 px-3 text-xs font-semibold uppercase opacity-60">
+          Your Chats
+        </h2>
+
+        <div class="space-y-1">
+          {% for chat_item in chats %}
+            <a
+              href="{% url 'chat' chat_item.id %}"
+              class="block truncate rounded-lg px-3 py-2 text-sm hover:bg-[var(--surface-muted)]"
+            >
+              {{ chat_item.title }}
+            </a>
+          {% empty %}
+            <p class="px-3 py-2 text-sm opacity-60">
+              No conversations yet.
+            </p>
+          {% endfor %}
+        </div>
+      </div>
+
+    {% else %}
+
+      <div class="mt-5 px-4 text-sm">
+        <p class="mb-3 opacity-70">
+          Log in to save your conversations.
+        </p>
+
+        <a href="{% url 'login' %}" class="text-[var(--accent)]">
+          Log in
+        </a>
+      </div>
+
+    {% endif %}
+
+  </div>
+</aside>

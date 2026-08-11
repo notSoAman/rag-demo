@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {% for message in messages %}
+    {% include "partials/answer.html" with question=message.question answer=message.answer_html %}
+  {% empty %}
+    <p class="text-muted-foreground">No messages yet.</p>
+  {% endfor %}
+
+  <div id="response"></div>
+  <div class="mx-auto p-6"></div>
+{% endblock %}
+
+{% block chat_id_value %}{{ chat.id }}{% endblock %}
