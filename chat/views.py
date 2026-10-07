@@ -58,7 +58,10 @@ def ask(request, chat_id=None):
             new_chat = True
 
     # Generate answer
-    answer = generate_answer(question)
+    try:
+        answer = generate_answer(question)
+    except Exception as e:
+        answer = f"⚠️ **Error generating response**: {str(e)}\n\nPlease try again or check your OpenRouter API key/model configuration."
 
     # Save message
     if chat is not None:

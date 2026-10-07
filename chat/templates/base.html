@@ -110,6 +110,8 @@
           x-data="{ loading: false }"
           @htmx:before-request.window="loading = true"
           @htmx:after-request.window="loading = false"
+          @htmx:response-error.window="loading = false; alert('Request failed: Please check the server logs.')"
+          @htmx:send-error.window="loading = false; alert('Network error: Unable to connect to server.')"
           class="shrink-0 px-4 py-4"
         >
           {% csrf_token %}

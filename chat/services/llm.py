@@ -177,21 +177,36 @@ explicitly explain the difference rather than merging them into
 one answer.
 """
 
-    completion = client.chat.completions.create(
-        model="poolside/laguna-xs-2.1:free",
-        messages=[
-            {
-                "role": "system",
-                "content": system_prompt,
-            },
-            {
-                "role": "user",
-                "content": user_prompt,
-            },
-        ],
-    )
+    models_to_try = [
+        getenv("OPENROUTER_MODEL", "poolside/laguna-xs-2.1:free"),
+        "poolside/laguna-s-2.1:free",
+        "liquid/lfm-2.5-2.6b:free",
+        "apodex/apodex-1.1-mini:free",
+    ]
 
-    return completion.choices[0].message.content
+    last_error = None
+    for model_name in models_to_try:
+        try:
+            completion = client.chat.completions.create(
+                model=model_name,
+                messages=[
+                    {
+                        "role": "system",
+                        "content": system_prompt,
+                    },
+                    {
+                        "role": "user",
+                        "content": user_prompt,
+                    },
+                ],
+                timeout=35,
+            )
+            return completion.choices[0].message.content
+        except Exception as e:
+            last_error = e
+            continue
+
+    raise RuntimeError(f"Unable to generate answer from OpenRouter: {last_error}")
 
 
 if __name__ == "__main__":
