@@ -4,6 +4,10 @@ import re
 from functools import lru_cache
 from typing import Any
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
 os.environ.setdefault("HF_HUB_DISABLE_PROGRESS_BARS", "1")
 
 import faiss
@@ -20,8 +24,8 @@ from openai import OpenAI
 HF_REPO_ID = "notSoAman/rag-demo-knowledge"
 HF_REPO_TYPE = "dataset"
 
-# Only required if the HF dataset is private.
-HF_TOKEN = os.getenv("HF_TOKEN")
+# Only required if the HF dataset is private or for higher rate limits.
+HF_TOKEN = os.getenv("HF_TOKEN") or None
 
 # IMPORTANT:
 # The FAISS index must have been built with this SAME embedding
